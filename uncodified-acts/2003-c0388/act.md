@@ -1,0 +1,7 @@
+# 2003 Acts of Assembly, c. 388. Property conveyance; National Guard Armory.
+CHAPTER 388
+An Act to authorize the Commonwealth to convey certain property in the Town of Richlands.
+[S 1180]
+Approved March 16, 2003
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Commonwealth of Virginia is hereby authorized to convey by gift, with the approval of the Governor and in a form approved by the Attorney General, to the Town of Richlands, the organizational maintenance shop (OMS) and the land within the fenced-in area around the OMS located at the former National Guard Armory building in the Town of Richlands, such property identified as Parcel "B" and those portions of the adjacent parcel and Parcel "D" that are within the chain link fence that surrounds the motor pool as shown on the "Plat of Survey of the Richlands National Guard Armory Properties and the adjoining properties of the Town of Richlands, showing various exchanges of Parcels A, B, C, & D," by Andrew W. Cecil, Land Surveyor, dated June 8, 1990, revised June 14, 1991, (recorded in the Clerk's Office of Tazewell County Circuit Court, Virginia in DB 631 PG 858, PB 32 PG 22, and PC 6723). The appropriate officials of the Commonwealth are hereby authorized to prepare, execute, and deliver such deed and other documents as may be necessary to accomplish such conveyance. The Town of Richlands shall pay all costs and expenses incurred in the transfer, including but not limited to environmental costs.
