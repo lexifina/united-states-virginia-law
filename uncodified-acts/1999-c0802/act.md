@@ -1,0 +1,11 @@
+# 1999 Acts of Assembly, c. 802. Assessments of real property in Arlington County.
+CHAPTER 802
+An Act to amend and reenact § 4 of Chapter 230 of the Acts of Assembly of 1950, as amended by Chapter 211 of the Acts of Assembly of 1973, relating to assessments of real property in certain counties.
+[S 938]
+Approved March 29, 1999
+Be it enacted by the General Assembly of Virginia:
+1. That § 4 of Chapter 230 of the Acts of Assembly of 1950, as amended by Chapter 211 of the Acts of Assembly of 1973, is amended and reenacted as follows:
+§ 4. When such assessment has finally been established, the amount thereof, a brief description of the property assessed, and the name of the owner of record thereof, shall be certified by the governing body to the treasurer of the county, who shall collect the same and be accountable therefor, as in the case of other county taxes; except, that the governing body may provide for the postponement of the payment of such assessment by property owners meeting certain conditions until the sale of the property or the death of the last eligible owner. Eligibility for postponement shall be subject to the following conditions:
+(1) The head of the household shall not be less than sixty-five years of age;
+(2) The total combined income of the owner, his spouse, and relatives living in the household from all sources during the year preceding the year in which the assessment is made shall not exceed seventy-five hundred dollars; provided, that the governing body may specify lower income figures;
+(3) The net combined financial worth, including equitable interests, as of the thirty-first day of December of the year immediately preceding the year in which the assessment is made shall not exceed twenty thousand dollars; provided, that the governing body may specify lower net worth figures. Upon default in the payment of such amount, or any installment thereof, the land shall not be sold as in the case of general land taxes which have become delinquent, but in lieu thereof the treasurer may institute, in his own name, appropriate proceedings to enforce the payment thereof. From the date that the assessment has been certified to the treasurer, such amount shall be a lien upon the property thereby affected, which lien shall have priority over all other liens except that of county taxes regularly assessed.
