@@ -1,0 +1,14 @@
+# 2003 Acts of Assembly, c. 958. Constitutional amendment (first resolution); restoration civil rights.
+CHAPTER 958
+HOUSE JOINT RESOLUTION NO. 635
+Proposing an amendment to Section 1 of Article II of the Constitution of Virginia, relating to the qualifications of voters.
+Agreed to by the House of Delegates, February 18, 2003
+Agreed to by the Senate, February 14, 2003
+RESOLVED by the House of Delegates, the Senate concurring, a majority of the members elected to each house agreeing, That the following amendment to the Constitution of Virginia be, and the same is, proposed and referred to the General Assembly at its first regular session held after the next general election of members of the House of Delegates for its concurrence in conformity with the provisions of Section 1 of Article XII of the Constitution of Virginia, namely:
+Amend Section 1 of Article II of the Constitution of Virginia as follows:
+ARTICLE II
+FRANCHISE AND OFFICERS
+Section 1. Qualifications of voters.
+In elections by the people, the qualifications of voters shall be as follows: Each voter shall be a citizen of the United States, shall be eighteen years of age, shall fulfill the residence requirements set forth in this section, and shall be registered to vote pursuant to this article. No person who has been convicted of a felony shall be qualified to vote unless his civil rights have been restored by the Governor or other appropriate authority. In addition, the General Assembly may provide by general law for the restoration of civil rights to persons who have been convicted of nonviolent felonies and who fulfill the conditions prescribed by such law. As prescribed by law, no person adjudicated to be mentally incompetent shall be qualified to vote until his competency has been reestablished.
+The residence requirements shall be that each voter shall be a resident of the Commonwealth and of the precinct where he votes. Residence, for all purposes of qualification to vote, requires both domicile and a place of abode. The General Assembly may provide for persons who are employed overseas, and their spouses and dependents residing with them, and who are qualified to vote except for relinquishing their place of abode in the Commonwealth while overseas, to vote in the Commonwealth subject to conditions and time limits defined by law. The General Assembly may provide for persons who are qualified to vote except for having moved their residence from one precinct to another within the Commonwealth to continue to vote in a former precinct subject to conditions and time limits defined by law. The General Assembly may also provide, in elections for President and Vice President of the United States, alternatives to registration for new residents of the Commonwealth.
+Any person who will be qualified with respect to age to vote at the next general election shall be permitted to register in advance and also to vote in any intervening primary or special election.
