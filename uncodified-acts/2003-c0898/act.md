@@ -1,0 +1,15 @@
+# 2003 Acts of Assembly, c. 898. Interstate Route 73.
+CHAPTER 898
+An Act to amend and reenact Chapter 426 of the Acts of Assembly of 2002, relating to establishment of a pilot program to provide for early acquisition of certain property in connection with the construction of Interstate Route 73 in Virginia.
+[H 2066]
+Approved March 22, 2003
+Be it enacted by the General Assembly of Virginia:
+1. That Chapter 426 of the Acts of Assembly of 2002 is amended and reenacted as follows:
+Whereas, the corridor through which Interstate Route 73 will be constructed in Virginia was designated by the Commonwealth Transportation Board in July of 2001; and
+Whereas, construction of this highway through this corridor will affect the Counties of Roanoke, Franklin, and Henry and the Cities of Roanoke and Martinsville; and
+Whereas, the action of the Commonwealth Transportation Board in designating this corridor effectively limits the ability of property owners in the corridor to sell or develop their property; and
+Whereas, the time required for actual acquisition of right-of-way for this project by the Virginia Department of Transportation under normal procedures and standard regulations is impossible to determine under current circumstances; now, therefore,
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The Virginia Department of Transportation shall promptly and expeditiously proceed to early acquisition of rights-of-way needed in connection with the construction of Interstate Route 73 in Virginia from all willing sellers, where the impact on the property of those willing sellers can be determined. Where the property owner and the Department are unable to agree on terms for the acquisition of the property, the owner and the Department may elect to enter into nonbinding mediation. If a final agreement is not reached, nothing in this act shall be construed to authorize the Commonwealth Transportation Commissioner to acquire the property through the use of the power of eminent domain as provided in Article 7 (§33.1-89 et seq.) of Chapter 1 of Title 33.1 of the Code of Virginia. The Department shall obtain from the Federal Highway Administration such approvals and permits as may be necessary to carry out its duties and responsibilities under this act and work with the Congress of the United States, the Federal Highway Administration, and other affected federal governmental entities to obtain funding necessary to carry out the provisions of this act.
+Acquisition of property under this act shall be carried out using such federal funds as may be designated for that purpose. Prior to any purchase or acquisition of property under this act, the Department shall assess the impact of such acquisition on the federal Record of Decision for the construction of Interstate Route 73 in Virginia.
+In carrying out the pilot project provided for in this act, the Department shall proceed in accordance with all applicable federal laws.
