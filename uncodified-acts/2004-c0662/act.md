@@ -1,0 +1,25 @@
+# 2004 Acts of Assembly, c. 662. Virginia-North Carolina Interstate High-Speed Rail Compact; created.
+CHAPTER 662
+An Act to establish the Virginia-North Carolina Interstate High-Speed Rail Compact.
+[S 126]
+Approved April 12, 2004
+Be it enacted by the General Assembly of Virginia:
+1. § 1. Short title.
+This act shall be known and may be cited as the Virginia-North Carolina Interstate High-Speed Rail Compact.
+§ 2. Compact established.
+Pursuant to the invitation in 49 U.S.C. § 24101 Interstate Compacts, in which the United States Congress grants consent to states with an interest in a specific form, route, or corridor of intercity passenger rail service (including high-speed rail service) to enter into interstate compacts, there is hereby established the Virginia-North Carolina Interstate High-Speed Rail Compact.
+§ 3. Agreement.
+The Commonwealth of Virginia and the State of North Carolina agree, upon adoption of this compact:
+1. To study, develop, and promote a plan for the design, construction, financing, and operation of interstate high-speed rail service through and between points in the Commonwealth of Virginia and the State of North Carolina and adjacent states;
+2. To coordinate efforts to establish high-speed rail service at the federal, state, and local governmental levels;
+3. To advocate for federal funding to support the establishment of high-speed interstate rail service within and through Virginia and North Carolina and to receive federal funds made available for rail development; and
+4. To provide funding and resources to the Virginia-North Carolina High-Speed Rail Compact Commission from funds that are or may become available and are appropriated for that purpose.
+§ 4. Commission established; appointment and terms of members; chairman; reports; Commission funds; staff.
+The Virginia-North Carolina High-Speed Rail Compact Commission is hereby established as a regional instrumentality and a common agency of each signatory party, empowered in a manner hereinafter set forth to carry out the purposes of the Compact.
+The Virginia members of the Commission shall be appointed as follows: three members of the House of Delegates appointed by the Speaker of the House of Delegates, and two members of the Senate appointed by the Senate Committee on Rules. The North Carolina members of the Commission shall be composed of five members as follows: two members of the Senate appointed by the General Assembly upon recommendation of the President Pro Tempore of the Senate, two members of the House of Representatives appointed by the General Assembly upon recommendation of the Speaker of the House of Representatives, and one appointed by the Governor.
+The chairman of the Commission shall be chosen by the members of the Commission from among its membership for a term of one year, and shall alternate between the member states.
+The Commission shall meet at least twice each year, at least once in Virginia and once in North Carolina, and shall issue a report of its activities each year.
+The Commission may utilize, for its operation and expenses, funds appropriated to it therefor by the legislatures of Virginia and North Carolina or received from federal sources.
+Virginia members of the Commission shall receive compensation and reimbursement for the necessary and actual expenses as provided in the general appropriations act; North Carolina members of the Commission shall receive per diem, subsistence and travel allowances in accordance with applicable statutes of North Carolina, as appropriate.
+Primary staff to the Commission shall be provided by the Virginia Department of Rail and Public Transportation and the North Carolina Department of Transportation.
+2. This act shall become effective upon its enactment by the Commonwealth of Virginia and the State of North Carolina, and in accordance with federal law authorizing the compact.
