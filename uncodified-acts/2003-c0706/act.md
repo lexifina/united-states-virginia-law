@@ -1,0 +1,19 @@
+# 2003 Acts of Assembly, c. 706. Notification of reduction in force for teachers.
+CHAPTER 706
+An Act to amend and reenact § 22.1-304 of the Code of Virginia and to repeal the third enactment of Chapter 714 of the Acts of Assembly of 2002, relating to notification of reduction in force for teachers.
+[H 2254]
+Approved March 19, 2003
+Be it enacted by the General Assembly of Virginia:
+1. That § 22.1-304 of the Code of Virginia is amended and reenacted as follows:
+§ 22.1-304. Reemployment of teacher who has not achieved continuing contract status; effect of continuing contract; resignation of teacher; reduction in number of teachers.
+A. If a teacher who has not achieved continuing contract status receives notice of reemployment, he must accept or reject in writing within 15 days of receipt of such notice. Except as provided in § 22.1-305 and except in the case of a reduction in force as provided in subsection F, written notice of nonrenewal of the contract must be given by the school board on or before April 15 of each year. If no such notice is given a teacher by April 15, the teacher shall be entitled to a contract for the ensuing year in accordance with local salary stipulations including increments.
+B. Teachers employed after completing the probationary period shall be entitled to continuing contracts during good behavior and competent service and prior to the age at which they are eligible or required to retire except as hereinafter provided. Written notice of noncontinuation of the contract by either party must be given by April 15 of each year; otherwise the contract continues in effect for the ensuing year in conformity with local salary stipulations including increments.
+C. A teacher may resign after April 15 of any school year with the approval of the local school board or, upon authorization by the school board, with the approval of the division superintendent. The teacher shall request release from contract at least two weeks in advance of intended date of resignation. Such request shall be in writing and shall set forth the cause of resignation.
+If the division superintendent has been authorized to approve resignations, a teacher may, within one week, withdraw a request to resign. Upon the expiration of the one-week period, the division superintendent shall notify the school board of his decision to accept or reject the resignation. The school board, within two weeks, may reverse the decision of the division superintendent.
+In the event that the board or the division superintendent declines to grant the request for release on the grounds of insufficient or unjustifiable cause, and the teacher breaches such contract, disciplinary action, which may include revocation of the teacher's license, may be taken pursuant to regulations prescribed by the Board of Education.
+D. As soon after April 15 as the school budget shall have been approved by the appropriating body, the school board shall furnish each teacher a statement confirming continuation of employment, setting forth assignment and salary.
+Nothing in the continuing contract shall be construed to authorize the school board to contract for any financial obligation beyond the period for which funds have been made available with which to meet such obligation.
+E. A school board may reduce the number of teachers, whether or not such teachers have reached continuing contract status, because of decrease in enrollment or abolition of particular subjects.
+F. Within two weeks of the approval of the school budget by the appropriating body, but no later than June 1, school boards shall notify all teachers who may be subject to a reduction in force due to a decrease in the school board's budget as approved by the appropriating body.
+2. That the third enactment of Chapter 714 of the Acts of Assembly of 2002 is repealed.
+3. That an emergency exists and this act is in force from its passage.
