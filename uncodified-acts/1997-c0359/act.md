@@ -1,0 +1,10 @@
+# 1997 Acts of Assembly, c. 359. Medical assistance services.
+CHAPTER 359
+An Act relating to certain waivered services provided by the Department of Medical Assistance Services.
+[S 1058]
+Approved March 15, 1997
+Be it enacted by the General Assembly of Virginia:
+1. § 1. Request for revision of certain waiver.
+A. The Department of Medical Assistance Services shall request, with all due haste, that the Health Care Finance Administration grant a revision to the existing waiver known as the Ventilator Dependency Program or Technology Waiver. The request shall include mechanisms, which are cost effective, to expand eligibility for such waivered services for individuals whose families have been and are caring for them in their homes, under the following conditions: (i) such individuals are eligible for medical assistance services; (ii) such individuals would have been eligible for services through the waiver for the ventilator dependency program when under the age of twenty-one, if such individual had not been covered, as a dependent, under a policy of insurance or other health care benefit plan; and (iii) such individual would be eligible for home health services under the waiver at the time of application, if he had been institutionalized for a period of ninety days or more.
+Insofar as possible within federal requirements for waivered services, the waiver-revision request shall not require that adult recipients who have not been receiving such waivered services while under the age of twenty-one be institutionalized to be eligible. The waiver-revision request shall take into consideration the cost savings to the Commonwealth of the family caregiving, including the length and intensity of such caregiving, and the extent to which continued family caregiving, without significant assistance in the home, places other family members at risk of institutionalization or deteriorating health conditions.
+B. The Department of Medical Assistance Services shall report to the Senate Committee on Education and Health and the House Committee on Health, Welfare, and Institutions by November 1, 1997, on such waiver-revision request.
