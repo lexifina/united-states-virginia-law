@@ -1,0 +1,8 @@
+# 1995 Acts of Assembly, c. 147. Daniel Boone Heritage Trail & Trail of Lonesome Pine.
+CHAPTER 147
+An Act to amend Chapter 84 of the Acts of Assembly of 1993 by adding a section numbered 2, relating to the Trail of the Lonesome Pine and the Daniel Boone Heritage Trail.
+[H 2070]
+Approved March 9, 1995
+Be it enacted by the General Assembly of Virginia:
+1. That Chapter 84 of the Acts of Assembly of 1993 is amended by adding a section numbered 2 as follows:
+§ 2. Notwithstanding § 1 of this act, those portions of highway that comprise the Trail of the Lonesome Pine and the Daniel Boone Heritage Trail as designated in § 1 of this act, that traverse or are adjacent to real property zoned commercial or industrial under authority of state law or traverse or are adjacent to real property defined by the Commonwealth Transportation Board to be unzoned commercial areas or unzoned industrial areas as determined from actual land use, shall not be Virginia byways. Property owners may use and develop their real property within such commercial and industrial areas for the same commercial and industrial uses as prior to the designation as parts of the trails unless the local governmental authority has changed the zoning as to such uses, or does not control land use by zoning and the land use is discontinued which created the unzoned commercial and industrial areas as defined by the Commonwealth Transportation Board. Local governmental bodies shall encourage the use of such commercial and industrial areas in the manner that will help to stimulate and encourage tourism in the region and will promote the economic well-being of the region.
