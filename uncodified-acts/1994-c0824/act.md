@@ -1,0 +1,100 @@
+# 1994 Acts of Assembly, c. 824. Higher Educational Institutions Bond Act of 1994.
+CHAPTER 824
+An Act to authorize the issuance of bonds subject to the provisions of Section 9 (c) of Article X of the Constitution of Virginia in an amount not to exceed $166,460,300, plus amounts needed to fund issuance costs, reserve funds and other financing expenses, for the purpose of providing funds with any other available funds for paying the costs of acquiring, constructing and equipping revenue-producing capital projects at institutions of higher learning of the Commonwealth; to authorize the Treasury Board, by and with the consent of the Governor, to fix the details of such bonds and to provide for the sale of such bonds at public or private sale; to provide for the pledge of the net revenues of such capital projects and the full faith, credit and taxing power of the Commonwealth for the payment of the principal of and the interest on such bonds; to provide that such bonds shall be exempt from all taxation by the Commonwealth and any political subdivision thereof; and to repeal Chapters 507 and 515 of the Acts of Assembly of 1993.
+[S 80]
+Approved April 20, 1994
+Whereas, Section 9 (c) of Article X of the Constitution of Virginia provides that the General Assembly may authorize the creation of debt secured by a pledge of net revenues derived from rates, fees or other charges and the full faith and credit of the Commonwealth of Virginia, provided that such debt is created for specific revenue-producing capital projects, including the enlargement or improvement thereof, at, among others, institutions of higher learning of the Commonwealth; and
+Whereas, in accordance with the provisions of Section 9 (c) of Article X of the Constitution of Virginia, the Governor has certified in writing, filed with the Auditor of Public Accounts, his opinion that the anticipated net revenues of each of the capital projects set forth below to be pledged to the payment of the principal of, and the interest on, that portion of such debt issued for each such project will be sufficient to meet such payments as the same become due and to provide such reserves as may be required by law and that each of the capital projects complies with the requirements of Section 9 (c) of Article X of the Constitution of Virginia; now, therefore,
+Be it enacted by the General Assembly of Virginia:
+1. § 1. This act shall be known and may be cited as the "Commonwealth of Virginia Higher Educational Institutions Bond Act of 1994."
+§ 2. The Treasury Board is hereby authorized, by and with the consent of the Governor, to sell and issue, subject to the provisions of Section 9 (c) of Article X of the Constitution of Virginia, at one time or from time to time, bonds of the Commonwealth, to be designated "Commonwealth of Virginia Higher Educational Institutions Bonds, Series ....." in an aggregate principal amount not exceeding $166,460,300, plus amounts needed to fund issuance costs, reserve funds and other financing expenses. The proceeds of such bonds, excluding amounts needed to fund issuance costs, reserve funds and other financing expenses, shall be used exclusively for the purpose of providing funds, with any other available funds, for paying the costs of acquiring, constructing, renovating, enlarging, improving and equipping revenue-producing capital projects at institutions of higher learning of the Commonwealth as follows:
+                     Project                        Project
+   Institution       Number            Debt         Name
+University of                                       Central Grounds
+   Virginia           14638       $    182,600      Parking Facility
+University of                                       Newcomb Hall
+   Virginia           15400         11,997,000      Expansion
+University of
+   Virginia           15472          6,000,000      Student Housing
+University of                                       Student Housing-
+   Virginia                                         Clinch Valley
+                      15473          2,000,000      College
+Virginia Polytechnic                                Major Repairs
+   Institute          14303          1,078,900      Dorm/Dining System
+Virginia Polytechnic                                Parking Auxiliary
+   Institute          14815          7,484,300      Projects
+Virginia Polytechnic
+   Institute          15524         15,075,000      Residence Hall
+Virginia Polytechnic
+   Institute          15525          5,000,000      Dining Hall
+Virginia Commonwealth                               VCU/MCV Visitor's
+   University         15160          2,838,300      Parking Deck
+Virginia Commonwealth                               Academic Parking
+   University         15523         11,587,000      Deck, Phase II
+George Mason
+   University         14536         17,500,000      Residence Hall V
+George Mason
+   University         14657            684,000      Parking Structure
+George Mason
+   University         14653         17,680,900      Residence Hall VI
+George Mason                                        Telecommunications
+   University         15037          3,825,000      System
+George Mason                                        University Center
+   University         14647          4,169,500      and Library
+George Mason                                        Arlington-Metro,
+   University         15345          2,000,000      Phase I (Parking)
+George Mason
+   University         15533          3,400,000      Housing Renovations
+George Mason                                        Prince William
+   University                                       Site Development
+                      14814          2,200,000      (Parking)
+College of William                                  Graduate
+   and Mary           14417            409,100      Dormitory
+College of William                                  Dormitory
+   and Mary           14416            224,500      Renovation
+College of William
+   and Mary           14735          1,020,400      University Center
+College of William                                  Dormitory Reno-
+   and Mary           15541          3,915,000      vation, Phase II
+College of William                                  Underground
+   and Mary           14736          3,574,000      Utility System
+College of William                                  College
+   and Mary                                         Bookstore
+                      15542          2,881,000      Expansion
+James Madison                                       Dining Facility
+   University         15361          2,393,100      Renovations
+James Madison                                       Primary Elec-
+   University         14614            891,800      trical Upgrade
+James Madison
+   University         15485          6,221,000      Student Services
+James Madison                                       Phase II Parking
+   University         15620          3,214,000      Structure
+James Madison
+   University         15619         11,771,000      Residence Hall
+Longwood College      15502          8,150,000      New Dining Hall
+Virginia State
+   University         15337          2,621,000      Langston Hall
+Christopher Newport                                 Dormitory/
+   University         14725          2,771,900      Dining Project
+Virginia Community                                  Tidewater
+   College System                                   Community College
+                                                    500 Space Parking
+                                                    Lot, Portsmouth
+                      14446          1,700,000      Campus
+   TOTAL                          $166,460,300
+§ 3. The proceeds of the bonds and any bond anticipation notes, except the proceeds of bonds the issuance of which has been anticipated by bond anticipation notes, shall be deposited in a special capital outlay fund in the state treasury and shall be disbursed by the State Treasurer for paying all or any part of the cost of the acquisition, construction, renovation, enlargement, improvement and equipping of said capital projects in the amounts provided above, plus issuance costs, reserve funds and other financing expenses.
+§ 4. The bonds shall be dated, shall bear interest at such rate or rates, shall mature at such time or times not exceeding thirty years from their date or dates, and may be made redeemable before their maturity or maturities at such price or prices, all as may be determined by the Treasury Board, by and with the consent of the Governor. The principal of, premium, if any, and the interest on the bonds shall be payable in lawful money of the United States of America. The Treasury Board shall determine the form of the bonds and shall fix the denomination or denominations of the bonds and the place or places of payment of principal, premium, if any, and interest, which may be at the Office of the State Treasurer or at any bank or trust company within or without the Commonwealth. The bonds may bear interest at such rate or rates subject to inclusion in gross income for federal income tax purposes as may be determined by the Treasury Board, by and with the consent of the Governor.
+The bonds may be in registered form or as may be required by federal law in effect on the date of issuance. The Treasury Board may contract for services of such registrars, transfer agents, or other authenticating agents as it deems appropriate to maintain a record of the persons entitled to the bonds and the principal, premium, if any, and interest due thereon. Bonds issued in registered form may be issued under a system of book entry for recording the ownership and transfer of ownership of rights to receive payments of principal of, premium, if any, and interest on the bonds. The bonds shall be deemed to be negotiable instruments under the laws of the Commonwealth.
+The Treasury Board may sell the bonds in such manner, at public or private sale, and for such price as it may determine, by and with the consent of the Governor, to be in the best interest of the Commonwealth. The bonds may be sold at par, at a premium or at a discount.
+Anything in this act to the contrary notwithstanding, the bonds authorized hereby may be issued at one time or in part may be issued and sold at the same time with other bonds of the Commonwealth authorized pursuant to Section 9 (c) of Article X of the Constitution of Virginia, either as separate issues, as a combined issue designated "Commonwealth of Virginia, Article X, Section 9 (c) Project Bonds, Series .....," or as a combination of both.
+The Treasury Board shall be authorized to supplement the special capital outlay fund in the state treasury created pursuant to § 3 hereof from excess moneys in any debt service, sinking or comparable fund established pursuant to previous issues of higher educational institutions bonds so long as such excess fund moneys are not otherwise restricted by law or by express contract with the holders of such prior bonds.
+§ 5. The bonds shall be signed on behalf of the Commonwealth by the Governor, or shall bear his facsimile signature, and by the State Treasurer, or shall bear his facsimile signature, and shall bear the lesser seal of the Commonwealth or a facsimile thereof. If the bonds bear the facsimile signature of the State Treasurer, the bonds shall be signed by such administrative assistant as the State Treasurer shall determine, or by such registrar or paying agent as may be designated to sign such bonds by the Treasury Board. If any officer whose signature or facsimile signature appears on any bonds ceases to be such officer before the delivery of such bonds, such signature or facsimile signature shall nevertheless be valid and sufficient for all purposes the same as if he had remained in office until such delivery, and any bond may bear the facsimile signature of, or may be signed by, such persons as at the actual time of the execution of such bond are the proper officers to sign such bond although, at the date of such bond, such persons may not have been such officers.
+§ 6. All expenses incurred under this act shall be paid from the proceeds of the bonds, from payments made by the institutions for which the capital projects were acquired, constructed, renovated, enlarged, improved or equipped, or from any other available funds as the Treasury Board shall determine, including excess moneys in any debt service, sinking or comparable fund created in connection with prior issues of higher educational institutions bonds to the extent not otherwise restricted by law or by contract with the holders of such prior bonds.
+§ 7. The Treasury Board is hereby authorized, by and with the consent of the Governor, to borrow money in anticipation of the issuance of the bonds, if the Treasury Board and the Governor deem it advisable to postpone the issuance of the bonds. Proceeds of the bonds shall be used to pay any such bond anticipation notes. Funds provided by the General Assembly, or from any other source, for the payment of the principal of, premium, if any, and the interest on the bonds shall be used in paying the principal of, premium, if any, and the interest on any bond anticipation notes. Such bond anticipation notes shall be dated, shall mature at such time or times not exceeding five years from their dates, and may be redeemable before their maturity or maturities at such price or prices, all as may be determined by the Treasury Board, by and with the consent of the Governor. Such bond anticipation notes shall be in such form, shall be executed in such manner, shall bear interest at such rate or rates, either at fixed rates or at rates established by formula or other method, and may contain such other provisions, all as the Treasury Board or the State Treasurer, when authorized by the Treasury Board, may determine. Such bond anticipation notes may bear interest subject to inclusion in gross income for federal income tax purposes as may be determined by the Treasury Board, by and with the consent of the Governor.
+§ 8. Pending the application of the proceeds of the bonds and any bond anticipation notes to the purpose for which they have been authorized, all or any part of such proceeds may be invested by the State Treasurer in securities that are legal investments under the laws of the Commonwealth for public funds. Such investments shall be deemed at all times to be a part of such proceeds, and the interest thereon and any profit realized from such investments shall be credited to such proceeds and any losses shall be deducted therefrom.
+§ 9. Each institution of higher learning mentioned above is hereby authorized (i) to fix, revise, charge and collect a building fee or other comprehensive student fee and other rates, fees and charges for or in connection with the use, occupation and services of each capital project mentioned above or the system of which such capital project is a part and (ii) to pledge such rates, fees and charges remaining after payment of (a) the expenses of operating the project or system, as the case may be and (b) the expenses related to all other activities funded by the building fee or other comprehensive student fee, if applicable, to the payment of the principal of, premium, if any, and interest on the portion of the bonds issued for such capital project. Each such institution is further authorized to create debt service and sinking funds for the payments of the principal of, premium, if any, and interest on the bonds and other reserves required by any agency of the United States of America purchasing the bonds or any portion thereof.
+§ 10. The net revenues of the capital projects set forth above and the full faith, credit and taxing power of the Commonwealth are hereby irrevocably pledged for the payment of the principal of and the interest on the bonds and the bond anticipation notes herein authorized. In the event the net revenues pledged hereby are insufficient in any fiscal year for the timely payment of the principal of, premium, if any, and the interest on the bonds or bond anticipation notes herein authorized, the General Assembly shall appropriate a sum sufficient therefor or the Governor shall direct payment therefor from the general fund revenues of the Commonwealth.
+§ 11. The interest income on the bonds and bond anticipation notes issued under the provisions of this act shall at all times be exempt from taxation by the Commonwealth and by any county, city or town, or other political subdivision thereof.
+§ 12. The bonds issued under the provisions of this act may be refunded by refunding bonds authorized and issued in accordance with the provisions of Chapters 265 and 408 of the 1992 Acts of Assembly.
+2. That Chapters 507 and 515 of the Acts of Assembly of 1993 are repealed, provided that such repeal shall not operate to invalidate, alter the security, or prohibit the refunding of bonds heretofore issued pursuant to such act.
+3. That an emergency exists and this act is in force from its passage.
