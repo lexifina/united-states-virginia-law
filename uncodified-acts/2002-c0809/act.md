@@ -1,0 +1,12 @@
+# 2002 Acts of Assembly, c. 809. Occoneechee State Park.
+CHAPTER 809
+An Act authorizing the Department of Conservation and Recreation to amend a lease by and between the Secretary of the Army, Lessor, and the Commonwealth of Virginia, Department of Conservation and Recreation, Lessee, for Occoneechee State Park in Mecklenburg County.
+[S 249]
+Approved April 8, 2002
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That, in accordance with and as evidence of General Assembly approval pursuant to §§ 10.1-104 and 10.1-109 of the Code of Virginia, the Department of Conservation and Recreation is hereby authorized to amend on behalf of the Commonwealth, upon terms and conditions the Department deems proper, with approval of the Governor and in a form approved by the Attorney General, a certain lease by and between the Secretary of the Army and the Commonwealth of Virginia, Department of Conservation and Recreation, and to enter into a sublease on behalf of the Commonwealth, upon terms and conditions the Department deems proper, with approval of the Governor and in a form approved by the Attorney General, with any public entity for a portion of Occoneechee State Park in Mecklenburg County.
+§ 2. The purpose of the amendment is to allow certain property currently owned by the federal government and leased by the Commonwealth within Occoneechee State Park, if approved by the federal government, to be used for a recreational facility not operated under the purview of the Department of Conservation and Recreation, if approved by the federal government.
+§ 3. The amendment to the lease shall be subject to (i) the public participation guidelines of the Administrative Process Act (§ 2.2-4000 et seq.) and (ii) inclusion in the master plan for the park.
+§ 4. The sublease shall require approval by the Secretary of the Army.
+§ 5. Any further subletting of the property by the public entity shall be to another public entity and shall be subject to review and approval by the Department, with approval of the Governor and in a form approved by the Attorney General. Upon expiration of the sublease, or when the subleasee no longer wishes to have the property operated under the terms of the sublease, the subleasee shall return the property to the Department in the condition specified by the sublease.
+§ 6. The provisions of this act shall expire on July 1, 2004, unless the amendment has been incorporated into the lease agreement by July 1, 2004.
