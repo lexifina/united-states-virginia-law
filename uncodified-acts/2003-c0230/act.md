@@ -1,0 +1,11 @@
+# 2003 Acts of Assembly, c. 230. Conveyance of easement.
+CHAPTER 230
+An Act to authorize the appropriate officials of the Commonwealth to take actions regarding an alleyway that extends from 8th Street to 9th Street between the Supreme Court of Virginia Building and St. Paul's Episcopal Church in Richmond, Virginia.
+[S 1305]
+Approved March 16, 2003
+Whereas, the Commonwealth is in the process of updating and improving its security plans for the Capitol Square area; and
+Whereas, acquiring title to the alley running between 8th and 9th Streets, separating the Supreme Court of Virginia Building and St. Paul's Episcopal Church in downtown Richmond, is one possible component of such a plan; and
+Whereas, if title to such alley is acquired by the Commonwealth through negotiations with St. Paul's Episcopal Church and the City of Richmond, the Commonwealth intends to grant an easement over such alley to St. Paul's Episcopal Church; and
+Whereas, it is prudent for the General Assembly to grant to the Department of General Services any authority it may need to negotiate such a transaction to enhance the security of buildings in the Capitol Square area; now, therefore,
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The Department of General Services is hereby authorized to negotiate with all necessary parties regarding the security of the alley running between 8th and 9th Streets, separating the Supreme Court of Virginia Building and St. Paul's Episcopal Church, and if determined appropriate, to acquire said alley and to convey to St. Paul's Episcopal Church, located at 9th and Grace Streets, Richmond, Virginia, an easement to the alley to permit vehicles parked in the church's parking garage to enter and exit the parking garage through such alley. This transaction shall be on such terms and conditions as may be negotiated between the parties, with the approval of the Governor and in a form approved by the Attorney General. The appropriate officials of the Commonwealth, including those ordinarily delegated signature authority for such transactions pursuant to § 2.2-1148 of the Code of Virginia, are hereby authorized to prepare, execute, and deliver such deeds and other documents as may be necessary to accomplish such transactions.
