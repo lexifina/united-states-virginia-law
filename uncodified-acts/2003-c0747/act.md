@@ -1,0 +1,13 @@
+# 2003 Acts of Assembly, c. 747. Transferring property of unincorporated area; to board of supervisors.
+CHAPTER 747
+An Act to provide for the transfer of the property, duties, rights, and contractual obligations of trustees of unincorporated areas to the supervisors of the counties in which the areas are situated and dissolving the position of trustee for certain unincorporated areas.
+[H 2807]
+Approved March 19, 2003
+Whereas, in colonial times, various statutes provided for trustees for certain unincorporated areas, commonly called towns, established for governmental purposes such as the oversight of ports and regulation of commerce (see, e.g., 3 Hening's Statutes, page 53 (1691), and 3 Hening's Statutes, page 186 (1699)); and
+Whereas, the Codes of Virginia from 1819 to 1873 recognized the existence of boards of trustees but references to boards of trustees in the Codes of Virginia disappeared thereafter; and
+Whereas, the General Assembly has enacted laws relating to trustees for an unincorporated portion of York County, e.g. Chapter 286 of the Acts of Assembly of 1926, as amended; and
+Whereas, the colonial practice of relying on appointed trustees for limited governmental purposes has been replaced generally by reliance on elected councils for incorporated towns and elected supervisors for counties and the unincorporated areas in counties; and
+Whereas, Article VII, Section 5, of the Constitution of Virginia now requires that the governing bodies of counties, cities, and towns be elected by the people; and
+Whereas, the affairs of local government are best addressed and administered by the people's elected representatives and any unincorporated areas located within a county should be governed by the county's elected governing body; now, therefore,
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The property, duties, rights, and contractual obligations of the trustees of any unincorporated area commonly referred to as a town or township are hereby transferred to the board of supervisors of the county in which the unincorporated area is located. Any such unincorporated area is confirmed to be part of the county in which it is located. Any trustees heretofore appointed to serve as trustees for such an unincorporated area are deemed to have completed their service as trustees on the effective date of this act, and any trusts shall be dissolved thereafter. Any such property transferred to the board of supervisors of the county may be used, sold, leased, or otherwise disposed of in the public interest as the board of supervisors shall determine, consistent with the general laws applicable to counties.
