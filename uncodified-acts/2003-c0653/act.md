@@ -1,0 +1,11 @@
+# 2003 Acts of Assembly, c. 653. Virginia Research and Technology Advisory Commission (VRTAC); plan.
+CHAPTER 653
+An Act to direct the Virginia Research and Technology Advisory Commission, in conjunction with the Secretaries of Technology, Commerce and Trade, and Education, to develop strategies for research and development in the Commonwealth.
+[H 2760]
+Approved March 18, 2003
+Whereas, the Virginia Research and Technology Advisory Commission was established to advise the Governor on appropriate research and technology strategies for the Commonwealth with emphasis on policy recommendations that will enhance the global competitive advantage of both research institutions and technology-based commercial endeavors within the Commonwealth; and
+Whereas, maximizing the amount of basic and applied federal research and development (R&D) and subsequent commercialization of related intellectual property would benefit the research institutions and technology-based commercial endeavors within the Commonwealth and industry-supported R&D at these institutions would provide unique educational opportunities and spur economic development; and
+Whereas, a rigorous strategic planning process should lead to current and accurate information resources that support strategic decision-making and establish criteria to measure success; now, therefore,
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The Virginia Research and Technology Advisory Commission (VRTAC), in conjunction with the Secretaries of Technology, Commerce and Trade, and Education, shall develop strategies for research and development in the Commonwealth. The strategies should consider the areas the federal government will emphasize within the next five years, the Commonwealth's R&D assets and capabilities, the current and future growth industries in the Commonwealth, and the means to strengthen the Commonwealth's position in global research and development competition. The Commission shall provide the strategies to the Governor and the General Assembly by November 30, 2003.
+§ 2. The Innovative Technology Authority, Virginia Economic Development Partnership, and State Council of Higher Education shall provide staff support to the Commission.
