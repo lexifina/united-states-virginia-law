@@ -1,0 +1,14 @@
+# 2000 Acts of Assembly, c. 152. Town of Altavista; election of council.
+CHAPTER 152
+An Act to require certain town mayors and council members to be elected at the time of the November general election.
+[S 580]
+Approved March 23, 2000
+Be it enacted by the General Assembly of Virginia:
+1. § 1. Election of mayor and council for certain towns.
+A. The qualified voters of each town of the Commonwealth whose 1990 population was over 3,680 but less than 3,700 shall elect a mayor, if provided for by charter, and a council, which shall be the governing body thereof, for the terms provided for by charter. Notwithstanding the provisions of § 24.2-222 or any other provision of law, general or special, any election of mayor or council members of such a town shall take place on the Tuesday after the first Monday in November of an even-numbered year, and the persons so elected shall enter upon the duties of their offices on the January 1 succeeding their election and remain in office until their successors have qualified.
+B. In any such town:
+1. Any mayor or council member elected in 1996 for a four-year term shall hold office until his successor has qualified. His successor shall be elected on the Tuesday after the first Monday in November 2000 and, notwithstanding any charter provision to the contrary, shall take office on the January 1 following his election.
+2. Any mayor or council member elected in 1998 for a four-year term shall hold office until his successor has qualified. His successor shall be elected on the Tuesday after the first Monday in November 2002 and, notwithstanding any charter provision to the contrary, shall take office on January 1 following his election.
+C. Notwithstanding the provisions of § 24.2-503, candidates for town mayor or council subject to the provisions of this act shall file their written statements of financial interests and qualification pursuant to §§ 24.2-501 and 24.2-502 not later than 7:30 p.m. on the second Tuesday in June.
+D. Any county voting precinct established pursuant to § 24.2-307 that includes residents of such a town shall be wholly contained within the boundaries of the town. No such voting precinct shall include both such a town or portion thereof and county territory located outside the boundaries of the town.
+2. That an emergency exists and this act is in force from its passage.
