@@ -1,0 +1,9 @@
+# 1997 Acts of Assembly, c. 73. Protection against liability for retaining Trigon stock.
+CHAPTER 73
+An Act to protect local treasurers and public officers against liability for retaining the common stock of Trigon Healthcare.
+[H 1998]
+Approved March 2, 1997
+Be it enacted by the General Assembly of Virginia:
+1. § 1. Notwithstanding any other provision of law to the contrary, in the absence of negligence, malfeasance, misfeasance, or nonfeasance on his part or on the part of his assistants or employees, no treasurer or public officer shall be liable for any loss resulting from retaining the common stock in Trigon Healthcare received as a result of the demutualization of Blue Cross and Blue Shield of Virginia, a mutual company doing business as Trigon Blue Cross Blue Shield, and the issuance of common stock to the holders of policies of insurance with Blue Cross and Blue Shield of Virginia.
+§ 2. The protection against potential liability provided by this act to treasurers and public officers for any loss resulting from retaining the common stock in Trigon Healthcare extends only to the common stock received as a result of the demutualization of Blue Cross and Blue Shield of Virginia, a mutual company doing business as Trigon Blue Cross Blue Shield, retained by treasurers and public officers after the expiration of any initial lockup period.
+§ 3. The protection against potential liability provided by this act shall expire (i) with respect to one-third of the number of shares of such common stock on the first anniversary of the expiration of the initial lockup period, (ii) with respect to an additional one-third of the number of shares on the second anniversary of the expiration of the initial lockup period, and (iii) with respect to all remaining shares on the third anniversary of the expiration of the initial lockup period.
