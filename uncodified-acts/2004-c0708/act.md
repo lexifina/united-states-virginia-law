@@ -1,0 +1,9 @@
+# 2004 Acts of Assembly, c. 708. Health-related data elements; Secretary of Health & Human Resources to create a reference database.
+CHAPTER 708
+An Act to develop a reference database of statewide health-related data; Secretary of Health and Human Resources.
+[S 565]
+Approved April 12, 2004
+Be it enacted by the General Assembly of Virginia:
+1. § 1. A. Secretary of Health and Human Resources to develop a reference database of statewide health-related data elements. In order to facilitate the exchange and use of information between the agencies within the Secretariat of Health and Human Resources, the Secretary of Health and Human Resources shall develop a reference database of statewide health-related data elements. The reference database shall be developed in accordance with the provisions of the Health Insurance Portability and Accountability Act (HIPAA).
+B. In order to develop the reference database, each agency within the Health and Human Resources Secretariat shall submit to the Secretary the following information: (i) a list of the names and a general narrative description of its existing automated systems containing statewide health-related data; (ii) the hardware and software platforms upon which each identified system is running; and (iii) a data dictionary describing the data fields comprising the system, which data dictionary shall include a narrative description of each data field.
+C. The Secretary shall compile the information submitted by each agency into the reference database. Further, the Secretary shall ensure that each agency within the Secretariat uses the database information to the greatest extent possible to improve the overall efficiency and cost-effectiveness of the services rendered by these agencies. The reference database shall be updated by the Secretary as necessary.
