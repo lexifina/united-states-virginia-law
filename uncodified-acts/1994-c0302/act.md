@@ -1,0 +1,12 @@
+# 1994 Acts of Assembly, c. 302. Local tax amnesty.
+CHAPTER 302
+An Act to authorize the City of Richmond tax amnesty program.
+[H 1342]
+Approved April 4, 1994
+1. § 1. City of Richmond tax amnesty program authorized.
+A. The City of Richmond is hereby authorized to establish a tax amnesty program during its 1994-95 fiscal year. The program shall be administered by the director of finance, and any person, individual, corporation, estate, trust, or partnership required to file a personal property or machinery and tools tax return or to pay any local personal property tax, machinery and tools tax or real proptery tax shall be eligible to participate, subject to the requirements set forth below and guidelines established by the director of finance. The director of finance may require participants in the program to complete an amnesty application and such other forms as he may prescribe, and to furnish any additional information he deems necessary to make a determination regarding the validity of such amnesty application.
+B. The tax amnesty program shall have the following features:
+All civil penalties assessed or assessable, as provided for in Title 58.1, which are the result of nonpayment, underpayment, nonreporting or underreporting of personal property, machinery and tools or real property tax liabilities, shall be waived upon receipt of the payment of the amount of those taxes and interest owed with the following exceptions:
+a. No person, individual, corporation, estate, trust, or partnership currently, or at the inception of this program, under investigation or prosecution for filing a fraudulent return or failing to file a return with the intent to evade tax shall qualify to participate.
+b. No person, individual, corporation, estate, trust, or partnership shall be eligible to participate in the program with respect to any assessment outstanding for which the date of assessment is on or after January 1, 1993 or with respect to any liability arising from the failure to file a return for which the due date of the return is on or after January 1, 1993.
+C. For purposes of computing the outstanding balance due to the nonpayment, underpayment, nonreporting or underreporting of any personal property, machinery and tools, or real property tax liability which has not been assessed prior to the first day of the program, the rate of interest specified for omitted taxes and assessments under § 58.1-3916 shall be applicable.
