@@ -1,0 +1,8 @@
+# 2005 Acts of Assembly, c. 17. University of Virginia; extends sunset provision for electronic meetings of Board of Visitors.
+CHAPTER 17
+An Act to amend and reenact the second enactment of Chapter 777 of the Acts of Assembly of 1998, as amended by Chapter 909 of the Acts of Assembly of 2000, Chapter 297 of the Acts of Assembly of 2002, and Chapter 475 of the Acts of Assembly of 2003, relating to electronic meetings of the Board of Visitors of the University of Virginia.
+[S 752]
+Approved March 20, 2005
+Be it enacted by the General Assembly of Virginia:
+1. That the second enactment of Chapter 777 of the Acts of Assembly of 1998, as amended by Chapter 909 of the Acts of Assembly of 2000, Chapter 297 of the Acts of Assembly of 2002, and Chapter 475 of the Acts of Assembly of 2003 is amended and reenacted as follows:
+2. That the provisions of this act shall expire on July 1, 2007. From July 1, 1998, to July 1, 2007, the Board of Visitors of the University of Virginia shall record the date and name of each board or committee meeting held pursuant to this chapter and, for each meeting, record the name of each board member who participates by video or telephone. The Board of Visitors also shall record any complaints about telephonic or video participation at meetings expressed by board members, members of the public, or members of the media. No later than January 1, 2007, the Board shall provide the Secretary of Education, the Virginia Freedom of Information Advisory Council, and the General Assembly a written report containing the information required to be recorded as well as a narrative summary of the positive and negative experiences of employing telephonic and video meetings.
