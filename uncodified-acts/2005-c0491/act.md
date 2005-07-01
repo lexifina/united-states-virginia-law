@@ -1,0 +1,9 @@
+# 2005 Acts of Assembly, c. 491. Logo sign program; fee shall be collected by Transp. Comm. from entity for purpose of participating.
+CHAPTER 491
+An Act to specify certain duties of the Commonwealth Transportation Board in connection with the Integrated Directional Signing Program.
+[S 813]
+Approved March 22, 2005
+Be it enacted by the General Assembly of Virginia:
+1. § 1. In addition to the duties set forth in § 33.1-12 of the Code of Virginia, the Commonwealth Transportation Board shall establish reasonable fees to be collected by the Commonwealth Transportation Commissioner from any qualified entity for the purpose of participating in the Integrated Directional Sign Program (IDSP) administered by the Department of Transportation or its agents that is designed to provide information to the motoring public relating to gasoline and motor vehicle services, food, lodging, attractions or other categories as defined by the IDSP. Such fees shall be deposited into a special fund specifically accounted for and used by the Commissioner solely to defray the actual costs of supervising and administering the signage programs. Included in these costs shall be a reasonable margin, not to exceed ten percent, in the nature of a reserve Fund.
+2. That the Commonwealth Transportation Board shall report no later than August 1, 2005, on the actions it has taken relative to adjusting fees as a result of this Act.
+3. That the Department of Transportation is hereby directed to review (i) the feasibility and desirability of auctioning certain travel services (logo) signs for which there are more businesses interested in locating on the sign than there is space to accommodate and (ii) concerning Gas Category I, a change from 16 hours per day to 24 hours per day. The results of such review shall be reported to the Senate and House Transportation Committees no later than August 1, 2005.
