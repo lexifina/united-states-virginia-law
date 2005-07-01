@@ -1,0 +1,7 @@
+# 2005 Acts of Assembly, c. 319. Interstate Route 81 Safety Taskforce; created.
+CHAPTER 319
+An Act to require the establishment of Interstate Route 81 Safety Committees within the Department of Transportation.
+[H 2554]
+Approved March 20, 2005
+Be it enacted by the General Assembly of Virginia:
+1. § 1. Within each Virginia Department of Transportation highway construction district wherein any portion of Interstate Route 81 is located, the Commonwealth Transportation Commissioner or his designee shall work with the planning districts and metropolitan planning organizations to establish an Interstate Route 81 Safety Advisory Committee. The Commissioner or his designee shall appoint to the Committees the Superintendent of State Police or his designee, local government officials, persons from the private sector having expertise in highway construction and safety, representatives of commercial trucking business, and others having experience or expertise of value to the Committees. The Commissioner or his designee shall serve as chairman. The Committees shall meet at the call of the Commissioner or his designee, and a majority of their members shall constitute a quorum. The Committees shall, from time to time, make such recommendations and submit such reports on issues related to safety on Interstate Route 81 as they deem necessary or desirable to the Commonwealth Transportation Board, the Governor, or the General Assembly. Members of the Committees shall serve without compensation.
