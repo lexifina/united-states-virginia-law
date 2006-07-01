@@ -1,0 +1,14 @@
+# 2006 Acts of Assembly, c. 919. Neurological birth-related injury cases; review of certain cases.
+CHAPTER 919
+An Act to amend and reenact §§ 38.2-5010 and 38.2-5013 of the Code of Virginia and to provide for review of certain birth-related neurological injury cases, relating to neurological birth-related injuries.
+[S 632]
+Approved April 19, 2006
+Be it enacted by the General Assembly of Virginia:
+1. That §§ 38.2-5010 and 38.2-5013 of the Code of Virginia are amended and reenacted as follows:
+§ 38.2-5010. Rehearing on Commission determination or award.
+If an application for review is made to the Commission within twenty days from the date of a determination pursuant to subdivisions A 1 through A 3 of § 38.2-5008, or within twenty days from the date of an award by the Commission pursuant to § 38.2-5009, the full Commission, excluding any member of the Commission who made the determination or award, if the first hearing was not held before the full Commission, shall review the evidence. If deemed advisable and as soon as practicable, the Commission instead may hear the parties, their representatives and witnesses and shall make a determination or award, as appropriate. Such review or determination, together with a statement of the findings of fact, rulings of law and other matters pertinent to the questions at issue, shall be filed with the record of the proceedings and shall be sent immediately to the parties.
+§ 38.2-5013. Limitation on claims.
+Any claim under this chapter that is filed more than ten years after the birth of an infant alleged to have a birth-related neurological injury is barred.
+2. § 1. Review of certain neurological birth-related injury cases.
+Notwithstanding any other provision of law, the legal representative of a child who was born between January 1, 1988, and July 1, 1993, may file an application for review by July 1, 2007, upon meeting the following conditions: a claim was timely filed for such child and was dismissed, upon an application for review, on the basis of a determination pursuant to subdivision A 1 of § 38.2-5008 that the child's injuries were not caused by deprivation of oxygen or mechanical injury occurring in the course of labor, delivery or resuscitation in the immediate postdelivery period in a hospital as required by the definition of "birth-related neurological injury." Such application for review may be filed regardless of whether or not the legal representative has filed for review of the dismissed claim by the Commission. Such review shall only be filed for live births and shall not be filed for claims dismissed as caused by genetic or congenital abnormalities, degenerative neurological diseases, or maternal substance abuse.
+The full Commission shall review the evidence and make a determination on the petition as though no previous review or dismissal had occurred.
