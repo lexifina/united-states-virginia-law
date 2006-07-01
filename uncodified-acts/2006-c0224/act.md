@@ -1,0 +1,7 @@
+# 2006 Acts of Assembly, c. 224. O. Winston Link Trail; established to highlight and celebrate railroad heritage.
+CHAPTER 224
+An Act to establish the O. Winston Link Trail.
+[S 213]
+Approved March 24, 2006
+Be it enacted by the General Assembly of Virginia:
+1. § 1. There is hereby established the O. Winston Link Trail, a heritage trail of sites photographed by O. Winston Link, to highlight and celebrate Virginia's railroad heritage. The O. Winston Link Trail shall consist of the following sites: the Ryan Farm at Shawsville, Virginia; the White House Church at Shawsville, Virginia; the Twin Tunnels at Montgomery, Virginia; the New River Bridge "Wurno" at Radford, Virginia; the Pope House at Max Meadow, Virginia; the Bank of Crockett at Crockett, Virginia; the Rural Retreat Station at Rural Retreat, Virginia; Silent Night at Seven Mile Ford, Virginia; the Presbyterian Church at Seven Mile Ford, Virginia; Abingdon Station at Abingdon, Virginia; the Bristol Roundhouse at Bristol, Virginia; the Lone Star Shifter at Cloverdale, Virginia; Hester's Home at Lithia, Virginia; the Fishing Hole at Lithia, Virginia; Bridge 425 at Arcadia, Virginia; the Sign at Solitude, Virginia; the Station at Natural Bridge, Virginia; Gooseneck Dam at Buffalo Forge, Virginia; the Double Tanks at Buena Vista, Virginia; the Gas Pump at Vesuvius, Virginia; the Store at Vesuvius, Virginia; the Station at Waynesboro, Virginia; the Fire Station at Grottoes, Virginia; the Boxley Quarry at Pembroke, Virginia; and the Station at Narrows, Virginia.
