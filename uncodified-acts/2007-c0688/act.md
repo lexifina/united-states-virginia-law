@@ -1,0 +1,8 @@
+# 2007 Acts of Assembly, c. 688. Sanitary landfills; Department of Environmental Quality to develop postclosure guidelines.
+CHAPTER 688
+An Act requiring the Department of Environmental Quality to develop postclosure guidelines for certain sanitary landfills.
+[H 3133]
+Approved March 20, 2007
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Department of Environmental Quality shall develop by no later than May 1, 2007, final postclosure care guidance for municipal solid waste landfills that ceased accepting waste prior to October 9, 1993. The guidance shall be prepared for use by staff of the Department of Environmental Quality and shall include information on requirements that shall be met by municipal solid waste landfills in order to be released from postclosure care monitoring and maintenance. The guidance shall allow for partial termination of postclosure care activities required by the municipal solid waste landfill's postclosure care plan and shall establish deadlines for the Department of Environmental Quality's (i) completeness and technical reviews of the required submissions and (ii) decision to terminate postclosure activities of the permittee. The Department of Environmental Quality shall establish a 60-day public comment period to receive comments on the guidelines and shall consider for inclusion in the guidelines such comments. In authorizing the termination of all postclosure care activities, the Department of Environmental Quality shall not assess an associated permit amendment fee.
+2. That an emergency exists and this act is in force from its passage.
