@@ -1,0 +1,7 @@
+# 2007 Acts of Assembly, c. 303. House of Delegates districts; technical adjustment in boundary line within King William County.
+CHAPTER 303
+An Act to make a technical adjustment in a part of the boundary between the Ninety-seventh and Ninety-eighth House of Delegates districts within King William County.
+[H 2780]
+Approved March 12, 2007
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the segment of the boundary between the Ninety-seventh and Ninety-eighth House of Delegates districts within King William County beginning at the point where Chelsea Road (State Route 1003) intersects the corporate limits of the town of West Point, then southeast on Chelsea Road to Geron Lane, then northeast on Geron Lane to an unnamed tributary (the boundary between census blocks 511019503001007 and 511019503001011) of the Mattaponi River, then north on the unnamed tributary to the west bank of the Mattaponi River, and then northwest along said west bank to the north corporate limits of the town of West Point, said point of intersection being the northwest corner of census block 511019503001000, is superseded by a line beginning at the point where Chelsea Road (State Route 1003) intersects the corporate limits of the town of West Point, then clockwise northeast and then southeast on the corporate limits to the west bank of the Mattaponi River, said point of intersection being the northwest corner of census block 511019503001000.
