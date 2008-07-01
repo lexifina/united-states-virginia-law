@@ -1,0 +1,10 @@
+# 2008 Acts of Assembly, c. 321. Administrative Process Act; public participation guidelines for executive branch agencies.
+CHAPTER 321
+An Act to standardize public participation guidelines for executive branch agencies.
+[H 1167]
+Approved March 4, 2008
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That on or before July 1, 2008, the Department of Planning and Budget, in consultation with the Office of the Attorney General, shall (i) develop model public participation guidelines meeting the requirements of § 2.2-4007.02 of the Code of Virginia and (ii) provide these model public participation guidelines to each agency that has the authority to promulgate regulations. By December 1, 2008, each agency shall either (a) adopt the model public participation guidelines or (b) if significant additions or changes are proposed, promulgate the model public participation guidelines with the proposed changes as fast-track regulations pursuant to § 2.2-4012.1 of the Code of Virginia. Agency action in adopting the model public participation guidelines in accordance with clause (a) shall be exempt from the operation of Article 2 (§ 2.2-4006 et seq.) of Chapter 40 of Title 2.2 of the Code of Virginia. The repeal of any existing public participation guidelines shall occur in the same regulatory action as the promulgation of the model public participation guidelines required by this section.
+§ 2. The model public participation guidelines adopted pursuant to this act shall apply to the promulgation and adoption of regulations for which a notice of intended regulatory action is filed in accordance with § 2.2-4007.01 of the Code of Virginia on or after January 1, 2009.
+§ 3. However, any amendments made after January 1, 2009, to an agency's public participation guidelines adopted as required by this act shall be subject to the requirements of the Administrative Process Act (§ 2.2-4000 et seq. of the Code of Virginia).
+§ 4. For the purposes of this act, the terms "agency" and "regulations" mean the same as those terms are defined in § 2.2-4001 of the Code of Virginia.
