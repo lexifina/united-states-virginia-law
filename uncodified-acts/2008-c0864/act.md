@@ -1,0 +1,11 @@
+# 2008 Acts of Assembly, c. 864. Overweight and overload permits; creates fee schedules therefor to help recover maintenance costs.
+CHAPTER 864
+An Act to authorize the review of the current fee structure applied to vehicles operating under permits for weight pursuant to Articles 17 and 18 of Chapter 10 of Title 46.2 of the Code of Virginia and to amend and reenact the second enactment of Chapter 738 of the Acts of Assembly of 2007, relating to vehicle weights; fee structure.
+[H 1551]
+Approved April 23, 2008
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The Department of Transportation, in consultation with the Department of Motor Vehicles and representatives of the industries that own and/or operate overload and overweight vehicles, shall review the current fee structure applied to overload and overweight vehicles operating on the highways of the Commonwealth pursuant to Articles 17 (§ 46.2-1122 et seq.) and 18 (§ 46.2-1139 et seq.) of Chapter 10 of Title 46.2 of the Code of Virginia.
+The review shall endeavor to determine what, if any, additional fees should be associated with damage and additional maintenance costs caused by such vehicles and what mechanism is best suited for the collection of such additional fees.
+Based on this review, the Commissioner of the Department of Transportation, in consultation with the Department of Motor Vehicles and affected industry representatives, shall recommend legislation regarding the fee structure applied to overload and overweight vehicles operating on the highways of the Commonwealth to the Governor and the members of the Senate Finance and Transportation Committees and the House Appropriations and Transportation Committees no later than December 1, 2008.
+2. That the second enactment of Chapter 738 of the Acts of Assembly of 2007 is amended and reenacted as follows:
+2. That from July 1, 2007, to June 30, 2008, the annual overweight permit fee shall be $800 for each eligible vehicle. Such vehicles shall pay an annual overweight permit fee of $265 from July 1, 2008, to June 30, 2009. The Commonwealth Transportation Board, in consultation with the Commissioner of the Department of Motor Vehicles, shall establish a fee structure that shall become effective on July 1, 2009, based on the results of a study of overweight vehicles.
