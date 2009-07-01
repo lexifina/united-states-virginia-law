@@ -1,0 +1,9 @@
+# 2009 Acts of Assembly, c. 704. Wastewater treatment plants; State Water Control Board to accept petitions relating therto.
+CHAPTER 704
+An Act to authorize the State Water Control Board to adopt certain regulations relating to wastewater treatment plants.
+[S 1022]
+Approved March 30, 2009
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The State Water Control Board shall accept petitions through July 10, 2009, for purposes of the expedited process set forth in this section, from the facilities subject to waste load allocations for two or more design flows based on their respective certificates to operate as of December 31, 2010. The petitions shall be for the sole purpose of extending the deadline to no later than December 31, 2015, to obtain the certificate to operate at the higher design flow, subject to the condition that such facilities shall nevertheless be required to comply with such nutrient allocations as of January 1, 2011, whether by point source nutrient credit exchanges under § 62.1-44.19:4 of the Code of Virginia or otherwise. The State Water Control Board shall, with respect to these facilities, approve or deny such petitions and adopt any regulation amendments to incorporate any approved petitions within 180 days of the petition deadline. Prior to a final decision on the petitions, the State Water Control Board shall provide an opportunity for public comment.
+2. That the State Water Control Board's adoption of any regulation amendments made pursuant to this act shall be exempt from Article 2 (§ 2.2-4006 et seq.) of the Code of Virginia of the Administrative Process Act.
+3. That this act shall not prohibit any person from petitioning the State Water Control Board at any time to amend existing nutrient waste load allocations pursuant to § 2.2-4007.
