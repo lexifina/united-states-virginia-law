@@ -1,0 +1,10 @@
+# 2009 Acts of Assembly, c. 228. Sex Offender Registry; not required to provide list of registrants' wanted offenses on Internet.
+CHAPTER 228
+An Act relating to elimination of waiting lists for the Mental Retardation Medicaid Waiver and Individual and Family Developmental Disabilities and Support Medicaid Waiver within 10 years.
+[H 2674]
+Approved March 27, 2009
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That it is the intent of the General Assembly to eliminate the waiting lists for services pursuant to the Mental Retardation Medicaid Waiver and the Individual and Family Developmental Disabilities and Support Medicaid Waiver.
+In furtherance of this intent, beginning with the fiscal year starting July 1, 2010, and for each fiscal year thereafter, the Department of Medical Assistance Services shall add (i) at least 400 additional funded slots per fiscal year for the Mental Retardation Medicaid Waiver, and (ii) at least 67 additional funded slots per fiscal year for the Individual and Family Developmental Disabilities and Support Medicaid Waiver, until the waiting lists for the Mental Retardation Medicaid Waiver and the Individual and Family Developmental Disabilities and Support Medicaid Waiver have been eliminated.
+In addition, the Governor shall develop a plan to eliminate the waiting lists for services provided to individuals on the Mental Retardation Medicaid Waiver and the Individual and Family Developmental Disabilities and Support Medicaid Waiver by the 2018-2020 biennium. The plan shall include provisions to reduce the total number of individuals on the waiting list for the Mental Retardation Medicaid Waiver by 10 percent in the 2008-2010 biennium. The Governor shall submit the plan to the chairman of the Joint Commission on Health Care, and the chairmen of the House Appropriations and Senate Finance Committees by October 1, 2009.
+The Department of Medical Assistance Services shall work with the Department of Planning and Budget to incorporate additional costs pursuant to this act in the estimate of Medicaid expenditures required pursuant to § 32.1-323.1 of the Code of Virginia.
