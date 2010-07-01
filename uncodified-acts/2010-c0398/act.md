@@ -1,0 +1,8 @@
+# 2010 Acts of Assembly, c. 398. Schools; delayed implementation of statutes and regulations upon which full accreditation is based.
+CHAPTER 398
+An Act to amend and reenact § 1 of Chapter 463 of the Acts of Assembly of 2009, relating to the delayed implementation of certain regulations and state statutes related to the accreditation of schools.
+[H 111]
+Approved April 11, 2010
+Be it enacted by the General Assembly of Virginia:
+1. That § 1 of Chapter 463 of the Acts of Assembly of 2009 is amended and reenacted as follows:
+§ 1. That no statutes or regulations prescribing additional requirements upon which the accreditation rating of schools in the Commonwealth is based, pursuant to § 22.1-253.13:3 of the Code of Virginia, beyond those already in effect on July 1, 2008, shall become effective before July 1, 2011, unless such statutes or regulations are also specifically required by federal code, federal regulation, or court action. Furthermore, that no statutes or regulations prescribing additional graduation requirements, pursuant to § 22.1-253.13:4 of the Code of Virginia, shall become effective before July 1, 2011, unless such statutes or regulations are also specifically required by federal code, federal regulation, or court action. Furthermore, the passing rates required for full accreditation in 2011 - 2012 based on assessments administered during the 2010 - 2011 school year shall be the same passing rates required for full accreditation during the 2008 - 2009 school year. Notwithstanding the provisions of this section, schools with a graduating class shall meet prescribed thresholds on a graduation and completion rate index, as prescribed by the Board of Education, for accreditation ratings for 2011 - 2012.
