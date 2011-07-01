@@ -1,0 +1,16 @@
+# 2011 Acts of Assembly, c. 547. Claims; Richard Hitt and Charles P. Jarrett.
+CHAPTER 547
+An Act for the relief of Richard Hitt and Charles P. Jarrett.
+[S 1458]
+Approved March 25, 2011
+Whereas, Richard Hitt served in the City of Fredericksburg Sheriff's Office for a total of 14 years, six months and the Spotsylvania County Sheriff's Office for 1 year, six months, thereby having 16 years of hazardous duty service, and was a member of the Virginia Retirement System as a result of such service; and
+Whereas, Charles P. Jarrett served in the Spotsylvania County Sheriff's Office for 15 years and purchased one year and seven months of hazardous duty service from Stafford County, seven months of hazardous duty service from Central Virginia Jail and six months of hazardous duty service from the Northern Neck Jail for a total of 17 years, eight months of hazardous duty service, and was a member of the Virginia Retirement System as a result of such service; and
+Whereas, Mr. Hitt and Mr. Jarrett each purchased an additional four years of service credit with the Virginia Retirement System for his active duty military service; and
+Whereas, at the time of purchase each was led to believe that the four years of active duty military service would be certified as hazardous duty service with the Virginia Retirement System; and
+Whereas, when Mr. Hitt was two weeks away from his original retirement date, he was informed by letter from the Virginia Retirement System that his active duty military service would not be certified as hazardous duty service; and
+Whereas, when Mr. Jarrett retired effective December 1, 2010, he was informed by letter from the Virginia Retirement System that his active duty military service was not certified as hazardous duty service; and
+Whereas, during pre-retirement counseling, the Virginia Retirement System may have failed to make the human resource representatives in the City of Fredericksburg (for Mr. Hitt) and Spotsylvania County (for Mr. Jarrett) aware that active duty military service could not be certified as hazardous duty service; and
+Whereas, by the time the inaccurate advice was discovered, Mr. Hitt had already submitted his application to retire, and the City of Fredericksburg Sheriff's Office had already hired and trained his replacement, Mr. Jarrett had already retired from Spotsylvania County, and neither Mr. Hitt nor Mr. Jarrett had a job to which he could return and remedy the situation and qualify for the hazardous duty retirement supplement described in subsection B of § 51.1-206; and
+Whereas, neither Mr. Hitt nor Mr. Jarrett has any other means to obtain adequate relief except by action of this body; now, therefore,
+Be it enacted by the General Assembly of Virginia:
+1. § 1. Upon execution of a release of all claims each may have against the Commonwealth or any agency, instrumentality, officer, employee, or political subdivision in connection with the aforesaid occurrences, and notwithstanding any other provision of law, the Virginia Retirement System is authorized to pay the allowance described in subsection B of § 51.1-206 of the Code of Virginia (i) to Richard Hitt effective with his revised retirement date of February 1, 2011, and (ii) to Charles P. Jarrett effective with his retirement date of December 1, 2010.
