@@ -1,0 +1,9 @@
+# 2012 Acts of Assembly, c. 601. Supreme Court of Virginia; required to develop weighted caseload system to assess caseloads, report.
+CHAPTER 601
+An Act to require the development of a weighted caseload system by the Supreme Court of Virginia and report findings to the General Assembly.
+[H 745]
+Approved April 4, 2012
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The Supreme Court shall develop and implement a weighted caseload system to precisely measure and compare judicial caseloads throughout the Commonwealth on the circuit court, general district court, and juvenile and domestic relations district court levels. The system shall include the development of a comprehensive workload model, an objective means of determining the need for judicial positions, an assessment of the optimum distribution of judicial positions throughout the Commonwealth, and a recommended plan for the realignment of the circuit and district boundaries.
+§ 2. The Supreme Court shall report to the General Assembly by November 15, 2013, on the weighted caseload in each court in each county and city, and in each circuit and district based on the current circuit and district boundaries. The report shall include the current number of judges assigned to each court in each county and city. The Court shall also recommend a plan for the realignment of the circuit and district boundaries and the number of judges the Court recommends for assignment to each court in each county and city within the new circuits and districts.
+2. That no funds shall be expended for the development and implementation of a weighted caseload system, as provided in this act, unless appropriated directly to the National Center for State Courts to provide for the development and implementation of the system pursuant to a contract with the Supreme Court of Virginia.
