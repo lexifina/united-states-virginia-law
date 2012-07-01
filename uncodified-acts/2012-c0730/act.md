@@ -1,0 +1,7 @@
+# 2012 Acts of Assembly, c. 730. Nursing facility transfer & discharge procedures; workgroup to clarify requirements and guidelines.
+CHAPTER 730
+An Act to develop guidelines addressing nursing facility transfer and discharge procedures.
+[H 1274]
+Approved April 9, 2012
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The Commissioner of Health shall convene a work group, utilizing to the extent practicable any ongoing work group, to clarify state and federal requirements and develop guidelines applicable to nursing facility resident transfers and discharges, including but not limited to related notice requirements and transfer procedures for inpatient medical care. The work group shall consist of five representatives of the Virginia Elder Rights Coalition; a total of five representatives of providers designated jointly by the Virginia Hospital & Healthcare Association, the Virginia Health Care Association and the Virginia Association of Nonprofit Homes for the Aging; two representatives of the Department of Behavioral Health and Developmental Services; one representative of community services boards; one representative of the Department of Medical Assistance Services; one representative of the Virginia Academy of Emergency Physicians; and a representative of the Virginia Bar Association. The Commissioner will report the work group's progress to the Secretary of Health and Human Resources and the Chairmen of the Senate Committee on Education and Health and the House Committee on Health, Welfare and Institutions by December 1, 2012.
