@@ -1,0 +1,9 @@
+# 2013 Acts of Assembly, c. 265. Southwestern VA Mental Health Institute; DBHDS authorized to convey real property in Smyth County.
+CHAPTER 265
+An Act authorizing the Governor to convey certain real property held in the name of the Department of Behavioral Health and Developmental Services as part of the Southwestern Virginia Mental Health Institute located in Marion in Smyth County to the Mount Rogers Community Services Board.
+[H 1668]
+Approved March 13, 2013
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The Department of Behavioral Health and Developmental Services, with the approval of the Governor and the Attorney General, in the manner set forth in § 2.2-1150 B of the Code of Virginia, is authorized to convey, without consideration, that portion of the real property located on the grounds of the Southwestern Virginia Mental Health Institute located at 340 Bagley Circle in Marion in Smyth County, described in a deed recorded in the clerk's office of the Circuit Court of the County of Smyth, Virginia, at DB 16, Page 310, held in the name of the Department of Behavioral Health and Developmental Services and currently leased to the Mount Rogers Community Services Board, to the Mount Rogers Community Services Board for the purpose of providing services for individuals in need of mental health, developmental, and substance abuse services.
+§ 2. Such conveyance shall be made in a form approved by the Attorney General. The appropriate officials of the Commonwealth are hereby authorized to prepare, execute, and deliver such deed and other documents as may be necessary to accomplish the conveyance.
+§ 3. All costs and expenses incurred in the transfer of the property, including but not limited to the cost of a survey to establish the limits of the property to be transferred, shall be paid by the Mount Rogers Community Services Board.
