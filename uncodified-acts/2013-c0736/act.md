@@ -1,0 +1,9 @@
+# 2013 Acts of Assembly, c. 736. Real property; VDOT to convey a parcel of property owned by Department in Fauquier County, etc.
+CHAPTER 736
+An Act to authorize the Department of Transportation to convey certain property in Marshall in Fauquier County and to accept certain property in exchange.
+[H 1627]
+Approved April 3, 2013
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That notwithstanding any other provision of law, the Virginia Department of Transportation, with the approval of the Governor pursuant to § 2.2-1156, is hereby authorized to convey a parcel of real property owned by the Department, bounded by Utterback Avenue and Frost Street in Marshall, Fauquier County, further identified as all the property acquired by the Department by deed dated July 10, 1947, and recorded in Deed Book 162, Page 459 in the land records of the Circuit Court of Fauquier County, containing 3.9313 acres, more or less, in exchange for real property located in an area and with improvements to such property as determined necessary by the Department to render the property suitable for use and ready for operation as a park-and-ride facility for Marshall, Virginia. The total consideration received by the Department shall, as determined by the Department, be of comparable or greater value to the property conveyed by the Department in the exchange.
+§ 2. The exchange and all documentation pursuant thereto shall be in a form approved by the Attorney General. The appropriate officials of the Commonwealth are hereby authorized to prepare, execute, and deliver such deed and other documents pursuant to appropriate law and as may be necessary to accomplish the exchange.
+§ 3. Required improvements to the property to be obtained by the Department for a park-and-ride facility shall be completed prior to completion of the exchange authorized herein.
