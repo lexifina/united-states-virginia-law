@@ -1,0 +1,7 @@
+# 2013 Acts of Assembly, c. 31. Veterans care center; construction in Northern Virginia.
+CHAPTER 31
+An Act to authorize the Governor to request federal funds and for the Director of the Department of Planning and Budget to approve a treasury loan for the construction of a new veterans care center.
+[H 2175]
+Approved February 20, 2013
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Governor is authorized to request federal funds to construct a new veterans care center with up to 240 beds located in the northern area of Virginia. After the United States Department of Veterans Affairs has determined that federal funds will be allocated for the new center, the Director of the Department of Planning and Budget shall approve a short-term, interest-free treasury loan in the amount of $28,500,000 to the Department of Veterans Services for the state share of the construction cost, so that the project may proceed without further action by the Commonwealth, in accordance with 38 CFR 59.50 and 38 CFR 59.70(b). The treasury loan shall be repaid by such sources of funding as determined by the Governor and the General Assembly. The Director of the Department of Planning and Budget is authorized to sign and certify any federal documents or forms to acknowledge that the state share of funding for the Northern Virginia Veterans Care Center is available without further action by the Commonwealth.
