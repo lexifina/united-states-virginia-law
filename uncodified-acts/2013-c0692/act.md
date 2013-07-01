@@ -1,0 +1,9 @@
+# 2013 Acts of Assembly, c. 692. Individual school performance; Board of Education shall approve student growth indicators, report.
+CHAPTER 692
+An Act to require the Board of Education to develop a grading system for individual school performance.
+[S 1207]
+Approved March 21, 2013
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The Board of Education shall approve student growth indicators by July 31, 2013. The Department of Education shall provide a report to the Governor and the General Assembly on the approval of the student growth indicators and their uses by December 1, 2013. The growth indicators shall be used in the standards of accreditation of schools and in teacher evaluations.
+§ 2. The Board of Education shall report individual school performance using a grading system that includes the standards of accreditation, state and federal accountability requirements, and student growth indicators in assigning grades. The grading system shall be based on an A-to-F grading scale. The Board, by October 1, 2014, shall (i) assign a grade from A to F to each public school in the Commonwealth; (ii) make both the system and the grade assigned to each school in the Commonwealth available to the public; and (iii) report to the General Assembly a summary of the system and the assigned grades.
+§ 3. As used in this act, for purposes of assigning grades, "student growth" means (i) whether individual students on average fall below, meet, or exceed an expected amount of growth based on a statewide average or reference base year on state assessments or additional assessments approved by the Board; (ii) maintaining a proficient or advanced proficient performance level on state assessments; or (iii) making significant improvement within the below basic or basic level of performance on reading or mathematics assessments as determined by the Board.
