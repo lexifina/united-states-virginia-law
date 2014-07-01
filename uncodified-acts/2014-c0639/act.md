@@ -1,0 +1,8 @@
+# 2014 Acts of Assembly, c. 639. Training center residents; DBHDS to ensure resources available prior to transfer to another center.
+CHAPTER 639
+An Act to ensure adequate resources are available and disclosed to training center residents prior to their transfer to another training center or community-based care.
+[S 627]
+Approved April 4, 2014
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Department of Behavioral Health and Developmental Services shall, before transferring any training center resident to another training center or to community-based care, provide written certification to such training center resident or his legally authorized representative that (i) the receiving training center or community-based option provides a quality of care that is comparable to that provided in the resident's current training center regarding medical, health, developmental, and behavioral care and safety and (ii) all permissible placement options available under the Commonwealth's August 23, 2012, settlement agreement with the U.S. Department of Justice, including the option to remain in a training center, have been disclosed to the training center resident or his legally authorized representative. A training center resident or his legally authorized representative may waive the certification requirement imposed in clause (i).
+§ 2. That the Department of Behavioral Health and Developmental Services shall convene a work group of interested stakeholders, which shall include members of the General Assembly, to consider options for expanding the number of training centers that remain open, in whole or in part, in the Commonwealth.
