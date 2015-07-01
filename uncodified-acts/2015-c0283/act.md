@@ -1,0 +1,7 @@
+# 2015 Acts of Assembly, c. 283. Chaplains of the Virginia National Guard and Virginia Defense Force; sermons.
+CHAPTER 283
+An Act to prohibit censorship of sermons made by chaplains of the Virginia National Guard and Virginia Defense Force.
+[S 690]
+Approved March 17, 2015
+Be it enacted by the General Assembly of Virginia:
+1. § 1. Notwithstanding any contrary provisions of law, the religious content of sermons, homilies, preaching, religious messages, or other speeches within religious services made by chaplains of the Virginia National Guard while in Title 32 or State Active Duty status or of the Virginia Defense Force shall not be censored or restricted by any state government official or agency, so long as (i) the religious content offered is not in any way a precursor of, introduction to, or part of any official ceremony, gathering, or formation that is not part of the religious service; (ii) the content does not urge disobedience of lawful orders; and (iii) members of the National Guard or Defense Force are not required to attend the service or event where such content is delivered.
