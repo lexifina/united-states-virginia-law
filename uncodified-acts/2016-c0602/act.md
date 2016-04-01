@@ -1,0 +1,17 @@
+# 2016 Acts of Assembly, c. 602. Relief; Robert Scott.
+CHAPTER 602
+An Act for the relief of Robert Scott.
+[H 256]
+Approved April 1, 2016
+Whereas, Robert Scott (Mr. Scott) entered into two contracts with Towne Automotive Brokers and Francis Masika: one for the purchase of a 2006 BMW on July 21, 2009, and one for the purchase of a 2006 Honda Odyssey on August 14, 2009, for a total purchase price of $56,000; and
+Whereas, Mr. Scott never received either vehicle and on July 28, 2010, the Circuit Court of the City of Chesapeake awarded Mr. Scott a default judgment against Towne Automotive Brokers; and
+Whereas, Mr. Scott was not able to recover the judgment awarded to him, and four additional consumers who were defrauded by Towne Automotive Brokers and Francis Masika were also awarded judgments; and
+Whereas, the total amount of all five judgments exceeded the required $50,000 bond carried by the dealer, and each consumer received a proportional amount of the $50,000 bond as designated on February 27, 2012, by the Circuit Court for the City of Chesapeake; Mr. Scott's share of payment from the bond was $13,632.50; and
+Whereas, the Motor Vehicle Transaction Recovery Fund (the Fund) may pay claims totaling an additional $50,000, and Mr. Scott filed a claim against the Fund in April 2012; and
+Whereas, § 46.2-1527.3 of the Code of Virginia requires that claims against the Fund be filed with the Board no later than 12 months after the judgment becomes final; however, Mr. Scott did not file his claim with the Board against the Fund until April 2012 which was not within the statutorily required time frame because the claim cannot be filed until a payment from the bond is received and despite receiving a default judgment on July 28, 2010, Mr. Scot did not receive his share of the bond payout until February 27, 2012; and
+Whereas, the Motor Vehicle Dealer Board voted unanimously that Mr. Scott should receive reimbursement from the Fund and requests that the General Assembly grant relief in the form of payment from the Fund; and
+Whereas, pursuant to § 46.2-1527.5 of the Code of Virginia, as it was in effect in April 2012, the maximum claim against the Fund involving a single transaction shall be limited to $20,000, including any amount paid from the dealer's surety bond, and therefore had Mr. Scott met the statutorily required time frame he would have been entitled to receive $26,367.50; and
+Whereas, Mr. Scott has no other means to obtain adequate relief except by action of this body; now, therefore,
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That there is hereby appropriated from the Motor Vehicle Transaction Recovery Fund the sum of $26,367.50 for the relief of Robert Scott (Mr. Scott), to be paid by check issued by the State Treasurer on warrant of the Comptroller upon execution of a release of all claims Mr. Scott may have against the Commonwealth or any agency, instrumentality, office, employee, or political subdivision in connection with the aforesaid occurrence. In the event that Mr. Scott receives the amount owed to him from the unpaid final judgment that he has obtained against Towne Automotive Brokers and Francis Masika, he shall reimburse the Motor Vehicle Dealer Board whatever amount he receives up to $26,367.50, and such amount shall be assigned to the Motor Vehicle Transaction Recovery Fund.
+2. That an emergency exists and this act is in force from its passage.
