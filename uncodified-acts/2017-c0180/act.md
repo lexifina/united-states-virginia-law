@@ -1,0 +1,8 @@
+# 2017 Acts of Assembly, c. 180. Opioids; workgroup to establish guidelines for prescribing.
+CHAPTER 180
+An Act to require the Secretary of Health and Human Resources to convene a workgroup to develop educational standards and curricula for training health care providers in the safe and appropriate use of opioids to treat pain while minimizing the risk of addiction and substance abuse.
+[H 2161]
+Approved February 23, 2017
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Secretary of Health and Human Resources shall convene a workgroup that shall include representatives of the Departments of Behavioral Health and Developmental Services, Health, and Health Professions as well as representatives of the State Council of Higher Education for Virginia and at least one representative of each medical school, dental school, school of pharmacy, physician assistant education program, and nursing education program located in the Commonwealth to develop educational standards and curricula for training health care providers, including physicians, dentists, optometrists, pharmacists, physician assistants, and nurses in the safe and appropriate use of opioids to treat pain while minimizing the risk of addiction and substance abuse. Such educational standards and curricula shall include education and training on pain management, addiction, and the proper prescribing of controlled substances. The workgroup shall report its progress and the outcomes of its activities to the Governor and the General Assembly by December 1, 2017.
+2. That an emergency exists and this act is in force from its passage.
