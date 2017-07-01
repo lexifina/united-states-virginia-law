@@ -1,0 +1,8 @@
+# Troutdale, Town of
+§ 1. Be it enacted by the general assembly of Virginia, That all the territory embraced in a radius of one mile in every direction from the northeast corner of what is known as "Church lot" on Main street, in the town of Troutdale, Grayson county, as the same is now and shall hereafter be laid off into lots, squares, streets and alleys, be, and the same is hereby, made a town corporate by the name of Troutdale, and by that name shall have and exercise all the powers conferred on towns of less than five thousand inhabitants by the laws of Virginia, now in force, or which may hereafter be enacted in reference to towns of less than five thousand inhabitants. (1906, c. 161)
+§ 2. The government of said town shall be vested in a mayor, a sergeant, a recorder, and six councilmen, and such other officers as may be provided for by the mayor and councilmen. The mayor, the recorder, and members of council shall serve for terms of four years. (1906, c. 161; 2012, c.
+319
+; 2017, c.
+219
+)
+§ 3. C. P. Greear is hereby appointed mayor thereof, W. H. Handy is hereby appointed recorder, J. W. Huddler is hereby appointed sergeant; David T. Carter, R. L. Greear, S. W. Greear, I. Pacely, T. Paceley, and C. T. Forrester are hereby appointed councilmen. The said officers shall have and exercise all the powers now granted and hereafter granted to such officers by the general assembly of Virginia, and shall continue in office until their successors are elected and qualified according to law, and in the absence of any provision of law on the subject, they shall be elected in the manner prescribed by ordinances of the council. (1906, c. 161)
