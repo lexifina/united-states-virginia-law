@@ -1,0 +1,7 @@
+# 2018 Acts of Assembly, c. 206. Hydroelectric plant; revenue sharing agreement among certain localities.
+CHAPTER 206
+An Act to require a hydroelectric plant revenue sharing agreement among certain localities.
+[S 780]
+Approved March 5, 2018
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The Counties of Buchanan, Dickenson, Lee, Russell, Scott, Tazewell, and Wise, and the City of Norton shall enter into a revenue sharing agreement pursuant to the provisions of § 15.2-1301 of the Code of Virginia, for any electric storage or generation facility constructed pursuant to clause (v) of subdivision A 6 of § 56-585.1 of the Code of Virginia whereby the host locality's revenue from such facility shall be distributed to the other localities on the basis of the following formula: Each respective locality shall receive a percentage of the revenue as follows: (i) 16 percent each for the Counties of Tazewell and Wise; (ii) 12 percent each for the Counties of Buchanan, Lee, Russell, and Scott; (iii) 10 percent for Dickenson County; and (iv) four percent for the City of Norton. In addition, the host locality shall receive an additional share of six percent. The agreement shall provide that any direct costs of infrastructure improvements incurred by the host locality for purposes of the facility shall be allocated among the localities in the same proportion as the revenues from the facility. Notwithstanding the provisions of subsection A of § 15.2-1301, the term of such an agreement shall be perpetual.
