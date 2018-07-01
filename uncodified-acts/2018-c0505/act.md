@@ -1,0 +1,8 @@
+# 2018 Acts of Assembly, c. 505. Expedited land use permit process; Dept. of Transportation shall develop and submit for approval.
+CHAPTER 505
+An Act to direct the Department of Transportation to develop and submit for approval an expedited land use permit process; rights-of-way.
+[H 901]
+Approved March 29, 2018
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Department of Transportation (Department) shall develop and submit for approval to the Federal Highway Administration an expedited land use permit process by which public or private utility companies that offer high-speed Internet services may apply to use any right-of-way maintained by the Department. Such process shall be designed to apply only when the proposed use of the right-of-way does not make substantial changes to such right-of-way and does not interfere with the safety or ongoing maintenance of the right-of-way for transportation purposes.
+2. That the Department of Transportation shall complete the requirements of the first enactment of this act by November 30, 2018, and shall submit to the Governor and the General Assembly an executive summary and a report on the expedited land use permit process and, if possible, the response from the Federal Highway Administration for publication as a House or Senate document. The executive summary and report shall be submitted as provided in the procedures of the Division of Legislative Automated Systems for the processing of legislative documents and reports no later than the first day of the 2019 Regular Session of the General Assembly and shall be posted on the General Assembly's website.
