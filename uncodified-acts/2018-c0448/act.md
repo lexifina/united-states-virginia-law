@@ -1,0 +1,7 @@
+# 2018 Acts of Assembly, c. 448. Eastern Virginia groundwater management; Department of Environmental Quality to convene a forum.
+CHAPTER 448
+An Act to direct the Department of Environmental Quality to convene a forum; Eastern Virginia groundwater management.
+[H 1036]
+Approved March 23, 2018
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That a groundwater trading work group is established for the purpose of serving as a resource to the Department of Environmental Quality (the Department) by further studying how to implement the recommendation, made by the Eastern Virginia Groundwater Management Advisory Committee (the EVGMAC), established pursuant to Chapters 262 and 613 of the Acts of Assembly of 2015, that an aquifer storage and recovery banking system be developed. The work group shall also conduct further study and identify the components of a groundwater trading program. The work group shall consist of the members of the Trading Work Group of the EVGMAC. The work group shall appoint a chair and report its recommendations, including recommended program components, to the State Water Commission and the Director of the Department no later than July 1, 2020. The work group shall include in its discussions input from groundwater users interested in purchasing credits and representatives from local governing bodies currently injecting water into the Coastal Aquifers or considering a project to do so.
