@@ -1,0 +1,9 @@
+# 2018 Acts of Assembly, c. 740. Caledon State Park; DCR to convey certain property.
+CHAPTER 740
+An Act to authorize the Department of Conservation and Recreation to convey its interest in certain property at Caledon State Park.
+[S 587]
+Approved April 4, 2018
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That in accordance with and as evidence of General Assembly approval pursuant to § 10.1-109 of the Code of Virginia, the Department of Conservation and Recreation (Department) is hereby authorized to quitclaim and release any interest it may hold in the unimproved parcel of land near the southwest corner of Caledon State Park, and containing approximately 6.5 acres bearing Tax Map Parcel No. 6A-1-19, and included within the survey to a deed recorded in Plat Book 8, Page 20, in the Office of Circuit Court Clerk of King George County (the Payne Property) to Rose Payne, her successors and assigns (the Grantee), upon terms and conditions as the Department deems proper, and with the approval of the Governor and in a form approved by the Attorney General, all as required by § 10.1-109 of the Code of Virginia.
+§ 2. The purpose of this quitclaim and release is to certify that the Grantee's claim of title is superior to the Department's. The conveyance shall be made without any consideration. The appropriate officials of the Commonwealth are hereby authorized to prepare, execute, and deliver such deed and other documents as may be necessary to accomplish the conveyance.
+§ 3. The conveyance shall, to the extent applicable, comply with the requirements of the federal Land and Water Conservation Fund Act (54 U.S.C. § 200301 et seq.). Pursuant to Item 365 I and notwithstanding the provisions of Item C-25 and § 4-13.00 of the 2017 Appropriation Act, the Department is authorized to accept donated parcels of land as needed in order to meet the requirements of the Land and Water Conservation Fund Act.
