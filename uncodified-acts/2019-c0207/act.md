@@ -1,0 +1,15 @@
+# 2019 Acts of Assembly, c. 207. Hopewell, City of; amending charter, appointment of president of city council.
+CHAPTER 207
+An Act to amend and reenact § 4, as amended, of Chapter IV of Chapter 431 of the Acts of Assembly of 1950, which provided a charter for the City of Hopewell, relating to appointment of president of city council.
+[H 2002]
+Approved March 5, 2019
+Be it enacted by the General Assembly of Virginia:
+1. That § 4, as amended, Chapter IV of Chapter 431 of the Acts of Assembly of 1950 is amended and reenacted as follows:
+§ 4. Appointment and terms of president (ex officio mayor), vice-president (ex officio vice-mayor) and members of boards and commissions; quorum; journal; etc.
+(a) On the first Tuesday in January next following the regular municipal election, or as soon thereafter as may be practicable, the newly elected council shall proceed to appoint by majority vote of all the members thereof one of their number to be president, who shall be ex officio mayor, and another as vice-president, who shall be ex officio vice-mayor, of the council, each of whom shall serve for a period of two years from the first day of the January next following the regular municipal election and until their successor or successors as mayor or vice-mayor have been appointed and qualified.
+(b) Appointment of boards and commissions; enumeration, term. The school board, library board, and dock commission shall each consist of five members of the board of such regional free library system as are permitted under the inter-jurisdictional contract establishing the regional library system as that contract may be amended from time to time.
+The council shall appoint the members of such boards and commissions as are provided for in this charter, or as may be established by the council or by general law on a date and for such terms as may be established by ordinance.
+The members of the boards and commissions shall serve until their successors have been appointed and qualified.
+(c) Elections to be by viva voce vote; rules of procedure; punishment of members for misconduct, etc.; quorum; eligibility of members for other office; journal of proceedings. All elections by the council shall be viva voce and the vote recorded in the journal of the council.
+The council may determine its own rules of procedure; in the absence of established rules of procedure, Robert's Rules of Order shall prevail. Council may punish its members for misconduct and may compel the attendance of members in such manner and under such penalties as may be prescribed by ordinance. It shall keep a journal of its proceedings. A majority of all the members of the council shall constitute a quorum to do business, but a smaller number may adjourn from time to time.
+No person, now a member or who may hereafter be elected to the council, shall during his tenure of office, or during the term for which he was elected as such member, be eligible to any office to be filled by the council by election or appointment.
