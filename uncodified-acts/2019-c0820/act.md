@@ -1,0 +1,15 @@
+# 2019 Acts of Assembly, c. 820. Constitutional amendment; reapportionment, technical adjustments permitted (first reference).
+CHAPTER 820
+HOUSE JOINT RESOLUTION NO. 591
+Proposing an amendment to Section 6 of Article II of the Constitution of Virginia, relating to apportionment; technical adjustments permitted.
+Agreed to by the House of Delegates, February 4, 2019
+Agreed to by the Senate, February 18, 2019
+RESOLVED by the House of Delegates, the Senate concurring, a majority of the members elected to each house agreeing, That the following amendment to the Constitution of Virginia be, and the same hereby is, proposed and referred to the General Assembly at its first regular session held after the next general election of members of the House of Delegates for its concurrence in conformity with the provisions of Section 1 of Article XII of the Constitution of Virginia, namely:
+Amend Section 6 of Article II of the Constitution of Virginia as follows:
+ARTICLE II
+FRANCHISE AND OFFICERS
+Section 6. Apportionment.
+Members of the House of Representatives of the United States and members of the Senate and of the House of Delegates of the General Assembly shall be elected from electoral districts established by the General Assembly. Every electoral district shall be composed of contiguous and compact territory and shall be so constituted as to give, as nearly as is practicable, representation in proportion to the population of the district. The General Assembly shall reapportion the Commonwealth into electoral districts in accordance with this section in the year 2011 and every ten years thereafter.
+Any such decennial reapportionment law shall take effect immediately and not be subject to the limitations contained in Article IV, Section 13, of this Constitution.
+Subsequent to the enactment of any decennial reapportionment law, the General Assembly may make technical adjustments to legislative electoral district boundaries solely for the purpose of causing such district boundaries to coincide with the boundaries of voting precincts established in the counties and cities. Such adjustments shall change legislative electoral district boundaries only to the extent necessary to accomplish this purpose, and any change made shall be consistent with any criteria for legislative electoral districts adopted for the preceding decennial redistricting.
+The districts delineated in the decennial reapportionment law shall be implemented for the November general election for the United States House of Representatives, Senate, or House of Delegates, respectively, that is held immediately prior to the expiration of the term being served in the year that the reapportionment law is required to be enacted. A member in office at the time that a decennial redistricting law is enacted shall complete his term of office and shall continue to represent the district from which he was elected for the duration of such term of office so long as he does not move his residence from the district from which he was elected. Any vacancy occurring during such term shall be filled from the same district that elected the member whose vacancy is being filled.
