@@ -1,0 +1,15 @@
+# 2019 Acts of Assembly, c. 309. Glasgow, Town of; amending charter, replaces references to town sergeant.
+CHAPTER 309
+An Act to amend and reenact §§ 4 through 7 of Chapter 486 of the Acts of Assembly of 1892, which provided a charter for the Town of Glasgow in Rockbridge County, relating to chief of police.
+[H 2660]
+Approved March 8, 2019
+Be it enacted by the General Assembly of Virginia:
+1. That §§ 4 through 7 of Chapter 486 of the Acts of Assembly of 1892 are amended and reenacted as follows:
+§ 4. Appointment, compensation, duties, and bonds of chief of police, clerk, and treasurer.
+The council shall appoint annually a chief of police, clerk, and treasurer and shall fix their compensation and prescribe their duties and require such bonds as may be deemed proper.
+§ 5. Chief of police to have powers of sheriff as to collection of taxes, levies, and fines and service and return of process.
+The chief of police of said town, who shall from time to time be appointed under this charter, shall have the like rights of distress and a power for collecting the taxes and levies made by said council of said town as sheriffs in similar cases, and shall be entitled to the same or like fees and commissions for collecting said taxes and levies, as are allowed sheriffs for collecting county levies, and in the service and return of all processes, and in the collection of all fines arising under the authority of this charter, or of any bylaws made in pursuance hereof, he shall have and possess the same rights and powers and be entitled to the same or like fees and commissions as allowed by law to sheriffs for similar services.
+§ 6. Chief of police to have powers and liabilities of constable as to collection of money and execution of warrants.
+The chief of police of said town, upon entering into bond in the general district court of Rockbridge County, in the manner prescribed by law for constables, and with such conditions as constables are required by law to enter into, shall have all the power and authority of a constable in the collection of money by warrant or otherwise, and to execute any and all process to him directed, or which might have been so directed; and shall and may do and perform all acts, execute and return such warrants, and be liable in the same manner and to the same extent that constables are by laws now in force.
+§ 7. Power of chief of police to arrest persons in violation of town ordinances.
+The chief of police of said town shall be conservator of the peace, and shall have power to arrest in said town, or anywhere within Rockbridge County, upon a warrant issued by the mayor, recorder, or councilmen, any person charged with a violation of the laws or ordinances of said town; and when a violation of the laws or ordinances of said town is committed in his presence, he shall have authority and power, without warrant, forthwith to arrest the offender, and carry him before some conservator of the peace of said town to be dealt with according to law.
