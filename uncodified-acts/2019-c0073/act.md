@@ -1,0 +1,8 @@
+# 2019 Acts of Assembly, c. 73. Forestry, Department of; conveyance of easement in Buckingham County.
+CHAPTER 73
+An Act to authorize the conveyance of an easement by the Department of Forestry in Buckingham County.
+[H 1783]
+Approved February 21, 2019
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That in accordance with the provisions of § 10.1-1107 of the Code of Virginia, the Department of Forestry is hereby authorized to convey, upon such terms as the Department deems proper, a perpetual right-of-way across a portion of the Appomattox-Buckingham State Forest, identified as tax map parcel number 176-12 in Buckingham County, to Robert H. Whistleman and Karen L. Whistleman. Such easement shall be 40 feet in width and run with the existing road in the location described to the greatest extent possible. The final easement may vary as necessary to reach the boundary of the Whistlemans' property and as deemed necessary by both parties as an improvement in the road location. The purpose of the conveyance from the Department of Forestry to Robert H. Whistleman and Karen L. Whistleman is to provide a right-of-way for ingress and egress and access for utilities from State Route 24 to the Whistlemans' parcel, identified as tax map parcel number 176-6.
+§ 2. The granting and conveying of the easements and rights-of-way shall be made in a form that complies with the provisions of § 2.2-1151 of the Code of Virginia. The appropriate officials of the Commonwealth are hereby authorized to prepare, execute, and deliver such deed and other documents as may be necessary to accomplish the conveyance.
