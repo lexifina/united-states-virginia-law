@@ -1,0 +1,14 @@
+# 2020 Acts of Assembly, c. 594. Parksley, Town of; amending charter, mayor and six members of council shall be elected in November.
+CHAPTER 594
+An Act to amend and reenact §§ 3.1, as amended, and 4.1 of Chapter 163 of the Acts of Assembly of 1979, which provided a charter for the Town of Parksley in the County of Accomack, relating to November elections.
+[H 1492]
+Approved April 2, 2020
+Be it enacted by the General Assembly of Virginia:
+1. That §§ 3.1, as amended, and 4.1 of Chapter 163 of the Acts of Assembly of 1979 are amended and reenacted as follows:
+§ 3.1. Election, qualification and term of office for mayor and council.
+The Town of Parksley shall be governed by a town council composed of six councilmen and a mayor, all of whom shall be qualified voters of the town and shall be elected by the qualified voters of the town in the manner provided by law from the town at large. The councilmen and mayor in office at the time of adoption of this charter shall continue in office until the expiration of the terms for which they were elected or until their successors are duly elected and qualify. An election for three councilmen shall be held on the first Tuesday in May, 1986, and on the first Tuesday in May of every even-numbered year thereafter. A mayor shall be elected at the election held on the first Tuesday in May, 1984, and every four years thereafter. The councilmen and mayor so elected shall take office on the first day of the following July, and shall each serve until their successors are elected and have qualified.
+In the May 1984 general election six members of council shall be elected and shall take office July one following their election and hold office as follows: the three councilmen receiving the highest number of votes shall serve terms of four years; the three remaining councilmen shall serve terms of two years. Thereafter, all terms shall be for four years.
+Beginning in 2020, the mayor and six members of council shall be elected at the November general election and shall take office January 1 following their election. The mayor and town council members who were elected in a May general election and whose terms are to expire on June 30, 2020, shall continue in office until their successors have been elected at the following November general election and have been qualified to serve.
+§ 4.1. Appointments.
+At the first meeting in January following each election or as soon thereafter as practicable, the council shall appoint or reappoint the following officers whose duties shall be as prescribed by the council not inconsistent or in conflict with general law: a town treasurer, a town clerk who may also be the town treasurer, a town attorney who shall be an attorney-at-law licensed to practice under the laws of the Commonwealth of Virginia and who shall be actively practicing in Accomack County.
+2. That an emergency exists and this act is in force from its passage.
