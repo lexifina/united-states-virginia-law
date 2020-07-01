@@ -1,0 +1,7 @@
+# 2020 Acts of Assembly, c. 377. Voting; restrictions on the basis of race.
+CHAPTER 377
+An Act to repeal Chapter 346 of the Acts of Assembly of 1903, Chapter 130 of the Acts of Assembly of 1908, and Chapters 216 and 224 of the Acts of Assembly of 1950, relating to voting restrictions; poll taxes; registration records separated on the basis of race.
+[S 555]
+Approved March 18, 2020
+Be it enacted by the General Assembly of Virginia:
+1. That Chapter 346 of the Acts of Assembly of 1903, Chapter 130 of the Acts of Assembly of 1908, and Chapters 216 and 224 of the Acts of Assembly of 1950 are repealed.
