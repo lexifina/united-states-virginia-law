@@ -1,0 +1,8 @@
+# 2020 Acts of Assembly, c. 745. Industrial hemp; VDACS to convene work group to assess opportunities for development of industry.
+CHAPTER 745
+An Act directing the Virginia Department of Agriculture and Consumer Services to convene a working group to assess the opportunities for development and manufacturing in the industrial hemp industry.
+[H 491]
+Approved April 6, 2020
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Virginia Department of Agriculture and Consumer Services shall convene a working group to assess the opportunities for development and manufacturing in the industrial hemp industry. The working group shall consider (i) federal and state requirements, (ii) key drivers and challenges, (iii) anticipated job growth and wage expectations, (iv) talent and skill requirements, (v) site and building needs, and (vi) manufacturing companies and supply chain requirements. The working group shall consist of the chief executive of the Virginia Economic Development Partnership or his designee; the members of the Tobacco Region Revitalization Commission appointed pursuant to Chapter 31 (§ 3.2-3100 et seq.) of Title 3.2 of the Code of Virginia; representatives of the Virginia Agribusiness Council and the Virginia Farm Bureau, who shall be involved in the growing or production of industrial hemp; and the Chief Workforce Development Advisor appointed pursuant to § 2.2-435.6 of the Code of Virginia.
+§ 2. The Virginia Department of Agriculture and Consumer Services shall report by November 30, 2020, to the Chairmen of the House Committee on Agriculture, Chesapeake and Natural Resources and the Senate Committee on Agriculture, Conservation and Natural Resources on the analysis required pursuant to § 1 of this act.
