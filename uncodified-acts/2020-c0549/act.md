@@ -1,0 +1,7 @@
+# 2020 Acts of Assembly, c. 549. Workers' compensation; repetitive motion injuries.
+CHAPTER 549
+An Act to direct the Virginia Workers' Compensation Commission to engage a national research organization to examine the implications of covering workers' injuries caused by repetitive motion through the Virginia workers' compensation system.
+[H 617]
+Approved March 31, 2020
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Virginia Workers' Compensation Commission shall engage an independent and reputable national research organization with expertise in workers' compensation policy to conduct an analysis to (i) develop options for covering workers' injuries caused by repetitive motion through the Virginia workers' compensation system and (ii) summarize key policy considerations associated with modifying the Code of Virginia to cover injuries caused by repetitive motion. The analysis shall take into consideration (a) the annual number of injuries caused by repetitive motion to workers in Virginia and other states; (b) other states' evidentiary requirements for claiming workers' compensation benefits for such injuries; (c) necessary changes to Virginia's statutory provisions; and (d) impacts on workers, employers, and insurers. The Virginia Workers' Compensation Commission shall ensure that the proposed options and policy considerations be submitted to the Chairmen of the House Committee on Appropriations and the Senate Committee on Finance and Appropriations by November 30, 2020.
