@@ -1,0 +1,26 @@
+# 2020 Acts of Assembly, c. 447. Abingdon, Town of; amending charter, updates town's boundary descriptions.
+CHAPTER 447
+An Act to amend and reenact §§ 1.3, 3.1, 3.4, 3.7, 4.1, 4.2, 4.5, 4.9, and 4.12 of Chapter 76 of the Acts of Assembly of 1978, which provided a charter for the Town of Abingdon in Washington County, and to repeal §§ 4.6 and 4.7 of Chapter 76 of the Acts of Assembly of 1978, relating to town boundaries, council, mayor, town manager, and salaries.
+[H 1720]
+Approved March 25, 2020
+Be it enacted by the General Assembly of Virginia:
+1. That §§ 1.3, 3.1, 3.4, 3.7, 4.1, 4.2, 4.5, 4.9, and 4.12 of Chapter 76 of the Acts of Assembly of 1978 are amended and reenacted as follows:
+§ 1.3. Boundaries.
+The boundaries of the town shall be as established by the annexation order of the Circuit Court of Washington County, Virginia, entered in Law Order Book "S", page 173, on the 17th day of April, 1948, and an order of the Circuit Court of Washington County, Virginia, contracting the corporate limits of the town of Abingdon as entered on November 22, 1950, in Law Order Book 27, page 24, an order of annexation of the Circuit Court of Washington County, Virginia, entered on May 28, 1987, in Law Order Book 55, page 456, a supplemental order of the Circuit Court of Washington County, Virginia, entered on July 6, 1987, in Law Order Book 55, page 583, and an order of the Circuit Court of Washington County, Virginia, entered on August 14, 1991, in Law Order Book 72, page 565 (amending and restating a prior order of the Circuit Court of Washington County, Virginia, entered on July 25, 1991, in Law Order Book 72, page 488), which are incorporated herein by reference and made a part hereof, and including such boundaries that may be annexed as memorialized by orders of court.
+§ 3.1. Election, qualification and term of office for councilmembers.
+The town of Abingdon shall be governed by a town council composed of five councilmembers, all of whom shall be qualified voters of the town, to be elected from the town at large. Any person qualified to vote in the town shall be eligible for the office of councilmember. The councilmembers in office at the time of the adoption of this charter shall continue in office until the expiration of the terms for which they were elected or until their successors are duly elected and qualified. An election for councilmember shall be held on the first Tuesday in May, 1978, and on the first Tuesday in May of every second year thereafter. The councilmembers elected the first Tuesday in May, 1978, and thereafter shall enter upon their duties on the first day of July next succeeding their election, and shall each serve for a term of four years or until their successors have qualified.
+§ 3.4. Mayor.
+At its first meeting, the council shall choose by a majority vote of all the members thereof one of their number to be mayor and one to be vice-mayor for the ensuing two years. The mayor shall preside over the meetings of the council, shall have the same right to speak therein as other members, and shall have a vote but no veto. The mayor shall be recognized as the head of the town government for all ceremonial purposes, the purposes of military law, and the service of civil process, and shall authenticate by the mayor's signature such documents or instruments as the council, this charter, or the laws of the Commonwealth shall require. The vice-mayor shall in the absence or disability of the mayor perform the duties of the mayor. In the absence or disability of both mayor and vice-mayor the council shall, by majority vote of those present, choose one of their number as acting mayor.
+§ 3.7. Salaries.
+The salaries of all councilmembers shall be fixed by council according to the procedure in § 15.2-1414.7 of the Code of Virginia. The council is hereby authorized to fix the salaries of all council appointees.
+§ 4.1. Appointments.
+At the first meeting in July following each councilmember election, or as soon thereafter as practicable, the council shall appoint:
+§ 4.2. Town manager.
+A town manager who shall be the administrative and executive head of the municipal government. The town manager shall be chosen by the council without regard to political beliefs and solely upon the basis of executive and administrative qualifications. At the time of appointment, the town manager need not be a resident of the town or the Commonwealth, but during the town manager's tenure of office shall reside within the town. The town manager's duties shall be as prescribed by the council.
+§ 4.5. Town attorney.
+A town attorney, who shall be an attorney at law licensed to practice under the laws of the Commonwealth and shall have actively practiced that profession therein for at least five years immediately preceding the appointment. The town attorney shall receive such compensation and fees as shall be provided by the council by ordinance or resolution.The town attorney's duties shall be as prescribed by the council.
+§ 4.9. Bonds.
+Officers shall execute such bonds as may be required by resolution of the council.
+§ 4.12. Boards and commissions.
+The council may, in its discretion, appoint such boards and commissions as it deems necessary.
+2. That §§ 4.6 and 4.7 of Chapter 76 of the Acts of Assembly of 1978 are repealed.
