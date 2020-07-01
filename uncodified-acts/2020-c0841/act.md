@@ -1,0 +1,7 @@
+# 2020 Acts of Assembly, c. 841. State plan for medical assistance; payment for services provided by certified doulas.
+CHAPTER 841
+An Act to require the Department of Medical Assistance Services to convene a work group to provide recommendations related to amending the state plan for medical assistance services to include a provision for the payment of medical assistance for services provided by certified doulas.
+[H 826]
+Approved April 7, 2020
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Department of Medical Assistance Services shall convene a work group to evaluate the potential costs and benefits, including potential reductions in maternal and infant mortality rates, of amending the state plan for medical assistance services to include a provision for the payment of medical assistance for antepartum, intrapartum, or postpartum services provided to a pregnant person or to a person who is up to one year postpartum for labor and delivery support by a certified doula and at least four visits during the antenatal period and at least seven visits during the postpartum period with a certified doula. Such work group shall also develop recommendations related to an appropriate reimbursement rate for such services provided by certified doulas. The work group shall report its findings and recommendations to the Governor and the Chairmen of the House Committee on Appropriations and the Senate Committee on Finance and Appropriations by December 1, 2020.
