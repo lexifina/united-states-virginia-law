@@ -1,0 +1,10 @@
+# 2020 Acts of Assembly, c. 517. Virginia housing opportunity tax credit program; VHDA, et al., to develop.
+CHAPTER 517
+An Act to direct the Department of Housing and Community Development and the Virginia Housing Development Authority to convene a stakeholder meeting on the establishment of a Virginia opportunity tax credit program.
+[H 810]
+Approved March 31, 2020
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The Department of Housing and Community Development (the Department) and the Virginia Housing Development Authority (the Authority) shall convene a stakeholder advisory group to develop draft legislation establishing a Virginia housing opportunity tax credit program for the purpose of providing incentives for the utilization of private equity in the development and construction of affordable housing in the Commonwealth and regulations for implementing such program. The stakeholder advisory group shall also conduct financial modeling to determine the fiscal impact to the Commonwealth of various levels of funding for a Virginia housing opportunity tax credit. The stakeholder advisory group shall determine the most effective and efficient way to administer the program in conjunction with the federal Low-Income Housing Tax Credit Program.
+§ 2. The stakeholder advisory group shall consist of individuals with expertise in land development, construction, affordable housing, real-estate finance, tax credit syndication, the federal Low-Income Housing Tax Credit Program, or other areas of expertise as determined by the Department and the Authority. The stakeholder advisory group shall also include representatives from the Department and the Authority.
+§ 3. The stakeholder advisory group shall receive support from the staff of the Department and the Authority.
+§ 4. The stakeholder advisory group shall report its recommendations to the Governor, the Secretary of Commerce and Trade, the Director of the Department of Housing and Community Development, and the commissioners of the Virginia Housing Development Authority by September 1, 2020.
