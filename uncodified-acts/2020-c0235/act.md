@@ -1,0 +1,7 @@
+# 2020 Acts of Assembly, c. 235. Acute psychiatric bed registry; DBHDS shall establish work group to evaluate, etc.
+CHAPTER 235
+An Act to direct the Department of Behavioral Health and Developmental Services to establish a work group to evaluate and make recommendations related to the acute psychiatric bed registry.
+[S 739]
+Approved March 10, 2020
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Department of Behavioral Health and Developmental Services (the Department) shall establish a work group to include representatives of such stakeholders as the Department may deem appropriate (i) to evaluate the role of the acute psychiatric bed registry (the registry) in collecting and disseminating information about the availability of acute psychiatric beds in the Commonwealth and collecting data and information to ensure adequate oversight of the process by which individuals are referred for acute psychiatric services, the structure of the registry, and the types of data required to be reported to the registry and (ii) to make recommendations for statutory, budgetary, or other actions necessary to redefine the purpose of the registry and improve its structure and effectiveness. The work group shall report its findings, conclusions, and recommendations to the Governor and the Chairmen of the Senate Committee on Education and Health, the House Committee on Health, Welfare and Institutions, and the Joint Subcommittee to Study Mental Health Services in the Commonwealth in the Twenty-First Century by November 1, 2020.
