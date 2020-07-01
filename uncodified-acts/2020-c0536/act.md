@@ -1,0 +1,11 @@
+# 2020 Acts of Assembly, c. 536. Blackstone, Town of; amending charter, advisory referendums.
+CHAPTER 536
+An Act to amend Chapter 128 of the Acts of Assembly of 1989, which provided a charter for the Town of Blackstone in the County of Nottoway, by adding in Chapter 4 sections numbered 4.5 and 4.6, relating to advisory referendums.
+[S 1036]
+Approved March 31, 2020
+Be it enacted by the General Assembly of Virginia:
+1. That Chapter 128 of the Acts of Assembly of 1989 is amended by adding in Chapter 4 sections numbered 4.5 and 4.6 as follows:
+§ 4.5. Advisory referendum for the Harris Memorial Armory.
+The Town of Blackstone shall have authority, by resolution directed to the Circuit Court of Nottoway County or the judge thereof in vacation, to order the submission of an advisory referendum to the qualified voters of the Town thereon regarding the use by the Town of Blackstone of town funds to construct, repair, remodel, or improve the Harris Memorial Armory. Upon the receipt of such resolution, the Circuit Court of Nottoway County or the judge thereof in vacation shall order an election to be held thereon at a time that is in conformity with § 24.2-682 of the Code of Virginia. The election shall be conducted and the result thereof ascertained and determined in the manner provided by law for the conduct of general elections and by the regular election officials of Nottoway County or the Town of Blackstone.
+§ 4.6. Advisory referendum for a community center.
+The Town of Blackstone shall have authority, by resolution directed to the Circuit Court of Nottoway County or the judge thereof in vacation, to order the submission of an advisory referendum to the qualified voters of the Town thereon regarding the use by the Town of Blackstone of town funds to construct, repair, remodel, or improve a community center. Upon the receipt of such resolution, the Circuit Court of Nottoway County or the judge thereof in vacation shall order an election to be held thereon at a time that is in conformity with § 24.2-682 of the Code of Virginia. The election shall be conducted and the result thereof ascertained and determined in the manner provided by law for the conduct of general elections and by the regular election officials of Nottoway County or the Town of Blackstone.
