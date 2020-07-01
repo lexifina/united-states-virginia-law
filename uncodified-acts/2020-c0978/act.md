@@ -1,0 +1,7 @@
+# 2020 Acts of Assembly, c. 978. Transportation, Department of; at-risk infrastructure, report.
+CHAPTER 978
+An Act to direct the Department of Transportation to identify certain at-risk infrastructure. Report.
+[H 1217]
+Approved April 9, 2020
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The Department of Transportation (the Department) shall, in collaboration with the Commonwealth Center for Recurrent Flooding Resiliency, identify public transportation infrastructure in Planning District 8 that is at risk of deterioration due to recurrent flooding. For purposes of this section, "public transportation infrastructure" includes roads and bridges under the jurisdiction of the Department. The Department shall (i) identify the issues related to recurrent flooding and the scope of such issues and (ii) make policy and budget recommendations to alleviate such issues. The Department shall complete its meetings by November 30, 2021, and the Commissioner shall report its findings and recommendations to the Chairs of the House and Senate Committees on Transportation no later than the first day of the 2022 Regular Session of the General Assembly. The executive summary and report shall be submitted as provided in the procedures of the Division of Legislative Automated Systems for the processing of legislative documents and reports and shall be posted on the General Assembly's website.
