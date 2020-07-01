@@ -1,0 +1,23 @@
+# 2020 Acts of Assembly, c. 825. Blacksburg, Town of; amending charter, public hearings.
+CHAPTER 825
+An Act to amend and reenact § 3.15, as amended, of Chapter 619 of the Acts of Assembly of 1975, which provided a charter for the Town of Blacksburg in Montgomery County, relating to ordinances; public hearings.
+[S 454]
+Approved April 7, 2020
+Be it enacted by the General Assembly of Virginia:
+1. That § 3.15, as amended, of Chapter 619 of the Acts of Assembly of 1975 is amended and reenacted as follows:
+§ 3.15. Ordinances.
+(a) Action requiring an ordinance. In addition to other acts required by law or by specific provision of this charter to be done by ordinance, those acts of the town council shall be by ordinance which:
+(1) Adopt or amend an administrative code or establish, alter or abolish any town department, office or agency;
+(2) Provide for a fine or other penalty or establish a rule or regulation for violation of which a fine or other penalty is imposed;
+(3) Levy taxes, except as otherwise provided in Article VI with respect to the property tax levied by adoption of the budget;
+(4) Grant, renew or extend a franchise;
+(5) Regulate the rate charged for its services by the town; provided, however, that the council may by resolution authorize the rates or fees charged by the Department of Parks and Recreation for use of its facilities or participation in its programs and authorize the rates and fees charged by other departments of the town for sale of maps, reports or other publications or making of copies of printed or recorded matter;
+(6) Authorize the borrowing of money;
+(7) Convey or lease or authorize the conveyance or lease of any lands of the town.
+Acts other than those referred to in the preceding sentence may be done either by ordinance or by resolution if not in conflict with law.
+(b) Form. Every proposed ordinance shall be introduced in writing and in the form required for adoption. No ordinance shall contain more than one subject which shall be clearly expressed in its title. The enacting clause shall be "Be it ordained by the Council of the Town of Blacksburg . . . ."
+(c) Procedure. An ordinance may be introduced by any member at any regular or special meeting of the council. Upon introduction of any ordinance, the town clerk shall distribute a copy to each council member and to the manager, shall file a reasonable number of copies in the office of the town clerk and such other public places as the council may designate, and shall publish the ordinance together with a notice setting out the time and place for a public hearing thereon and for its consideration by the council. The public hearing shall follow the publication by at least five days, may be held separately or in connection with a regular or special council meeting and may be adjourned from time to time; all persons interested shall have an opportunity to be heard. If the council plans to conduct the public hearing but to delay action on the ordinance, the date for the delayed vote shall be stated on the agenda. After the hearing the council may adopt the ordinance with or without amendment or reject it but, if it is amended so as to materially change the purpose and character of the proposed ordinance, the council may not adopt it until the ordinance or its amended sections have been subjected to all the procedures hereinbefore required for a newly introduced ordinance. After conducting and closing the public hearing, the council may vote to delay action until its next regular meeting.
+To pass an ordinance, the council shall vote on the proposed ordinance two times. If at any stage in this procedure the proposed ordinance fails to receive the affirmative vote of a majority of the members of the council, the ordinance shall be declared defeated and removed from the calendar of ordinances.
+(d) Effective date. Except as otherwise provided in this charter, every adopted ordinance shall become effective from its passage or at any later date specified therein.
+(e) "Publish" defined. As used in this section, the term "publish" means to print in one or more newspapers of general circulation in the town: (1) the ordinance or a brief summary thereof, and (2) the places where copies of it have been filed and the times when they are available for public inspection.
+(f) Penalties. The town council may prescribe either civil or criminal penalties for violations of ordinances. Any civil penalty shall be paid into the general fund of the town. No civil penalty prescribed for an ordinance violation shall be inconsistent with the penalty established for a violation of a substantially similar state law. No such civil penalty shall exceed $1,000 for any individual violation.
