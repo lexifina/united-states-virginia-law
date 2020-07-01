@@ -1,0 +1,7 @@
+# 2020 Acts of Assembly, c. 901. Human Rights, Division of; requirements for equal pay irrespective of sex.
+CHAPTER 901
+An Act to direct the Division of Human Rights to determine the requirements for proactively enforcing statutory requirements for equal pay irrespective of sex.
+[H 624]
+Approved April 9, 2020
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Division of Human Rights of the Department of Law (the Division) is directed to develop recommendations regarding the type of information about businesses and their employees and the accompanying methodology that would be required for the Division to proactively enforce the provisions of § 40.1-28.6 of the Code of Virginia requiring equal pay of similarly situated employees irrespective of sex. Additionally, the Division shall develop recommendations regarding the data and methodological requirements for proactively enforcing a requirement for equal pay irrespective of race. The Division shall also develop recommendations regarding appropriate enforcement mechanisms, including causes of action and civil remedies, to address discrimination in compensation based on sex and race. In developing such recommendations, the Division shall engage stakeholders representing employers and employees in the Commonwealth. The Division shall report its findings and recommendations to the Governor and the General Assembly no later than November 30, 2020.
