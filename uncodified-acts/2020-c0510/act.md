@@ -1,0 +1,7 @@
+# 2020 Acts of Assembly, c. 510. Microcredentials; DOE to develop a plan to adopt, etc.
+CHAPTER 510
+An Act to require the Department of Education to develop a plan to adopt and implement standards for microcredentials.
+[H 836]
+Approved March 27, 2020
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The Department of Education shall develop a plan to adopt and implement standards for microcredentials used toward add-on endorsements and renewal of licenses earned by Virginia license holders in science, technology, engineering, and mathematics (STEM) fields. Such plan shall include (i) a process for reviewing and administering educator microcredentials; (ii) assurances that educator microcredentials rely upon demonstrable evidence from the submission of artifacts, such as student projects and teacher lesson plans, that are then objectively scored against existing rubrics; and (iii) assurances that educator microcredentials focus on interrelated competencies leading to logical teacher professional development pathways and stacks of educator microcredentials and align with the Board of Education's ongoing work on educator professional development. Such plan shall also include the resources needed for statewide implementation. The Department of Education shall complete and submit the plan to the Chairmen of the House Committee on Education, the House Committee on Appropriations, the Senate Committee on Education and Health, and the Senate Committee on Finance and Appropriations no later than December 1, 2020.
