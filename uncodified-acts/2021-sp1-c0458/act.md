@@ -1,0 +1,7 @@
+# 2021 Acts of Assembly (Special Session I), c. 458. An Act to study improved communication between beekeepers and applicators of neonicotinoid insecticides.
+CHAPTER 458
+An Act to study improved communication between beekeepers and applicators of neonicotinoid insecticides.
+[H 2030]
+Approved March 31, 2021
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Department of Agriculture and Consumer Services (the Department) shall study the Beekeeper Pollinator Protection Plan and voluntary best management practices, authorized pursuant to § 3.2-108.1 of the Code of Virginia, for the purpose of proposing improvements to communication between beekeepers and applicators to further reduce the risk to pollinators from neonicotinoid pesticides. In conducting its study, the Department may establish a stakeholder working group composed of representatives of affected groups, including beekeepers, agricultural producers, commercial pesticide applicators, private pesticide applicators, pesticide manufacturers, retailers, lawn and turf service providers, the Virginia Farm Bureau, the Virginia Agribusiness Council, other agribusiness and farmer organizations, and the Virginia Cooperative Extension. The Department shall, no later than December 1, 2021, provide a report on its findings to the Chairman of the Senate Committee on Agriculture, Conservation and Natural Resources and the Chairman of the House Committee on Agriculture, Chesapeake and Natural Resources.
