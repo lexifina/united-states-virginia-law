@@ -1,0 +1,12 @@
+# 2021 Acts of Assembly, c. 4. An Act to amend and reenact § 5, as amended, of Chapter 76 of the Acts of Assembly of 1974, which created the Lynchburg Parking Authority, relating to terms of members.
+CHAPTER 4
+An Act to amend and reenact § 5, as amended, of Chapter 76 of the Acts of Assembly of 1974, which created the Lynchburg Parking Authority, relating to terms of members.
+[H 1768]
+Approved March 1, 2021
+Be it enacted by the General Assembly of Virginia:
+1. That § 5, as amended, of Chapter 76 of the Acts of Assembly of 1974 is amended and reenacted as follows:
+§ 5. Membership of the Authority.
+The Authority organized under the provisions of this act shall consist of seven members selected by the governing body of the organizing municipality who shall serve staggered five-year terms, and the initial terms for each director shall be five years or less to provide for staggered membership. However, beginning with appointments made on or after July 1, 2021, the successor of each member of the Authority shall be appointed for a term of three years. Any person appointed to fill a vacancy shall be appointed to serve only for the unexpired term, and any member of the Authority may be reappointed.
+Each member of the Authority before entering upon his duties shall take and subscribe an oath or affirmation to support the Constitutions of the United States and of the Commonwealth and to discharge faithfully the duties of his office and a record of each such oath shall be filed with the Secretary of the Authority.
+The Authority shall select one of its members as Chairman and another as Vice-Chairman and shall also select a Secretary and a Treasurer who may but need not be members of the Authority. The offices of Secretary and Treasurer may be combined. The terms of office of the Chairman, Vice-Chairman, Secretary and Treasurer shall be as provided in the bylaws of the Authority.
+A majority of the members of the Authority shall constitute a quorum and the affirmative vote of a majority of all of the members of the Authority shall be necessary for any action taken by the Authority. No vacancy in the membership of the Authority shall impair the right of a quorum to exercise all the rights and perform all the duties of the Authority. The members of the Authority shall serve without compensation but shall be reimbursed for the amount of actual expenses incurred by them in the performance of their duties.
