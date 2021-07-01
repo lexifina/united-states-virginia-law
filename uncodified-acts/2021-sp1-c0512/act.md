@@ -1,0 +1,7 @@
+# 2021 Acts of Assembly (Special Session I), c. 512. An Act to direct the Bureau of Insurance to review and make recommendations regarding paid family and medical leave.
+CHAPTER 512
+An Act to direct the Bureau of Insurance to review and make recommendations regarding paid family and medical leave.
+[S 1219]
+Approved March 31, 2021
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The State Corporation Commission's Bureau of Insurance (the Bureau) shall make recommendations regarding any necessary statutory changes that would permit the sale of private insurance plans that would help meet the policy goals identified in the "Paid Family and Medical Leave Study" published by the Offices of the Secretary of Commerce and Trade and the Chief Workforce Development Advisor in September 2020 and coexist as part of a statewide paid family and medical leave program, administered by the Commonwealth, as outlined in such study. In conducting its review, the Bureau shall convene a stakeholder group to participate in the process, which shall include representatives from the insurance industry, the business community, including small and mid-size businesses that have had difficulty purchasing private insurance in the past, labor organizations, advocates for paid family leave and medical leave, and other interested parties. The Bureau shall report its findings and recommendations to the Senate Committees on Commerce and Labor and Finance and Appropriations and the House Committees on Labor and Commerce and Appropriations by November 30, 2021.
