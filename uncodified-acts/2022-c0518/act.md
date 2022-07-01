@@ -1,0 +1,7 @@
+# 2022 Acts of Assembly, c. 518. Broadband affordability plan; Department of Housing and Community Development to develop, report.
+CHAPTER 518
+An Act to direct the Department of Housing and Community Development to develop a plan to address broadband affordability.
+[H 1265]
+Approved April 11, 2022
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The Department of Housing and Community Development (the Department) shall develop a plan, to be known as the Commonwealth Digital Affordability and Cost Effectiveness Plan (the Plan), to access federal funding under the federal Infrastructure Investment and Jobs Act (P.L. 117-58). In order to achieve this goal, the Department shall apply for funding through a planning grant from the National Telecommunications and Information Administration. The Plan shall include (i) an overview of options for affordable broadband connectivity in the Commonwealth; (ii) recommendations on how best to leverage federal grants addressing broadband affordability; (iii) best practices for establishing a broadband affordability program, taking into account existing federal funds and programs; and (iv) recommendations for public outreach, with consideration of the report submitted by the Department of Social Services as required in Item 359 L of Chapter 552 of the Acts of Assembly of 2021, Special Session I. The Department shall report the Plan to the Governor and the General Assembly by December 1, 2022.
