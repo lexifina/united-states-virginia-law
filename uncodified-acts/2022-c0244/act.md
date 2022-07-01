@@ -1,0 +1,8 @@
+# 2022 Acts of Assembly, c. 244. Notice of final adverse decision; audio and video recordings.
+CHAPTER 244
+An Act to direct the Common Interest Community Board to review the feasibility of allowing audio and video recordings to be submitted with a notice of final adverse decision; report.
+[S 693]
+Approved April 8, 2022
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Common Interest Community Board (the Board) shall review the feasibility of allowing audio and video recordings to be submitted with a notice of final adverse decision as a record pertinent to the decision in accordance with § 54.1-2354.4 of the Code of Virginia. In conducting its review, the Board shall (i) solicit and consider public comments; (ii) identify pertinent statutory and regulatory amendments necessary to allow for the submission of audio and video recordings in accordance with the provisions of this act; (iii) identify any impediments to the submission of audio and video recordings, including information technology limitations and compliance with the provisions of the Virginia Freedom of Information Act (§ 2.2-3700 et seq. of the Code of Virginia) and other public records laws; and (iv) consider whether allowing the submission of audio and video recordings pursuant to the provisions of this act would assist the Common Interest Community Ombudsman in the performance of his duties with respect to any notice of final adverse decision.
+The Board shall report its findings and any legislative, regulatory, policy, or budgetary recommendations to the Secretary of Labor and the Chairmen of the House Committee on General Laws and the Senate Committee on General Laws and Technology on or before November 1, 2022.
