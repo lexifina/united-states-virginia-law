@@ -1,0 +1,7 @@
+# 2022 Acts of Assembly, c. 564. Manufactured home lot rental agreements and public notices; work group to develop sample documents.
+CHAPTER 564
+An Act to direct the Department of Housing and Community Development to convene a work group for the purpose of developing sample documents related to manufactured home lot rental agreements and park notices.
+[H 1065]
+Approved April 11, 2022
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The Department of Housing and Community Development shall convene a work group for the purposes of developing (i) a sample manufactured home lot rental agreement in accordance with the requirements of the Virginia Manufactured Home Lot Rental Act (§ 55.1-1300 et seq. of the Code of Virginia) and (ii) sample manufactured home park notices regarding an intent to sell as required by § 55.1-1308.2 of the Code of Virginia. The work group shall consist of representatives from the Virginia Housing Development Authority, manufactured home park nonprofit and for-profit owners, representatives from associations representing the interests of manufactured home park owners, manufactured home park residents, legal aid attorneys representing residents of manufactured home parks, attorneys with knowledge of and expertise in the Virginia Manufactured Home Lot Rental Act and other applicable provisions of the Code of Virginia, and other relevant stakeholders.
