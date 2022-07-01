@@ -1,0 +1,7 @@
+# 2022 Acts of Assembly, c. 130. Virginia Code Commission; work group to review public notices required to be published.
+CHAPTER 130
+An Act to direct the Virginia Code Commission to convene a work group to review relevant provisions of the Code of Virginia, relating to public notices required to be published by localities.
+[S 417]
+Approved April 7, 2022
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Virginia Code Commission shall convene a work group, including representatives of the Virginia Press Association, the Virginia Association of Counties, the Virginia Municipal League, and other relevant stakeholders to review requirements throughout the Code of Virginia for localities to provide public notice for intended actions and events, including business meetings, the creation of taxation zones, proposed amendments to existing planning and zoning ordinances, and consideration of budgets. The work group shall also review (i) the varying frequency for publishing notices in newspapers and other print media, (ii) the number of days required to elapse between the publications of notices, and (iii) the amount of information required to be contained in each notice and make recommendations for uniformity and efficiency. The Virginia Code Commission shall submit a report to the Chairmen of the House Committee on General Laws and the Senate Committee on General Laws and Technology summarizing the work and any recommendations of the work group by November 1, 2022.
