@@ -1,0 +1,26 @@
+# 2022 Acts of Assembly, c. 293. Relief; Carter, Joseph.
+CHAPTER 293
+An Act for the relief of Joseph Carter, relating to claims; compensation for wrongful incarceration.
+[H 383]
+Approved April 8, 2022
+Whereas, Joseph Carter was convicted in the Circuit Court of the City of Norfolk on June 27, 1990, for the first degree murder, attempted robbery, robbery, and statutory burglary; and
+Whereas, Mr. Carter was sentenced two life sentences, plus an additional 30 years in prison; and
+Whereas, Mr. Carter served almost 27 years in the Virginia Department of Corrections, remaining infraction free for the final 16 years of his incarceration before being paroled in 2016; and
+Whereas, Mr. Carter was released from prison on parole supervision, with no violations committed during his supervision; and
+Whereas, Mr. Carter maintained steady employment until he was no longer able to work due to worsening symptoms of his diagnosed spinal stenosis; and
+Whereas, Mr. Carter, through counsel, submitted a petition for clemency seeking an absolute pardon based on the evidence of his innocence, including insufficient evidence to support a guilty verdict, strong chance of witness misidentification, lack of motive, and lack of blood sample analysis; and
+Whereas, there was no physical or forensic evidence tying Mr. Carter to the murder; the Commonwealth instead relied solely on tainted witness testimony obtained by disgraced former Norfolk Detective Robert Glenn Ford and his partner; and
+Whereas, two eyewitnesses initially told police that they did not recognize either of the two masked assailants. During later interviews with Detective Ford, both witnesses changed their stories and ultimately identified Mr. Carter as the perpetrator; and
+Whereas, the Commonwealth witness who testified that Mr. Carter and his co-defendant were looking for money on the night of the robbery and murder only provided this alleged motive to police after he was questioned by Detective Ford because his fingerprints were found at the scene; and
+Whereas, during the post-conviction investigation, the Commonwealth's critical eyewitness admitted that her trial testimony was false and that she was in fact never able to identify the two men leaving the scene on the night of the victim's murder, swearing that "[t]he truth is that I have no idea who committed this crime, because I did not get a good look at either man. They flew by my window so fast; it was impossible to see any identifying details."
+Whereas, Governor Ralph Northam granted Mr. Carter an absolute pardon on August 13, 2021, noting that "Mr. Carter was an unfortunate victim of Norfolk Detective Glenn Ford, who used his official capacity to extort witnesses in order to yield high solvability percentages and was eventually convicted on federal charges;" and
+Whereas, Governor Ralph Northam decided that it was "just and appropriate to grant this ABSOLUTE PARDON that reflects Mr. Carter's innocence of First Degree Murder, Attempted Robbery, Robbery, and Statutory Burglary for which he was convicted on June 27, 1990."
+Whereas, during the course of Mr. Carter's wrongful incarceration, he and his wife divorced, and his children lost decades with their father. Also, both of Mr. Carter's parents died, as well as his brother and oldest son.
+Whereas, Mr. Carter, as a result of his wrongful incarceration, lost 27 years of his freedom and countless life experiences and opportunities, including family relations, the opportunity to further his education, and the opportunity to earn potential income from gainful employment during his years of incarceration; and
+Whereas, Mr. Carter has no other means to obtain adequate relief except by action of this body; now, therefore,
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That there is hereby appropriated from the general fund of the state treasury the sum of $1,483,342 for the relief of Joseph Carter, to be paid by check issued by the State Treasurer on warrant of the Comptroller upon execution of a release of all claims Mr. Carter may have against the Commonwealth or any agency, instrumentality, office, employee, or political subdivision in connection with the aforesaid occurrence.
+As Mr. Carter is older than 60 years, the compensation, subject to the execution of the release described herein, shall be paid in one lump sum of $1,483,342 by check issued by the State Treasurer on warrant of the Comptroller within 60 days immediately following the execution of such release.
+§ 2. That Mr. Carter shall be entitled to receive reimbursements up to $10,000 for tuition for career and technical training within the Virginia Community College System contingent upon successful completion of the training. Reimbursement for tuition shall be provide by the comprehensive community college at which the career or technical training was completed. The tuition benefit provided by this section shall expire on January 1, 2026.
+§ 3. That any amount already paid to Mr. Carter as a transition assistance grant pursuant to subsection C of § 8.01-195.11 of the Code of Virginia shall be deducted from any award received pursuant to § 1 of this act.
+2. That the provisions of § 8.01-195.12 of the Code of Virginia shall apply to any compensation awarded under this act.
