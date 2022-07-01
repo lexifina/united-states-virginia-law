@@ -1,0 +1,12 @@
+# 2022 Acts of Assembly, c. 592. High-speed broadband service; expanding to new residential and commercial development.
+CHAPTER 592
+An Act to create a stakeholder advisory group on expanding high-speed broadband service in new residential and commercial development.
+[H 445]
+Approved April 11, 2022
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The Department of Housing and Community Development (the Department) shall convene a stakeholder advisory group for the purpose of evaluating local and state policies, procedures, or ordinances to facilitate the expansion of high-speed broadband service and associated infrastructure in new residential and commercial development.
+With assistance from the Department, the Broadband Advisory Council, and the Commission on Local Government, the stakeholder advisory group shall, to the extent possible, compile information related to existing local ordinances, development standards, and procedures related to the deployment or expansion of high-speed broadband services and associated infrastructure in new residential and commercial development. Furthermore, the stakeholder advisory group shall make a recommendation to the Department regarding any local ordinances, policies, or procedures that have been effective in expanding or deploying high-speed broadband service and associated infrastructure in new residential and commercial development.
+The stakeholder advisory group shall also identify any consensus recommendations on changes to existing state law that would facilitate the deployment or expansion of broadband service and associated infrastructure in new residential and commercial development.
+The stakeholder advisory group shall be composed of representatives from the commercial and residential land development and construction industry, local government, high-speed broadband providers, and other stakeholders as determined by the Department. The Department shall receive technical assistance from the Broadband Advisory Council and the Commission on Local Government.
+The Department shall report its findings and recommendations to the Broadband Advisory Council no later than September 30, 2022.
+The stakeholder advisory group established pursuant to this act shall not be a public body as defined in § 2.2-3701 of the Virginia Freedom of Information Act (§ 2.2-3700 et seq. of the Code of Virginia), but its meetings shall be open to the public with notice provided by the Department as provided in subsection C of § 2.2-3707 of the Code of Virginia.
