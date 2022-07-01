@@ -1,0 +1,7 @@
+# 2022 Acts of Assembly, c. 191. Alkaline hydrolysis; work group to determine regulatory & statutory changes needed to legalize, etc.
+CHAPTER 191
+An Act to direct the Board of Funeral Directors and Embalmers to convene a work group to study how to regulate and implement the process of alkaline hydrolysis in the Commonwealth.
+[S 129]
+Approved April 7, 2022
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Board of Funeral Directors and Embalmers (the Board) shall convene a work group consisting of relevant stakeholders to determine the (i) regulatory and statutory changes needed to legalize, implement, and regulate the process of alkaline hydrolysis in the Commonwealth; (ii) necessary qualifications to enable a person to engage in the practice of alkaline hydrolysis; (iii) proper standards for the operation of a facility containing a pressure vessel for alkaline hydrolysis; and (iv) proper requirements for licensure as an owner or operator of such a facility. In conducting its study, the work group shall provide opportunity for public participation and consider any necessary environmental precautions and safety measures to ensure proper (a) regulation and implementation of the alkaline hydrolysis process and (b) regulation and inspection of facilities where alkaline hydrolysis is conducted in the Commonwealth. The Board shall report the results of such study to the Chairmen of the Senate Committee on Education and Health and the House Committee on Health, Welfare and Institutions on or before November 1, 2022.
