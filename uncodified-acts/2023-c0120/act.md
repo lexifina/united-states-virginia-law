@@ -1,0 +1,7 @@
+# 2023 Acts of Assembly, c. 120. Tick-borne diseases; VDH to study reducing occurrence & impact.
+CHAPTER 120
+An Act to require the Department of Health to develop recommendations for reducing the occurrence and impact of tick-borne diseases in the Commonwealth.
+[H 2008]
+Approved March 21, 2023
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Department of Health shall convene a work group composed of representatives of health care providers, public health experts, organizations representing individuals living with or impacted by tick-borne diseases, and other appropriate stakeholders to study and make recommendations for reducing the occurrence and impact of tick-borne diseases in the Commonwealth. The work group's report shall include recommendations for (i) increasing public awareness of tick-borne diseases and strategies for preventing tick-borne diseases, (ii) educating health care providers and the public about the importance of and need for early diagnosis and treatment of tick-borne diseases, (iii) improving public health surveillance and data collection related to tick-borne diseases, and (iv) developing and implementing strategies to reduce tick populations and reduce the risk of exposure to and transmission of tick-borne diseases in the Commonwealth. The work group shall report its findings and recommendations to the Governor and the General Assembly by November 1, 2023.
