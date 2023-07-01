@@ -1,0 +1,7 @@
+# 2023 Acts of Assembly, c. 545. Veterans Services, Dept. of; hospitals that furnish comprehensive treatment program for veterans.
+CHAPTER 545
+An Act to allow the Department of Veterans Services to contract with any hyperbaric clinic or any hospital in the Commonwealth that furnishes a comprehensive treatment program to any veteran who has been certified by the U.S. Department of Veterans Affairs or any branch of the United States Armed Forces as having post-traumatic stress disorder or traumatic brain injury.
+[S 1082]
+Approved March 26, 2023
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Department of Veterans Services may contract with any hyperbaric clinic providing medical-grade 100 percent oxygen in U.S. Food and Drug Administration-approved chambers in the Commonwealth or any hospital that furnishes a comprehensive treatment program that may include medication, psychotherapy, and hyperbaric oxygen therapy, from an accredited program, to any veteran in the Commonwealth who has been certified by the U.S. Department of Veterans Affairs or any branch of the United States Armed Forces as having post-traumatic stress disorder or traumatic brain injury. The Department of Veterans Services shall include in any contract with such clinic or hospital the requirement that data be collected to assess the efficacy of such treatments for such veterans and any other information deemed relevant by the Department of Veterans Services.
