@@ -1,0 +1,7 @@
+# 2023 Acts of Assembly, c. 164. Tax practitioners; work group to consider discussion process, etc.
+CHAPTER 164
+An Act to establish a work group to consider a formalized discussion process for practitioners and the Department of Taxation; report.
+[H 1368]
+Approved March 22, 2023
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Department of Taxation shall convene a work group to study the Department's current policies and procedures in order to determine options for a mechanism for tax practitioners to provide feedback to the Department on an ongoing basis. Among such options, the work group shall consider the scope, feasibility, and function of an ongoing commission or similar structure to provide regular feedback to the Department. The work group shall include members selected by the Taxation Section of the Virginia Bar Association, the Virginia Society of Certified Public Accountants, and the Virginia Society of Enrolled Agents and may also include members selected by the Commissioners of the Revenue Association of Virginia and representatives from the Low Income Taxpayer Clinics Program. The Division of Legislative Services shall provide legal, research, policy analysis, and other services as requested by the work group. The work group shall complete its meetings by November 1, 2023, and the Department shall submit a report of its findings and recommendations to the Chairmen of the House Committee on Finance, the House Committee on Appropriations, and the Senate Committee on Finance and Appropriations by December 1, 2023.
