@@ -1,0 +1,9 @@
+# 2023 Acts of Assembly, c. 208. Alexandria Historical Restoration and Preservation Commission; surety bonds for membership.
+CHAPTER 208
+An Act to amend and reenact § 3 of Chapter 481 of the Acts of Assembly of 1962, as amended by Chapter 173 of the Acts of Assembly of 1976 and by Chapter 439 of the Acts of Assembly of 2002, relating to Alexandria Historical Restoration and Preservation Commission; surety bonds for membership.
+[S 942]
+Approved March 22, 2023
+Be it enacted by the General Assembly of Virginia:
+1. That § 3 of Chapter 481 of the Acts of Assembly of 1962, as amended by Chapter 173 of the Acts of Assembly of 1976 and by Chapter 439 of the Acts of Assembly of 2002, is amended and reenacted as follows:
+§ 3. The Commission shall consist of five members, three to be appointed by the city council of Alexandria and two to be appointed by the Governor; they shall be appointed within thirty days after the effective date of this act. Members of the original Commission shall be appointed for terms as follows: One for two years, two for three years and two for four years, provided that the members appointed by the Governor shall be appointed for four years, and thereafter members shall be appointed for four-year terms except appointments to fill vacancies for unexpired terms in which event the appointment shall be for the unexpired term only. The members of the Commission, including the chairman, shall receive no compensation for their services but shall be entitled to be reimbursed for per diem and travel expenses incurred in the performance of their official duties as members of the Commission.
+The Commission shall be expanded to nine members beginning July 1, 2002. The additional members shall be appointed by the city council of Alexandria. Thereafter members shall be appointed for four-year terms except appointments to fill vacancies for unexpired terms, in which event the appointment shall be for the unexpired term only.
