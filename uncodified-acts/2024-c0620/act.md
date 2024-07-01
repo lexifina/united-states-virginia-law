@@ -1,0 +1,7 @@
+# 2024 Acts of Assembly, c. 620. Secretary of Health and Human Resources; work group; wholesale prescription drug importation programs; report.
+CHAPTER 620
+An Act to direct the Secretary of Health and Human Resources to convene a work group to investigate wholesale prescription drug importation programs in other states and evaluate best practices for the establishment and application of such a program in the Commonwealth; report.
+[S 186]
+Approved April 8, 2024
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Secretary of Health and Human Resources (the Secretary) shall convene a work group composed of relevant stakeholders, including representatives from pharmaceutical manufacturers, health plans, and Virginia pharmacists, to (i) investigate wholesale prescription drug importation programs in other states, including the procedures for start-up and continued execution; (ii) evaluate best practices for the establishment and application of such a program; and (iii) consider the effectiveness of implementing such a program in the Commonwealth. The work group shall take into consideration the cost and safety of such a program. The Secretary shall provide a report on the feasibility of such a plan in the Commonwealth to the Governor, the Chairmen of the House Committees on Appropriations and Health and Human Services, and the Senate Committees on Finance and Appropriations and Education and Health by November 1, 2024.
