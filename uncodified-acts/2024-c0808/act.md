@@ -1,0 +1,7 @@
+# 2024 Acts of Assembly, c. 808. Department of Behavioral Health and Developmental Services; facilities licensed to provide inpatient substance use disorder treatment; valid discharge plans.
+CHAPTER 808
+An Act to direct the Department of Behavioral Health and Developmental Services to require certain facilities to prepare and record valid discharge plans.
+[H 434]
+Approved April 17, 2024
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Department of Behavioral Health and Developmental Services (the Department) shall amend its regulations to require that any facility licensed by the Department to provide inpatient or residential substance use disorder treatment be required to prepare and record a valid discharge plan upon the discharge or withdrawal of any individual from the facility who has received substance use disorder treatment while admitted to such facility. Such discharge plan shall include the provisions that the facility (i) identify and coordinate with public and private agencies or persons identified as able to deliver any needed services to such individuals and (ii) provide care coordination with such individual's payor to assist such individual in the execution of such discharge plan. The regulations shall provide that failure by a facility to prepare and record valid discharge plans may result in issuance of a licensing report, reduction in license status, or sanctions enumerated in § 37.2-419 of the Code of Virginia, as deemed appropriate by the Department.
