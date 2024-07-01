@@ -1,0 +1,9 @@
+# 2024 Acts of Assembly, c. 721. Commissioner of Behavioral Health shall develop a plan.
+CHAPTER 721
+An Act to direct the Commissioner of Behavioral Health and Developmental Services to develop a plan to ensure people with disabilities have an opportunity to access affordable and inclusive housing.
+[H 327]
+Approved April 8, 2024
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Commissioner of Behavioral Health and Developmental Services (the Commissioner) shall work with stakeholders to develop a plan to ensure that people with disabilities across the Commonwealth, including individuals affected by the Settlement Agreement entered into on August 23, 2012, pursuant to U.S. of America v. Commonwealth of Virginia, No. 3:12cv059-JAG, have an opportunity to access affordable and inclusive housing that is comparable to those of their nondisabled peers. Such plan shall include recommendations for (i) increasing the supply of affordable and inclusive housing through new construction and renovations of existing real property; (ii) minimizing the cost to the individual to secure such housing; (iii) ensuring that individuals are able to secure the services they need to sustain inclusive housing; (iv) educating communities on best practices for inclusion in all aspects of community life; and (v) undertaking meaningful regulatory reform.
+The Commissioner shall present such plan to the Chairmen of the House Committee on Health and Human Services and the Senate Committee on Education and Health no later than November 1, 2025.
+For purposes of this act, "inclusive housing" means housing that includes individualized accessibility features and ready access to essential community resources. The goal of inclusive housing is to provide the occupant with freedom, equality, and opportunities to participate fully in public life.
