@@ -1,0 +1,9 @@
+# 2024 Acts of Assembly, c. 97. Combined sewer overflow outfalls; Chesapeake Bay Watershed.
+CHAPTER 97
+An Act to amend and reenact §§ 3 and 4 of Chapter 826 and §§ 3 and 4 of Chapter 827 of the Acts of Assembly of 2017, relating to combined sewer overflow outfalls; compliance with regulations; Chesapeake Bay Watershed.
+[H 71]
+Approved March 20, 2024
+Be it enacted by the General Assembly of Virginia:
+1. That §§ 3 and 4 of Chapter 826 and §§ 3 and 4 of Chapter 827 of the Acts of Assembly of 2017 are amended and reenacted as follows:
+§ 3. Any owner of a CSO outfall that discharges into the Chesapeake Bay Watershed not under a state order or decree related to the CSO as of January 1, 2017, shall, by July 1, 2023, initiate construction activities necessary to bring the CSO outfall into compliance and shall, by July 1, 2026, bring the CSO outfall into compliance with Virginia law, the federal Clean Water Act, and the Presumption Approach described in the EPA CSO Control Policy, unless a higher level of control is necessary to comply with a TMDL.
+§ 4. Any owner of a CSO outfall that discharges into the Chesapeake Bay Watershed not under a state order or decree related to the CSO as of January 1, 2017, shall report annually to DEQ on its progress pursuant to § 3. No later than January 1 of each year, DEQ shall transmit, with any additional information the Director of DEQ determines to be appropriate, the CSO outfall progress reports to the Chairmen of the Senate Committee on Finance and Appropriations, the Senate Committee on Agriculture, Conservation and Natural Resources, the House Committee on Appropriations, and the House Committee on Agriculture, Chesapeake and Natural Resources; the Virginia delegation to the Chesapeake Bay Commission; the Secretary of Natural and Historic Resources; and the Governor.
