@@ -1,0 +1,9 @@
+# 2024 Acts of Assembly, c. 321. Department of Conservation and Recreation; two-year pilot program; all-terrain power wheelchairs in state parks.
+CHAPTER 321
+An Act to direct the Department of Conservation and Recreation to create a two-year pilot program to provide all-terrain power wheelchairs to enhance state park accessibility for individuals with limited mobility.
+[H 1186]
+Approved April 2, 2024
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The Department of Conservation and Recreation (the Department) shall establish a two-year pilot program on or before October 1, 2024, and ending October 30, 2026, to enhance accessibility for individuals with limited mobility in Virginia's state parks by providing all-terrain power wheelchairs that may be used by such persons during their visits. The Department shall use the money collected from custom license plates to pay for the administration of the pilot program.
+§ 2. The Department shall choose the locations for the pilot program and shall enter into a contract for the purchase of all-terrain power wheelchairs for the pilot program. Such wheelchairs shall be equipped with tank-like tracks capable of traveling up hills, over rocks and roots, and through streams and sand; clearing fallen trees; and traversing through tall grass. The Department may establish guidelines to administer the pilot program.
+§ 3. By November 1, 2026, the Department shall make a report available to the public regarding the outcome of the pilot program on its website. Such report shall include the cost of the entire program, any benefits attendant to the placement of all-terrain power wheelchairs in the locations of the pilot program, and recommendations concerning the continued placement of all-terrain power wheelchairs in Virginia's state parks.
