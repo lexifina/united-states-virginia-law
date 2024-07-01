@@ -1,0 +1,7 @@
+# 2024 Acts of Assembly, c. 551. Department of Medical Assistance Services; Department of Behavioral Health and Developmental Services; 1915(c) Home and Community-Based Services Medicaid Waivers; state plan amendments; program rule modifications.
+CHAPTER 551
+An Act to direct the Department of Medical Assistance Services and the Department of Behavioral Health and Developmental Services to submit state plan amendments to the Centers for Medicare and Medicaid Services to seek to modify the program rules for certain 1915(c) Home and Community-Based Services Medicaid Waivers.
+[H 1318]
+Approved April 5, 2024
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Department of Medical Assistance Services (DMAS) and the Department of Behavioral Health and Developmental Services (DBHDS) shall submit state plan amendments to the Centers for Medicare and Medicaid Services to seek to modify the program rules for the following 1915(c) Home and Community-Based Services Medicaid Waivers: Community Living Waiver, Family and Individual Supports Waiver, and Commonwealth Coordinated Care Plus Waiver. DMAS and DBHDS shall submit state plan amendments to the Centers for Medicare and Medicaid Services to eliminate the requirement under such waivers that in order for a legally responsible individual to receive reimbursement for personal care services, no one else be available to provide such services to the Medicaid member.
