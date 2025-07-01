@@ -1,0 +1,5 @@
+# 2025 Acts of Assembly, c. 186. Board of Education; accreditation requirements for professional education programs; exemption for professional education programs leading to certain endorsements.
+CHAPTER 186
+An Act to direct the Board of Education to amend its regulations relating to the accreditation requirements for professional education programs in Virginia to provide an alternative for certain programs.
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Board of Education shall amend its regulations in 8VAC20-543-20, relating to accreditation requirements for professional education programs in the Commonwealth, to require the Department of Education to provide an alternative to the requirement to obtain and maintain national accreditation from the Council for the Accreditation of Educator Preparation to any professional education program that (i) leads to an endorsement set forth in 8VAC20-543-610 and 8VAC20-543-620 and (ii) has a secured specialty area accreditation from a specialized accrediting agency recognized by the U.S. Secretary of Education or the Council for Higher Education Accreditation.
