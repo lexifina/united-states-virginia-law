@@ -1,0 +1,8 @@
+# 2025 Acts of Assembly, c. 33. Charter; Town of Urbanna.
+CHAPTER 33
+An Act to amend and reenact § 4, as amended, of Chapter 131 of the Acts of Assembly of 1964, which provided a charter for the Town of Urbanna in Middlesex County, relating to the mayor.
+Be it enacted by the General Assembly of Virginia:
+1. That § 4, as amended, of Chapter 131 of the Acts of Assembly of 1964 is amended and reenacted as follows:
+§ 4. Mayor.
+The mayor shall be elected for a term of four years, on the November general election date. The mayor so elected shall enter upon the duties of his/her office on the first day of January succeeding his/her election, and remain in office until his/her successor has qualified. The mayor's compensation shall be fixed by the council.
+The mayor shall be the chief executive officer of the town. He/she shall have and exercise all power and authority conferred by general law not inconsistent with this charter. He/she shall preside over the meetings of the town council and shall have the same right to speak and vote. The mayor shall be a member of town council and, as such, shall be included in the determination of a quorum. He/she shall be recognized as the head of the town government for all ceremonial and military purposes. He/she shall perform such other duties consistent with his/her office as may be imposed by the council. He/she shall see that the duties of the various town officers are faithfully performed. He/she, or the person acting as mayor, may sign and deliver such documents or instruments as the council, this charter, or the laws of the Commonwealth shall require or authorize.
