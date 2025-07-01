@@ -1,0 +1,5 @@
+# 2025 Acts of Assembly, c. 301. Department of Medical Assistance Services; state plan for medical assistance services; crisis stabilization services for nonhospitalized individuals; emergency.
+CHAPTER 301
+An Act to direct the Department of Medical Assistance Services to allow certain crisis stabilization services to be provided in institutions for mental disease.
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Department of Medical Assistance Services (the Department) shall seek necessary federal approvals to remove the prohibition against the use of crisis stabilization services for nonhospitalized individuals in institutions for mental disease. Upon receiving federal approval, the Department shall have the authority to implement such change through agency guidance documents prior to the completion of any regulatory review process and shall promulgate regulations to implement the provisions of such change to be effective within 280 days of receiving federal approval.
