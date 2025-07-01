@@ -1,0 +1,5 @@
+# 2025 Acts of Assembly, c. 339. School Health Services Committee; comprehensive review of student diabetes medical management plans; report.
+CHAPTER 339
+An Act to require the School Health Services Committee to conduct a comprehensive review of a legislative proposal relating to student diabetes medical management plans; report.
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The School Health Services Committee established pursuant to Chapter 64 (§ 30-409 et seq.) of Title 30 of the Code of Virginia shall, in consultation with such interested stakeholders as it deems appropriate, conduct a comprehensive review of the legislative proposal relating to student diabetes medical management plans contained in the amended substitute to Senate Bill 1303 (2025) offered to the House Committee on Education during the 2025 Regular Session of the General Assembly and shall report to the Chairmen of the House Committee on Education and the Senate Committee on Education and Health no later than November 1, 2025, any legislative recommendations that result from such comprehensive review.
