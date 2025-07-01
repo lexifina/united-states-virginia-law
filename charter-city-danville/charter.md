@@ -1,0 +1,205 @@
+# Danville, City of
+Chapter 1. Incorporation; Charter.
+§ 1-1. Creation, general powers.
+A. Incorporation. The residents living within the territorial boundaries of the City of Danville, as established by law, are and shall continue to be a body politic and corporate organized pursuant to the laws of the Commonwealth of Virginia as a municipal corporation under the name of the City of Danville and as such shall have perpetual succession.
+B. Corporate powers. The City may sue and be sued, may contract and be contracted with, and may have a corporate seal which it may alter at its pleasure. The Council may, in the name and for the use of the City, contract debts, and cause to be issued therefor notes or bonds, in the manner provided by law and subject to the restrictions imposed upon cities by the Constitution and laws of the Commonwealth, including but not limited to the Virginia Public Finance Act.
+C. Powers relating to property. The City is hereby vested with the fee simple title to every public street, alley, and public right-of-way within the territorial boundaries of the City. The Council may provide for the protection, management, and use of all real and personal property owned by the City, whether such property is located within or outside the territorial boundaries of the City, and such City property, wherever located and for whatever purpose it is used, is under the police jurisdiction of the City for the purpose of enforcing any law, rule, or policy made pursuant to this power, consistent with law. Any real or personal property owned by the City that is located outside the territorial boundaries of the City and is used by the City consistent with its powers and duties, is exempt from taxation by the government of any locality in which such property is physically located.
+D. Police powers. The City is hereby vested with the duty and power to protect the public health, safety, and general welfare within the jurisdiction of the City. To protect the City water supply, the Council may provide for the prevention of pollution of such water supply, including but not limited to the water in the Dan River and any tributary thereof, whether located within or outside the territorial boundaries of the City. Accordingly, the Council may prohibit the introduction of pollutants and other foreign matter therein for a distance of three (3) miles above the territorial boundaries of the City, and may punish any offender by fine, imprisonment, or both, and may enjoin any person from causing such pollution.
+E. Statutory powers. The City has and may exercise each and every power which is now or may later be vested in or delegated to cities, to localities generally, or to officers thereof, under the Constitution and laws of the Commonwealth and every other power relating to the conduct of a city government, the exercise of which is not inconsistent with such Constitution and laws, as fully and completely as though each such power is expressly enumerated in this Charter. No enumeration of any specific power in this Charter shall be interpreted as being exclusive, but rather as being in addition to this general grant of powers. The powers herein granted include, but are not limited to, all powers available to cities, localities generally, and officers thereof under Title 15.2 of the Code of Virginia. (
+2025, cc.
+51
+,
+67
+)
+§ 1-2. Territorial boundaries.
+A. Existing boundaries. The territorial boundaries of the City are and shall continue to be those defined in the Act of the General Assembly approved April 20, 1903, being Chapter 162, at Page 237, of the Virginia Acts of Assembly of 1903, and as enlarged by those court orders and decrees recorded in the land records of the Circuit Court of the City of Danville, Virginia in the following places: Deed Book 74, at Page 264; Deed Book 152, at Page 345; Deed Book 217, at Page 462; Deed Book 247, at Page 98; Deed Book 286, at Page 445; Deed Book 298, at Page 391; Deed Book 307, at Page 479; Deed Book 343, at Page 31; Deed Book 385, at Page 17; Deed Book 396, at Page 611; Deed Book 396, at Page 616; Deed Book 477, at Page 65; Deed Book 503, at Page 27; Deed Book 518, at Page 394; Deed Book 518, at Page 400; Deed Book 518, at Page 406; Deed Book 590, at Page 382; and Deed Book 869, at Page 522.
+B. Future boundaries. Any change to the territorial boundaries of the City made after the effective date of this Charter need not be expressly enumerated herein to take effect. (
+2025, cc.
+51
+,
+67
+)
+§ 1-3. City officers.
+A. Vesting of administration and governance. The administration and governance of the City is vested in the Council of the City of Danville, and in such other boards and officers established by this Charter or by law.
+B. Oath of office. Every person elected by the qualified voters of the City or appointed by the Council to any City office, including, but not limited to, any City board or commission created by ordinance, shall take the oath of office required of a State officer by law, prior to assuming such office. Such oath may be administered by any person allowed by law to administer such oath, including, but not limited to, the City Clerk, and a written document certifying the giving of such oath shall be filed with and maintained by the City Clerk.
+C. Failure to take oath or give bond. If any person elected or appointed to any City office fails to take the oath or give any required bond by the day of the initial meeting or on which the term begins, then such office shall be deemed vacant, and another election or appointment shall be made for such office in accordance with law.
+D. Continuity of office. Whenever any City officer, including, but not limited to, any City board or commission created by ordinance, is elected or appointed for a fixed term, such officer shall continue to hold office until a successor is elected or appointed to such office and satisfies all qualifications to hold such office, consistent with law. (
+2025, cc.
+51
+,
+67
+)
+§ 1-4. The Charter.
+A. Rules of construction. In the interpretation of this Charter, the following rules of construction are used, unless such interpretation is inconsistent with the clear intention of the Charter:
+1. Computation of time and date. Whenever a particular time is referred to in this Charter, the applicable time is Eastern Standard Time or Daylight Saving Time, whichever is in current use and effect in the City on the applicable date. Whenever a particular date is referred to, the applicable date is based upon the Gregorian calendar in a year calculated Anno Domini (A.D.);
+2. Number. A word used in the singular includes the plural, and a word used in the plural includes the singular;
+3. Tense. A word used in the past or present tense includes the future;
+4. Headings. The headings or titles of the several sections and subsections of this Charter are intended as mere catchwords to indicate the contents of the sections and are not part of this Charter;
+5. References to law. Any general reference in this Charter to law includes, as applicable, the Constitution and laws of the Commonwealth of Virginia as well as the Charter, ordinances, and other laws of the City, as may be amended from time to time.
+B. Severability. If any portion, section, or provision of this Charter is declared unconstitutional, illegal, or otherwise invalid by final order of any court of competent jurisdiction, then to the maximum extent allowed by law, such order shall not be interpreted as invalidating any other portion, section, or provision hereof, and every part of the Charter not expressly affected by such order shall be continued in full and remain in full force and effect.
+C. Continuation of existing officers, laws, and contracts. Any City officer, including, but not limited to, the member of any City board or commission created by ordinance, who is elected or appointed for a specified term beginning prior to the effective date of this Charter and whose term has not yet expired upon such effective date shall continue to hold such office until the original term expires. Every City ordinance and resolution and every rule, policy, and order legally made by any City department, board, or officer in force upon the effective date of this Charter is hereby continued in full and remains valid. Every contract and obligation made by the Council or the City government prior to the effective date of this Charter is hereby continued in full and remains a valid and legal obligation of the City, consistent with law. The authority to issue any bond, the issuance of which was legally authorized prior to the effective date of this Charter, shall not lapse, terminate, or be otherwise affected by reason of any provision herein, and any such bond may be sold or issued in accordance with the ordinance authorizing its issuance and with any provision of law in force prior to the effective date of this Charter, or in accordance with this Charter. (
+2025, cc.
+51
+,
+67
+)
+Chapter 2. The Council.
+§ 2-1. Council composition and membership.
+A. Composition. The governing body of the City is the Council, which consists of nine (9) members, who are elected by the qualified voters of the City, at large, to a four (4) year term. Any candidate seeking to be elected to the Council shall be nominated as provided by law.
+B. Elections. Each general Council election shall be conducted in accordance with the laws of the Commonwealth. On the first Tuesday after the first Monday in November 2022, there shall be elected by the qualified voters of the City four (4) Council members whose terms shall begin January 1, 2023, and expire January 1, 2027. On the first Tuesday after the first Monday in November 2024, there shall be elected by the qualified voters of the City five (5) Council members whose terms shall begin January 1, 2025, and expire January 1, 2029. Each succeeding two (2) years after 2024, on the first Tuesday after the first Monday in November, there shall be elected four (4) or five (5) Council members, as the case may be, to serve for terms of four (4) years beginning and expiring on January 1, to fill the vacancies caused by the expiration of the previous terms of office. If, subsequent to the adoption of this Charter, the laws of the Commonwealth allow local governing bodies to hold elections in May, then in the next general election that occurs at least one (1) year subsequent to such allowance, Council elections shall instead be conducted in May rather than November and terms shall expire July 1 rather than January 1.
+C. Continuing body. The Council is a continuing body and no measure pending before it shall expire or be discontinued due to the expiration of a term of office or a change in Council membership.
+D. Ineligibility for other office. No Council member shall, while holding such office and for one (1) year thereafter, be eligible for employment or appointment to any paid office of the City government, provided that the Council is expressly authorized to appoint one (1) of its members to serve as a Commissioner of the Danville Redevelopment and Housing Authority. (
+2025, cc.
+51
+,
+67
+)
+§ 2-2. Council vacancies.
+A. Filling by appointment. If a vacancy in the Council shall occur in the same year as the expiration of the term, then the vacancy shall be filled for the unexpired term through appointment by the Council. In such case, the Council shall, within forty-five (45) days of the occurrence of the vacancy, appoint an interim replacement to serve until the expiration of the term. No person shall be appointed to fill a vacancy unless such person is a qualified voter of the City and receives the votes of at least a majority of the remaining Council members. If a majority of the remaining Council members are unable to fill the vacancy within forty-five (45) days of the occurrence of the vacancy, such vacancy shall be filled by appointment by a majority of the judges of the Circuit Court, until a special election to fill the vacancy is conducted in accordance with law.
+B. Filling by special election. If a vacancy in the Council occurs in a year other than that in which the term expires, then the vacancy shall be filled by special election. In such case, the Council shall, within fifteen (15) days of the occurrence of the vacancy, petition the Circuit Court to issue a writ of election to fill the vacancy. Any special election required by this Section shall be conducted on the date of the earliest general election following the occurrence of the vacancy, unless the occurrence is within ninety (90) days of the earliest general election, in which case the special election shall occur in the following general election. The Council may fill a vacancy with an interim appointment until such time as the vacancy is otherwise filled by special election. (
+2025, cc.
+51
+,
+67
+)
+§ 2-3. Council organization.
+A. Inaugural meeting. An inaugural meeting of the Council shall take place in the Council chamber in the Municipal Building at twelve o'clock noon (12:00 P.M.) on the first business day of January of each odd-numbered year. The meeting shall be called to order by the City Clerk, or if absent or unable, the City Attorney, who shall administer the oath of office to the newly elected members of the Council. If, subsequent to the adoption of this Charter, the laws of the Commonwealth allow local governing bodies to hold elections in May, then after the first general election that occurs in May, the inaugural meeting of the Council shall instead be conducted in July of each even-numbered year rather than January of each odd-numbered year.
+B. Selection of officers. The first item of business at the inaugural meeting shall be the selection of a Mayor and Vice Mayor, and the Council shall not adjourn until a Mayor and Vice Mayor are selected. The Council shall select, by majority vote of all its members a Mayor and a Vice Mayor from among its members for the ensuing two (2) years.
+C. Mayor. The Mayor shall act as president of the Council, shall preside at meetings of the Council, and shall perform such other duties consistent with this office as may be required by the Council. The Mayor shall be entitled to vote and speak the same as any other member, but shall possess no veto power. The Mayor shall be recognized as the head of the City government for all official functions and ceremonial purposes, and for purposes of military law, and may use the title of Mayor in any case in which the execution of legal documents, or other necessity arising from law, may so require, provided that this authority shall not be construed as vesting any administrative function or other power of an executive officer under law.
+D. Vice Mayor. The Vice Mayor shall, in the absence or inability of the Mayor, perform the duties of Mayor, and if a vacancy shall occur in the office of Mayor, shall become Mayor for the unexpired portion of the term. In the absence or inability of both the Mayor and Vice Mayor from any meeting, the Council shall select an acting Mayor from amongst its members. If a vacancy shall occur in the office of Vice Mayor, the Council shall select, by majority vote of all its members, a Vice Mayor from among its members for the remaining term. (
+2025, cc.
+51
+,
+67
+)
+§ 2-4. Council meetings.
+A. Quorum. A quorum, consisting of a majority of the whole Council, is required to conduct official business; however, a smaller number of Council members may adjourn meetings if a quorum is not present.
+B. Rules of procedure. The Council has the power to adopt its own rules of procedure, subject to the provisions of this Charter. Such rules shall establish the time and location of regular Council meetings, provided that at least one (1) is held in each month. Such rules shall authorize special meetings at the request of the Mayor or any two (2) Council members and shall establish the method of giving notice thereof, consistent with law, and no item of business may be considered at such meeting unless included in the notice or the whole Council is present. No vote taken at a previous meeting shall be rescinded or reconsidered at any special meeting, unless there are at least as many members present at such special meeting as were present when such previous vote was taken.
+C. Misconduct. The Council may punish any member for misconduct and may compel the attendance of any member in such manner and under such penalty as may be required by law. (
+2025, cc.
+51
+,
+67
+)
+§ 2-5. Legislative powers.
+A. Vesting of legislative powers. The Council is hereby vested with full power and authority to exercise each and every legislative power vested in the City, except as otherwise provided in this Charter or by law. The Council may make and enforce any ordinance, rule, and policy it deems necessary or expedient to carry into effect any of its powers and may establish such penalty for the violation thereof, consistent with law.
+B. Introduction of laws. Any Council member or committee may introduce an ordinance or resolution at any Council meeting, consistent with any notice required by law.
+C. Adoption of laws. No ordinance, resolution, motion, or vote shall be adopted by the Council except at a meeting open to the public and, unless it shall have received the affirmative votes of at least a majority of those members present and voting, excepting any motion to adjourn, recess, or any other similar motion of a purely procedural nature. Any ordinance or resolution may be voted on and passed at the meeting in which it is introduced, except as otherwise provided by law, and shall become effective upon adoption unless otherwise provided by the Council. No ordinance that imposes any tax or appropriates any money exceeding $1,000 shall be adopted, unless it shall have been introduced at a Council meeting at least ten (10) days prior to its final adoption.
+D. When ordinance required. Every legislative act of the Council establishing or modifying the compensation of any City officer or employee, making any appropriation, authorizing the borrowing of money, levying a tax, establishing any rule or policy enforceable by a fine or penalty, or placing any burden upon or limiting the use of private property shall be by ordinance.
+E. When full majority required. No ordinance that imposes any tax, authorizes the borrowing of any money, or appropriates any amount of money exceeding $500 shall be adopted by the Council, unless it shall have received the affirmative votes of a majority of the whole Council.
+F. Authentication. Each ordinance or resolution, upon its final passage, shall be authenticated by the signatures of the Mayor and the City Clerk and permanently recorded with the City Clerk. (
+2025, cc.
+51
+,
+67
+)
+§ 2-6. City budget process.
+A. Fiscal year. The fiscal year of the City begins on the first day of July and ends on the last day of June.
+B. Submission of proposed budget. Each year, the City Manager shall prepare and submit to the Council, for its consideration, a proposed budget for the upcoming fiscal year, based upon detailed estimates provided by City staff according to a classification as nearly uniform as is practicable. The proposed budget shall present such other information as may be required by law or requested by the Council. An initial proposed budget shall be presented to Council at least ninety (90) days prior to the end of the fiscal year, and after receiving input from the Council, a final proposed budget shall be ready for introduction and adoption at a Council meeting at least sixty (60) days prior to the end of the fiscal year.
+C. Consideration of proposed budget. A summary of the proposed budget shall be published consistent with law, along with notice of a public hearing for such proposal. After the public hearing, the Council may insert any new item of expenditure or may increase, decrease, or strike out any item of expenditure, provided that no item of expenditure for debt service or that is otherwise required to be included by law may be reduced or stricken out.
+D. Adoption of final budget. Prior to the end of each fiscal year, the Council shall adopt an appropriation ordinance based upon the proposed budget and shall levy any tax and fee as is necessary to pay for each appropriation made and any amount required by law to service the City debt. The total amount of City spending shall not exceed the estimated amount of City revenue, except in accordance with this Charter. (
+2025, cc.
+51
+,
+67
+)
+Chapter 3. Appointed Offices.
+§ 3-1. City Manager.
+A. Appointment and qualifications. The Council shall appoint a City Manager for an indefinite term. The City Manager shall be chosen solely on the basis of executive and administrative qualification, with special reference to actual experience in, or knowledge of, accepted practice in respect to the powers and duties of such office. The City Manager need not be a resident of the City or the Commonwealth at the time of appointment, but the City Manager shall reside within the City while holding such office. The City Manager may, with the consent of the Council, designate some properly qualified person to perform the duties of City Manager in case of absence or inability.
+B. Duties. The City Manager shall be the chief executive officer of the City, shall keep the Council fully advised as to any present or future need of the City, and shall be responsible to the Council for the proper and efficient administration of the City government and all of its affairs.
+C. Powers. In the furtherance of these duties, the City Manager has the power, consistent with law, to:
+1. receive notification of and attend every Council meeting, along with the right to take part in the discussion, but having no vote;
+2. make reports and recommendations to the Council, as required or deemed advisable;
+3. submit to the Council a proposed annual budget with his recommendations, consistent with law, and to execute the budget as adopted;
+4. take care that every City law is faithfully executed;
+5. make and execute any contract on behalf of the City;
+6. exercise supervision and control over each City administrative department and division, and except for the purpose of inquiry, the Council and its members shall deal with the administrative service solely through the City Manager, and neither the Council nor any member thereof shall give any public or private order to any subordinate of the City Manager;
+7. receive notification of and attend every meeting of every City board or commission created by ordinance, along with the right to take part in the discussion, but having no vote unless the ordinance creating the same shall expressly authorize such voting power;
+8. appoint each City officer and employee, except for those subordinates the City Manager authorizes a department Director responsible to him to appoint for such department, and to remove any such officer or employee, consistent with law. Neither the Council nor any of its members shall direct the City Manager or any subordinate thereof to appoint or remove any City officer or employee, provided that this Subsection shall not be interpreted as prohibiting any Council member from discussing any appointment or removal with the City Manager; and
+9. exercise such other powers as are required by law. (
+2025, cc.
+51
+,
+67
+)
+§ 3-2. City Attorney.
+A. Appointment and qualifications. The Council shall appoint a City Attorney for an indefinite term. The City Attorney shall be an attorney actively licensed to practice in the Commonwealth.
+B. Duties. The City Attorney shall be chief legal advisor of the Council, the City Manager, and each City department, board, and commission in any matter affecting the interests of the City and shall, upon request, provide a written opinion on any question of law involving their respective powers and duties.
+C. Powers. In the furtherance of these duties, the City Attorney has the power, consistent with law, to:
+1. receive notification of and attend every Council meeting;
+2. prepare any ordinance or resolution for introduction and examine any existing ordinance or resolution and provide an official opinion as to its form and legality, upon the request of the City Manager or a member of the Council;
+3. exercise management and control over any legal matter involving the City or in which it has an interest and shall represent the City as counsel in any civil case in which it is has an interest and in any criminal case in which the validity of a City law is at issue;
+4. initiate and conduct any legal proceeding deemed necessary to protect the interests of the City;
+5. draft or approve as to form any deed, lease, contract, bond, or other legal instrument to which the City is a party or in which it has an interest;
+6. appoint and remove such Deputy and Assistant City Attorneys and other employees as are authorized by the Council, and may authorize any such Deputy or Assistant City Attorney, or any special counsel, to perform any duty entrusted to the City Attorney by law; and
+7. perform such other duties and exercise such other powers as are required by law. (
+2025, cc.
+51
+,
+67
+)
+§ 3-3. City Clerk.
+A. Appointment and qualifications. The Council shall appoint a City Clerk for an indefinite term. The City Clerk may hold any other office or position in the City government if appointed by the Council or the City Manager.
+B. Duties. The City Clerk shall be the clerk of the Council, shall keep the journal of its proceedings, and shall permanently record and maintain each ordinance and resolution it adopts. The Clerk shall make all required public notices upon behalf of the Council and shall notify each person appointed by the Council to a City office of such appointment. The Clerk shall be the custodian of the corporate seal of the City and is authorized to use and authenticate such seal. Any record maintained by the City Clerk is a public record and the Clerk shall make the same available for inspection in accordance with law.
+C. Powers. The City Clerk may appoint and remove such Deputy Clerks and other employees as are authorized by the Council and may authorize any such Deputy to perform any duty entrusted to the City Clerk, unless it be some duty that may not be delegated by law. The Clerk shall perform such other duties and exercise such other powers as are required by law. (
+2025, cc.
+51
+,
+67
+)
+Chapter 4. Elected Officers.
+§ 4-1. Elections for constitutional offices.
+A. Application. This Section shall apply to the constitutional offices of City Treasurer, Commissioner of the Revenue, Attorney for the Commonwealth, City Sheriff, and Clerk of the Circuit Court. Each constitutional office identified herein shall be filled by election by the qualified voters of the City. Candidates for any constitutional office shall be nominated as provided by the laws of the Commonwealth, and the laws of the Commonwealth relating to the conduct of elections shall be applicable to the conduct of elections required by this Section. A vacancy in any office identified herein shall be filled as provided by the laws of the Commonwealth.
+B. Elections. On the first Tuesday after the first Monday in November 2025, there shall be elected by the qualified voters of the City, a City Treasurer, a Commissioner of the Revenue, an Attorney for the Commonwealth, and a City Sheriff, for a four (4) year term which shall begin January 1, 2026. On the first Tuesday after the first Monday in November 2027, there shall be elected by the qualified voters of the City, a Clerk of the Circuit Court for an eight (8) year term which shall begin January 1, 2028. (
+2025, cc.
+51
+,
+67
+)
+§ 4-2. City Treasurer.
+A. Duties and powers. The City Treasurer shall be the custodian of all money belonging to the City or coming into its possession. The Treasurer shall select each bank, savings and loan association, and trust company used to keep and preserve such money in, subject to the right of the Council to require that such money on deposit be secured by the pledge of appropriate collateral. The Treasurer shall have custody of any investment and the proceeds thereof belonging to the City or in its possession in a fiduciary capacity, unless otherwise provided by law or the terms of any trust. The Treasurer shall be responsible for the protection, receipt, and delivery of any City bond or note for transfer, registration, and exchange. The Treasurer shall perform such other duties and exercise such other powers as are required of such office by law.
+B. Collection of taxes and fees. The City Manager shall assign additional responsibility for the collection of any charge for services performed or provided by the City and any tax, assessment, or other amount due or owed thereto to City staff, consistent with law. Such staff members have every power and duty relating to the enforcement and collection of revenue and other charges which is vested by law in local treasurers.
+C. Investment of idle funds. If authorized by the Council, any designated City officer may invest or deposit any idle funds belonging to or in the possession of the City, including but not limited to the proceeds of any bond pending the use of such proceeds for the purpose for which such bond was issued, in any security, investment, or revenue-producing deposit allowed by law. (
+2025, cc.
+51
+,
+67
+)
+§ 4-3. Commissioner of the Revenue.
+A. Duties and powers. The Commissioner of the Revenue shall perform such duties relating to the assessment of personal property and licenses as are required by the Council, consistent with law. The Commissioner shall provide any report relating to the assessment of personal property and licenses upon the request of the Council or the City Manager and shall exercise such other powers and perform such other duties as are required by law.
+B. Assessment of real estate. The assessment of real estate for taxation shall be performed by a City Assessor. The City Assessor shall be appointed with the consent of the City Manager and shall exercise every power and perform every duty vested by law in a commissioner of the revenue or other assessor relating to the assessment of real property. (
+2025, cc.
+51
+,
+67
+)
+§ 4-4. Attorney for the Commonwealth.
+The Attorney for the Commonwealth shall prosecute any criminal violation of a City law, including upon appeal, and shall perform such other duties and exercise such other powers as are required of such office by law. (
+2025, cc.
+51
+,
+67
+)
+§ 4-5. City Sheriff.
+The City Sheriff shall perform such duties and exercise such powers as are required of such office by law. (
+2025, cc.
+51
+,
+67
+)
+§ 4-6. Clerk of the Circuit Court.
+The Clerk of the Circuit Court shall notify each person elected by the qualified voters of the City pursuant to this Charter of such election and shall exercise such other powers and perform such other duties as are required by law. (
+2025, cc.
+51
+,
+67
+)
+§ 4-7. School Board.
+A. Composition. The School Board of the City is and shall continue to be a body corporate organized pursuant to the laws of the Commonwealth of Virginia under the name of the School Board of the City of Danville. The School Board shall consist of seven (7) members, who shall each be a qualified voter of the City.
+B. Elections. Each member of the School Board shall be elected by the qualified voters of the City, at large. Candidates for School Board shall be nominated as provided by the laws of the Commonwealth, and the laws of the Commonwealth relating to the conduct of elections shall be applicable to the conduct of elections required by this Section. Any vacancy occurring in the School Board shall be filled pursuant to the laws of the Commonwealth. On the first Tuesday after the first Monday in November 2022, there shall be elected by the qualified voters of the City three (3) School Board members whose terms shall begin January 1, 2023, and expire January 1, 2027. On the first Tuesday after the first Monday in November 2024, there shall be elected by the qualified voters of the City four (4) School Board members whose terms shall begin January 1, 2025, and expire January 1, 2029. Each succeeding two (2) years after 2024, on the first Tuesday after the first Monday in November, there shall be elected three (3) or four (4) School Board members, as the case may be, to serve for terms of four (4) years beginning and expiring on January 1, to fill the vacancies caused by the expiration of the previous terms of office. If, subsequent to the adoption of this Charter, the laws of the Commonwealth allow local school boards to hold elections in May, then in the next general election that occurs at least one (1) year subsequent to such allowance, School Board elections shall instead be conducted in May rather than November and terms shall expire July 1 rather than January 1.
+C. Duties and powers. The School Board is hereby charged with supervision and management of every public school within the City and has and may exercise each and every power and be subject to every limitation which is now or may be later vested in school boards of cities by the laws of the Commonwealth. (
+2025, cc.
+51
+,
+67
+)
