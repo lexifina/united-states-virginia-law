@@ -1,0 +1,7 @@
+# 2025 Acts of Assembly, c. 294. Students with disabilities; due process hearings; certain complaints; study.
+CHAPTER 294
+An Act to permit the dismissal of certain vexatious and repetitive special education due process hearing complaints.
+Be it enacted by the General Assembly of Virginia:
+1. § 1. If a special education due process hearing officer determines that a due process hearing complaint filed in accordance with subsection B of § 22.1-214 of the Code of Virginia contains substantively the same issues as a previously adjudicated due process hearing complaint and evidences a clear pattern of initiating vexatious and repetitive litigation, the hearing officer may dismiss the complaint. Any party aggrieved by such a dismissal may bring a civil action as set forth in subsection D of § 22.1-214 of the Code of Virginia. Nothing in this act shall be construed to require the dismissal of any complaint or portion thereof that alleges a new claim of noncompliance within the subject matter jurisdiction of the due process hearing officer under applicable law and regulations.
+2. That the provisions of the first enactment of this act shall expire on July 1, 2027.
+3. That as part of its study of Virginia's special education dispute resolution system as required pursuant to the tenth enactment of Chapter 468 and the tenth enactment of Chapter 502 of the Acts of Assembly of 2024, the Virginia Commission on Youth shall study and make recommendations on the provisions of the first enactment of this act.
