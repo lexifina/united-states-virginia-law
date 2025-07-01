@@ -1,0 +1,5 @@
+# 2025 Acts of Assembly, c. 569. Study; Department of Health Professions; expanding scope of practice for physician assistants; report.
+CHAPTER 569
+An Act to direct the Department of Health Professions to study expanding the scope of practice for physician assistants; report.
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The Department of Health Professions (the Department) is directed to conduct a study on expansion of the scope of practice for physician assistants in the Commonwealth as a means to increase autonomy in the profession. Such study shall include a review of the education and training requirements for physician assistants in the Commonwealth, as well as a survey of such requirements in the other states and the scope of practice in such states, and an analysis of the costs and benefits to patients of increased autonomy for physician assistants in the Commonwealth. The Department shall submit a report with its findings and recommendations to the Chairs of the House Committee on Health and Human Services and Senate Committee on Education and Health by November 1, 2025.
