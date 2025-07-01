@@ -1,0 +1,5 @@
+# 2025 Acts of Assembly, c. 484. Department of Medical Assistance Services; application for medical assistance; eligibility for Medicaid Works.
+CHAPTER 484
+An Act to direct the Department of Medical Assistance Services to seek the necessary approvals from the Centers for Medicare and Medicaid Services to amend the application for medical assistance to gather all necessary information to determine an applicant's eligibility for the Medicaid Works program.
+Be it enacted by the General Assembly of Virginia:
+1. § 1. The Department of Medical Assistance Services (the Department) shall seek the necessary approvals from the Centers for Medicare and Medicaid Services to amend the Department's application for medical assistance to gather all necessary information to determine an applicant's eligibility for the Medicaid Works program. Such amendments shall apply to the initial application for medical assistance, applications for renewal of medical assistance, and whenever changes are reported to the Department.
