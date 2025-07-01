@@ -1,0 +1,5 @@
+# 2025 Acts of Assembly, c. 321. Department of Social Services; Restaurant Meals Program of the Supplemental Nutrition Assistance Program; report.
+CHAPTER 321
+An Act to direct the Department of Social Services to report on the Restaurant Meals Program of the Supplemental Nutrition Assistance Program.
+Be it enacted by the General Assembly of Virginia:
+1. § 1. That the Department of Social Services shall submit a report to the Governor and the General Assembly on the implementation of the Restaurant Meals Program of the Supplemental Nutrition Assistance Program no later than December 1, 2025. Such report shall include (i) the number of restaurants that have applied to participate in the program, (ii) the names and addresses of all restaurants that have been approved to participate, (iii) identified barriers to program expansion and recommendations for alleviating such barriers, and (iv) any other data determined to be relevant to evaluating the program's success or its possible expansion.
