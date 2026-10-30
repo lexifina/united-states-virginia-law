@@ -1,0 +1,3 @@
+# Section 10. Debt.
+Any county may, upon approval by the affirmative vote of the qualified voters of the county voting in an election on the question, elect to be treated as a city for the purposes of issuing its bonds under this section. If a county so elects, it shall thereafter be subject to all of the benefits and limitations of this section applicable to cities, but in determining the limitation for a county there shall be included, unless otherwise excluded under this section, indebtedness of any town or district in that county empowered to levy taxes on real estate.
+The amendment ratified November 4, 1980 and effective January 1, 1981-In subsection (a), substituted "ten per centum" for "eighteen per centum".

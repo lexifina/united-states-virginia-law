@@ -1,0 +1,2 @@
+# Section 4. Qualifications of judges.
+The requirement of Article VI, Section 7, that justices of the Supreme Court and judges of courts of record shall, at least five years prior to their election or appointment, have been members of the bar of the Commonwealth, shall not preclude justices or judges who were elected or appointed prior to the effective date of this revised Constitution, and who are otherwise qualified, from completing the term for which they were elected or appointed and from being reelected for one additional term.

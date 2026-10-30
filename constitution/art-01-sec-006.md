@@ -1,0 +1,2 @@
+# Section 6. Free elections; consent of governed.
+That all elections ought to be free; and that all men, having sufficient evidence of permanent common interest with, and attachment to, the community, have the right of suffrage, and cannot be taxed, or deprived of, or damaged in, their property for public uses, without their own consent, or that of their representatives duly elected, or bound by any law to which they have not, in like manner, assented for the public good.

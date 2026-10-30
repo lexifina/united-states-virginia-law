@@ -1,0 +1,2 @@
+# Section 1. Executive power; Governor's term of office.
+The chief executive power of the Commonwealth shall be vested in a Governor. He shall hold office for a term commencing upon his inauguration on the Saturday after the second Wednesday in January, next succeeding his election, and ending in the fourth year thereafter immediately upon the inauguration of his successor. He shall be ineligible to the same office for the term next succeeding that for which he was elected, and to any other office during his term of service.

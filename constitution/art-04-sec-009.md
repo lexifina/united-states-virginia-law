@@ -1,0 +1,2 @@
+# Section 9. Immunity of legislators.
+Members of the General Assembly shall, in all cases except treason, felony, or breach of the peace, be privileged from arrest during the sessions of their respective houses; and for any speech or debate in either house shall not be questioned in any other place. They shall not be subject to arrest under any civil process during the sessions of the General Assembly, or during the fifteen days before the beginning or after the ending of any session.

@@ -1,0 +1,3 @@
+# Section 4. Appeals from actions of the Commission.
+The Commonwealth, any party in interest, or any party aggrieved by any final finding, order, or judgment of the Commission shall have, of right, an appeal to the Supreme Court. The method of taking and prosecuting an appeal from any action of the Commission shall be prescribed by law or by the rules of the Supreme Court. All appeals from the Commission shall be to the Supreme Court only.
+No other court of the Commonwealth shall have jurisdiction to review, reverse, correct, or annul any action of the Commission or to enjoin or restrain it in the performance of its official duties, provided, however, that the writs of mandamus and prohibition shall lie from the Supreme Court to the Commission.

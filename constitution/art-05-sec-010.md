@@ -1,0 +1,2 @@
+# Section 10. Appointment and removal of administrative officers.
+Except as may be otherwise provided in this Constitution, the Governor shall appoint each officer serving as the head of an administrative department or division of the executive branch of the government, subject to such confirmation as the General Assembly may prescribe. Each officer appointed by the Governor pursuant to this section shall have such professional qualifications as may be prescribed by law and shall serve at the pleasure of the Governor.

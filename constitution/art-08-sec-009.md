@@ -1,0 +1,2 @@
+# Section 9. Other educational institutions.
+The General Assembly may provide for the establishment, maintenance, and operation of any educational institutions which are desirable for the intellectual, cultural, and occupational development of the people of this Commonwealth. The governance of such institutions, and the status and powers of their boards of visitors or other governing bodies, shall be as provided by law.

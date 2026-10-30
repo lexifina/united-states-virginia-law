@@ -1,0 +1,2 @@
+# Section 11. Effect of refusal of General Assembly to confirm an appointment by the Governor.
+No person appointed to any office by the Governor, whose appointment is subject to confirmation by the General Assembly, under the provisions of this Constitution or any statute, shall enter upon, or continue in, office after the General Assembly shall have refused to confirm his appointment, nor shall such person be eligible for reappointment during the recess of the General Assembly to fill the vacancy caused by such refusal to confirm.

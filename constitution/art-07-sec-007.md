@@ -1,0 +1,3 @@
+# Section 7. Procedures.
+No ordinance or resolution appropriating money exceeding the sum of five hundred dollars, imposing taxes, or authorizing the borrowing of money shall be passed except by a recorded affirmative vote of a majority of all members elected to the governing body. In case of the veto of such an ordinance or resolution, where the power of veto exists, it shall require for passage thereafter a recorded affirmative vote of two-thirds of all members elected to the governing body.
+On final vote on any ordinance or resolution, the name of each member voting and how he voted shall be recorded.

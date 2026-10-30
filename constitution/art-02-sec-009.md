@@ -1,0 +1,2 @@
+# Section 9. Privileges of voters during election.
+No voter, during the time of holding any election at which he is entitled to vote, shall be compelled to perform military service, except in time of war or public danger, nor to attend any court as suitor, juror, or witness; nor shall any such voter be subject to arrest under any civil process during his attendance at election or in going to or returning therefrom.

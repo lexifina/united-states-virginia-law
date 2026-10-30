@@ -1,0 +1,6 @@
+# Section 7. Executive and administrative powers.
+The Governor shall take care that the laws be faithfully executed.
+The Governor shall be commander-in-chief of the armed forces of the Commonwealth and shall have power to embody such forces to repel invasion, suppress insurrection, and enforce the execution of the laws.
+The Governor shall conduct, either in person or in such manner as shall be prescribed by law, all intercourse with other and foreign states.
+The Governor shall have power to fill vacancies in all offices of the Commonwealth for the filling of which the Constitution and laws make no other provision. If such office be one filled by the election of the people, the appointee shall hold office until the next general election, and thereafter until his successor qualifies, according to law. The General Assembly shall, if it is in session, fill vacancies in all offices which are filled by election by that body.
+Gubernatorial appointments to fill vacancies in offices which are filled by election by the General Assembly or by appointment by the Governor which is subject to confirmation by the Senate or the General Assembly, made during the recess of the General Assembly, shall expire at the end of thirty days after the commencement of the next session of the General Assembly.

@@ -1,0 +1,3 @@
+# Section 8. Additional judicial personnel.
+The General Assembly may provide for additional judicial personnel, such as judges of courts not of record and magistrates or justices of the peace, and may prescribe their jurisdiction and provide the manner in which they shall be selected and the terms for which they shall serve.
+The General Assembly may confer upon the clerks of the several courts having probate jurisdiction, jurisdiction of the probate of wills and of the appointment and qualification of guardians, personal representatives, curators, appraisers, and committees of persons adjudged insane or convicted of felony, and in the matter of the substitution of trustees.

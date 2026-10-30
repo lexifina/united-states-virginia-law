@@ -1,0 +1,2 @@
+# Section 5. Compensation; election to civil office of profit.
+The members of the General Assembly shall receive such salary and allowances as may be prescribed by law, but no increase in salary shall take effect for a given member until after the end of the term for which he was elected. No member during the term for which he shall have been elected shall be elected by the General Assembly to any civil office of profit in the Commonwealth.

@@ -1,0 +1,2 @@
+# Section 6. Superintendent of Public Instruction.
+A Superintendent of Public Instruction, who shall be an experienced educator, shall be appointed by the Governor, subject to confirmation by the General Assembly, for a term coincident with that of the Governor making the appointment, but the General Assembly may alter by statute this method of selection and term of office. The powers and duties of the Superintendent shall be prescribed by law.

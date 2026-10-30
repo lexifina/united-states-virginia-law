@@ -1,0 +1,2 @@
+# Section 5. Legislative responsibilities of Governor.
+The Governor shall communicate to the General Assembly, at every regular session, the condition of the Commonwealth, recommend to its consideration such measures as he may deem expedient, and convene the General Assembly on application of two-thirds of the members elected to each house thereof, or when, in his opinion, the interest of the Commonwealth may require.

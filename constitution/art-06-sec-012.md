@@ -1,0 +1,3 @@
+# Section 12. Limitation; judicial appointment.
+No judge shall be granted the power to make any appointment of any local governmental official elected by the voters except to fill a vacancy in office pending the next ensuing general election or, if the vacancy occurs within one hundred twenty days prior to such election, pending the second ensuing general election, unless such election falls within sixty days of the end of the term of the office to be filled.
+The amendment ratified November 2, 1976 and effective January 1, 1977-At the end of the section, after "election", added the language ", unless such election falls within sixty days of the end of the term of the office to be filled".

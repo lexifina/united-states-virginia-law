@@ -1,0 +1,2 @@
+# Section 4. Administration of the judicial system.
+The Chief Justice of the Supreme Court shall be the administrative head of the judicial system. He may temporarily assign any judge of a court of record to any other court of record except the Supreme Court and may assign a retired judge of a court of record, with his consent, to any court of record except the Supreme Court. The General Assembly may adopt such additional measures as it deems desirable for the improvement of the administration of justice by the courts and for the expedition of judicial business.

@@ -1,0 +1,3 @@
+# Section 15-A. Marriage.
+That only a union between one man and one woman may be a marriage valid in or recognized by this Commonwealth and its political subdivisions. This Commonwealth and its political subdivisions shall not create or recognize a legal status for relationships of unmarried individuals that intends to approximate the design, qualities, significance, or effects of marriage. Nor shall this Commonwealth or its political subdivisions create or recognize another union, partnership, or other legal status to which is assigned the rights, benefits, obligations, qualities, or effects of marriage.
+The amendment ratified November 7, 2006, and effective January 1, 2007-Added a new section (15-A).

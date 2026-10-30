@@ -1,0 +1,2 @@
+# Section 1. Departments to be distinct.
+The legislative, executive, and judicial departments shall be separate and distinct, so that none exercise the powers properly belonging to the others, nor any person exercise the power of more than one of them at the same time; provided, however, administrative agencies may be created by the General Assembly with such authority and duties as the General Assembly may prescribe. Provisions may be made for judicial review of any finding, order, or judgment of such administrative agencies.

@@ -1,0 +1,2 @@
+# Section 13. Militia; standing armies; military subordinate to civil power.
+That a well regulated militia, composed of the body of the people, trained to arms, is the proper, natural, and safe defense of a free state, therefore, the right of the people to keep and bear arms shall not be infringed; that standing armies, in time of peace, should be avoided as dangerous to liberty; and that in all cases the military should be under strict subordination to, and governed by, the civil power.

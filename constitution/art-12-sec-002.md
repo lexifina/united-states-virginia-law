@@ -1,0 +1,2 @@
+# Section 2. Officers and elections.
+Unless otherwise provided herein or by law, nothing in this revised Constitution shall affect the oath, tenure, term, status, or compensation of any person holding any public office, position, or employment in the Commonwealth, nor affect the date of filling any State or local office, elective or appointive, which shall be filled on the date on which it would otherwise have been filled.

@@ -1,0 +1,2 @@
+# Section 10. Journal of proceedings.
+Each house shall keep a journal of its proceedings, which shall be published from time to time. The vote of each member voting in each house on any question shall, at the desire of one-fifth of those present, be recorded in the journal. On the final vote on any bill, and on the vote in any election or impeachment conducted in the General Assembly or on the expulsion of a member, the name of each member voting in each house and how he voted shall be recorded in the journal.

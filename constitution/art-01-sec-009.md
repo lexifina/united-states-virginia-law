@@ -1,0 +1,2 @@
+# Section 9. Prohibition of excessive bail and fines, cruel and unusual punishment, suspension of habeas corpus, bills of attainder, and ex post facto laws.
+That excessive bail ought not to be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted; that the privilege of the writ of habeas corpus shall not be suspended unless when, in cases of invasion or rebellion, the public safety may require; and that the General Assembly shall not pass any bill of attainder, or any ex post facto law.

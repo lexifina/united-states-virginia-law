@@ -1,0 +1,2 @@
+# Section 3. Taxes or assessments upon abutting property owners.
+The General Assembly by general law may authorize any county, city, town, or regional government to impose taxes or assessments upon abutting property owners for such local public improvements as may be designated by the General Assembly; however, such taxes or assessments shall not be in excess of the peculiar benefits resulting from the improvements to such abutting property owners.

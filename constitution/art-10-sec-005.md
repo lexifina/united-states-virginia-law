@@ -1,0 +1,2 @@
+# Section 5. Franchise taxes; taxation of corporate stock.
+The General Assembly, in imposing a franchise tax upon corporations, may in its discretion make the same in lieu of taxes upon other property, in whole or in part, of such corporations. Whenever a franchise tax shall be imposed upon a corporation doing business in this Commonwealth, or whenever all the capital, however invested, of a corporation chartered under the laws of this Commonwealth shall be taxed, the shares of stock issued by any such corporation shall not be further taxed.

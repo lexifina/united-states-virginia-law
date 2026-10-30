@@ -1,0 +1,2 @@
+# Section 3. Natural oyster beds.
+The natural oyster beds, rocks, and shoals in the waters of the Commonwealth shall not be leased, rented, or sold but shall be held in trust for the benefit of the people of the Commonwealth, subject to such regulations and restriction as the General Assembly may prescribe, but the General Assembly may, from time to time, define and determine such natural beds, rocks, or shoals by surveys or otherwise.

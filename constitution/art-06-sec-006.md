@@ -1,0 +1,2 @@
+# Section 6. Opinions and judgments of the Supreme Court.
+When a judgment or decree is reversed, modified, or affirmed by the Supreme Court, or when original cases are resolved on their merits, the reasons for the Court's action shall be stated in writing and preserved with the record of the case. The Court may, but need not, remand a case for a new trial. In any civil case, it may enter final judgment, except that the award in a suit or action for unliquidated damages shall not be increased or diminished.

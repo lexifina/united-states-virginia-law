@@ -1,0 +1,3 @@
+# Section 12. Executive clemency.
+The Governor shall have power to remit fines and penalties under such rules and regulations as may be prescribed by law; to grant reprieves and pardons after conviction except when the prosecution has been carried on by the House of Delegates; to remove political disabilities consequent upon conviction for offenses committed prior or subsequent to the adoption of this Constitution; and to commute capital punishment.
+He shall communicate to the General Assembly, at each regular session, particulars of every case of fine or penalty remitted, of reprieve or pardon granted, and of punishment commuted, with his reasons for remitting, granting, or commuting the same.

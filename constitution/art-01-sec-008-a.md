@@ -1,0 +1,3 @@
+# Section 8-A. Rights of victims of crime.
+This section does not confer upon any person a right to appeal or modify any decision in a criminal proceeding, does not abridge any other right guaranteed by the Constitution of the United States or this Constitution, and does not create any cause of action for compensation or damages against the Commonwealth or any of its political subdivisions, any officer, employee or agent of the Commonwealth or any of its political subdivisions, or any officer of the court.
+The amendment ratified November 5, 1996 and effective January 1, 1997-Added a new section (8-A).

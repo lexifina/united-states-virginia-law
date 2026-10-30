@@ -1,0 +1,2 @@
+# Section 4. Board of Education.
+The general supervision of the public school system shall be vested in a Board of Education of nine members, to be appointed by the Governor, subject to confirmation by the General Assembly. Each appointment shall be for four years, except that those to fill vacancies shall be for the unexpired terms. Terms shall be staggered, so that no more than three regular appointments shall be made in the same year.
