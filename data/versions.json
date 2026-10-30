@@ -1,0 +1,33 @@
+{
+ "country": "US-VA",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Va. Const.",
+   "title": "Constitution of Virginia",
+   "url": "https://law.lis.virginia.gov/constitution/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 128,
+     "source_url": "https://law.lis.virginia.gov/constitutionfull",
+     "sha256": "265beee07b676d54137454ca5b89a86770bc651901cfc0cb3274c6a929c97401"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-2",
+   "short": "Va. Code Title 18.2",
+   "title": "Code of Virginia, Title 18.2. Crimes and Offenses Generally",
+   "url": "https://law.lis.virginia.gov/vacode/title18.2/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 445,
+     "source_url": "https://law.lis.virginia.gov/vacode/title18.2/",
+     "sha256": "4ac2a19231040ac0ee76d19402fcc605063d4d940e149a7bf443d372a073ba56"
+    }
+   ]
+  }
+ ]
+}

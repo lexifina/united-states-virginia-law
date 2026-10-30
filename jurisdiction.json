@@ -1,0 +1,8 @@
+{
+  "path": "united-states/virginia",
+  "code": "US-VA",
+  "name": "United States (Virginia)",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-virginia-law",
+  "build": "built"
+}
