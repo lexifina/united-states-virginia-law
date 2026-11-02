@@ -384,6 +384,706 @@
      "sha256": "d1bcde3881a4342f085017b03d9ff8d7894c40f5c0022d96fad566d6167970b9"
     }
    ]
+  },
+  {
+   "slug": "title-13-1",
+   "short": "Va. Code Title 13.1",
+   "title": "Code of Virginia, Title 13.1. Corporations",
+   "url": "https://law.lis.virginia.gov/vacode/title13.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 894,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_13.1.csv",
+     "sha256": "25bcb504e9a51411e44266dd6a2703d72adc4f207858936b4ff1859b7a80b881"
+    }
+   ]
+  },
+  {
+   "slug": "title-15-2",
+   "short": "Va. Code Title 15.2",
+   "title": "Code of Virginia, Title 15.2. Counties, Cities and Towns",
+   "url": "https://law.lis.virginia.gov/vacode/title15.2/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2297,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_15.2.csv",
+     "sha256": "5997322fb19eb5200775dce206f2d75a4306339148b3040fc33d787111d2c6ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-1",
+   "short": "Va. Code Title 16.1",
+   "title": "Code of Virginia, Title 16.1. Courts Not of Record",
+   "url": "https://law.lis.virginia.gov/vacode/title16.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 446,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_16.1.csv",
+     "sha256": "e4a090d7f7d6bfd23b9612ef08806fcd64e5a8ee5146cf8f4f06d5a695ceab4e"
+    }
+   ]
+  },
+  {
+   "slug": "title-17-1",
+   "short": "Va. Code Title 17.1",
+   "title": "Code of Virginia, Title 17.1. Courts of Record",
+   "url": "https://law.lis.virginia.gov/vacode/title17.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 322,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_17.1.csv",
+     "sha256": "3bbd19a7507b1616cd192e891bd20860512d27d8d8722e331f92f51c6cc56835"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-2",
+   "short": "Va. Code Title 19.2",
+   "title": "Code of Virginia, Title 19.2. Criminal Procedure",
+   "url": "https://law.lis.virginia.gov/vacode/title19.2/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 769,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_19.2.csv",
+     "sha256": "07f9c4cd653984560c929dc601aa022783d209aafee49fbe9444e55cd1019dfb"
+    }
+   ]
+  },
+  {
+   "slug": "title-20",
+   "short": "Va. Code Title 20",
+   "title": "Code of Virginia, Title 20. Domestic Relations",
+   "url": "https://law.lis.virginia.gov/vacode/title20/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 329,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_20.csv",
+     "sha256": "292226d93cde3c91217c66b1a2ac9b783c8797d3429c18c0706b0679b24c07cf"
+    }
+   ]
+  },
+  {
+   "slug": "title-21",
+   "short": "Va. Code Title 21",
+   "title": "Code of Virginia, Title 21. Drainage, Soil Conservation, Sanitation and Public Facilities Districts",
+   "url": "https://law.lis.virginia.gov/vacode/title21/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 358,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_21.csv",
+     "sha256": "6fee4c7629688cef58821353f4432472be8b627d044157b9d4ab0cc145acf913"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-1",
+   "short": "Va. Code Title 22.1",
+   "title": "Code of Virginia, Title 22.1. Education",
+   "url": "https://law.lis.virginia.gov/vacode/title22.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 854,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_22.1.csv",
+     "sha256": "18528528261452a0aae3b6f7baa77ccdf4d8d4691c9852d21fbcfafa502c1527"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-1",
+   "short": "Va. Code Title 23.1",
+   "title": "Code of Virginia, Title 23.1. Institutions of Higher Education; Other Educational and Cultural Institutions",
+   "url": "https://law.lis.virginia.gov/vacode/title23.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 594,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_23.1.csv",
+     "sha256": "66d4d70d4d315de74a5dedf1ff05d629f98427a927aa4cc8b781817efbebd850"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-2",
+   "short": "Va. Code Title 24.2",
+   "title": "Code of Virginia, Title 24.2. Elections",
+   "url": "https://law.lis.virginia.gov/vacode/title24.2/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 546,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_24.2.csv",
+     "sha256": "cc14544c08846092b221894d99fbf8ac944f04ef3db5c541d86f9a5a739a4250"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-1",
+   "short": "Va. Code Title 25.1",
+   "title": "Code of Virginia, Title 25.1. Eminent Domain",
+   "url": "https://law.lis.virginia.gov/vacode/title25.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 110,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_25.1.csv",
+     "sha256": "22e5235a212f6382ab57a96714d685c66e303cd3b5916d920a807ff03775711e"
+    }
+   ]
+  },
+  {
+   "slug": "title-27",
+   "short": "Va. Code Title 27",
+   "title": "Code of Virginia, Title 27. Fire Protection",
+   "url": "https://law.lis.virginia.gov/vacode/title27/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 146,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_27.csv",
+     "sha256": "19d0b92cc4b9234cbea02833ee055d3be84e19f3eed9e2ea173ad280dbce97c7"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-2",
+   "short": "Va. Code Title 28.2",
+   "title": "Code of Virginia, Title 28.2. Fisheries and Habitat of the Tidal Waters",
+   "url": "https://law.lis.virginia.gov/vacode/title28.2/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 385,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_28.2.csv",
+     "sha256": "8f621ea2f50219459666f6e84769e388f1f8be6c16e6ef0cbaeb1afa91b85c6d"
+    }
+   ]
+  },
+  {
+   "slug": "title-29-1",
+   "short": "Va. Code Title 29.1",
+   "title": "Code of Virginia, Title 29.1. Wildlife, Inland Fisheries and Boating",
+   "url": "https://law.lis.virginia.gov/vacode/title29.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 397,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_29.1.csv",
+     "sha256": "0d322f52f4c7b646107346f309c9963d01c27b23788e66d8456acec61d02002d"
+    }
+   ]
+  },
+  {
+   "slug": "title-30",
+   "short": "Va. Code Title 30",
+   "title": "Code of Virginia, Title 30. General Assembly",
+   "url": "https://law.lis.virginia.gov/vacode/title30/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 454,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_30.csv",
+     "sha256": "5b50be43684aba35585d6cea97f5fe9d137878474243368b692db221c3b8a8ac"
+    }
+   ]
+  },
+  {
+   "slug": "title-32-1",
+   "short": "Va. Code Title 32.1",
+   "title": "Code of Virginia, Title 32.1. Health",
+   "url": "https://law.lis.virginia.gov/vacode/title32.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 856,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_32.1.csv",
+     "sha256": "709305b54f785e6eb5cd5e5408d990e71e283c3471ebaa2f20171709127e1df2"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-2",
+   "short": "Va. Code Title 33.2",
+   "title": "Code of Virginia, Title 33.2. Highways and Other Surface Transportation Systems",
+   "url": "https://law.lis.virginia.gov/vacode/title33.2/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 748,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_33.2.csv",
+     "sha256": "e71cd9bce6475c23b3ee0559fe6dd763e1767f8b6badd70089728d7737f4f410"
+    }
+   ]
+  },
+  {
+   "slug": "title-34",
+   "short": "Va. Code Title 34",
+   "title": "Code of Virginia, Title 34. Homestead and Other Exemptions",
+   "url": "https://law.lis.virginia.gov/vacode/title34/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 37,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_34.csv",
+     "sha256": "ff76ec8f686b597648698ac47c5c58ef2197e3fdee9d6993e1cc716dcc613d2f"
+    }
+   ]
+  },
+  {
+   "slug": "title-35-1",
+   "short": "Va. Code Title 35.1",
+   "title": "Code of Virginia, Title 35.1. Hotels, Restaurants, Summer Camps, and Campgrounds",
+   "url": "https://law.lis.virginia.gov/vacode/title35.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 32,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_35.1.csv",
+     "sha256": "f5a98de744af6052e507f140c10a38ec5d9126f7ce34fb8122f33c324ee5f80c"
+    }
+   ]
+  },
+  {
+   "slug": "title-36",
+   "short": "Va. Code Title 36",
+   "title": "Code of Virginia, Title 36. Housing",
+   "url": "https://law.lis.virginia.gov/vacode/title36/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 336,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_36.csv",
+     "sha256": "5fa91eabd53a9669ed0b92d92d910c189cbe36884f23207e2ace43392488447a"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-2",
+   "short": "Va. Code Title 37.2",
+   "title": "Code of Virginia, Title 37.2. Behavioral Health and Developmental Services",
+   "url": "https://law.lis.virginia.gov/vacode/title37.2/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 229,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_37.2.csv",
+     "sha256": "a2806296a77f88079fd9757d9dbe97280c52709064181ff0bebca459ad044e79"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-2",
+   "short": "Va. Code Title 38.2",
+   "title": "Code of Virginia, Title 38.2. Insurance",
+   "url": "https://law.lis.virginia.gov/vacode/title38.2/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1889,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_38.2.csv",
+     "sha256": "2e939fa487d86e7df8c5f092621daafa1a23b5bee98251d9441ba8e967fd32ed"
+    }
+   ]
+  },
+  {
+   "slug": "title-40-1",
+   "short": "Va. Code Title 40.1",
+   "title": "Code of Virginia, Title 40.1. Labor and Employment",
+   "url": "https://law.lis.virginia.gov/vacode/title40.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 237,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_40.1.csv",
+     "sha256": "2d0a96b0d9adb56c62d2c2e1e62206d8f403d810e5852618b1845a15c7dfae43"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-1",
+   "short": "Va. Code Title 41.1",
+   "title": "Code of Virginia, Title 41.1. Land Office",
+   "url": "https://law.lis.virginia.gov/vacode/title41.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 21,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_41.1.csv",
+     "sha256": "a49e622e2719b20898b9598812d3fc3cfdc57c010c84d531e2c4f1490c2faaf9"
+    }
+   ]
+  },
+  {
+   "slug": "title-42-1",
+   "short": "Va. Code Title 42.1",
+   "title": "Code of Virginia, Title 42.1. Libraries",
+   "url": "https://law.lis.virginia.gov/vacode/title42.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 105,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_42.1.csv",
+     "sha256": "00b734b59b9337c7ab167b5a0d05ec140a40e283281088203851fe7907d029ec"
+    }
+   ]
+  },
+  {
+   "slug": "title-43",
+   "short": "Va. Code Title 43",
+   "title": "Code of Virginia, Title 43. Mechanics' and Certain Other Liens",
+   "url": "https://law.lis.virginia.gov/vacode/title43/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 66,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_43.csv",
+     "sha256": "9989b363968068249681f186fcc9bbc0e6f71d9c982b290afc583e0e0b895fa8"
+    }
+   ]
+  },
+  {
+   "slug": "title-44",
+   "short": "Va. Code Title 44",
+   "title": "Code of Virginia, Title 44. Military and Emergency Laws",
+   "url": "https://law.lis.virginia.gov/vacode/title44/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 233,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_44.csv",
+     "sha256": "af324a0a458d410ea87a4105a3d91ff34f5cc7c699dfd336a93d0712dc50ebb6"
+    }
+   ]
+  },
+  {
+   "slug": "title-45-2",
+   "short": "Va. Code Title 45.2",
+   "title": "Code of Virginia, Title 45.2. Mines, Minerals, and Energy",
+   "url": "https://law.lis.virginia.gov/vacode/title45.2/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 627,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_45.2.csv",
+     "sha256": "290f45b24381d7cbb5dcafa2ef5f110823d79656520cd47bb0183b3574f4cbc1"
+    }
+   ]
+  },
+  {
+   "slug": "title-46-2",
+   "short": "Va. Code Title 46.2",
+   "title": "Code of Virginia, Title 46.2. Motor Vehicles",
+   "url": "https://law.lis.virginia.gov/vacode/title46.2/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1831,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_46.2.csv",
+     "sha256": "7a6c2cb69ea93fb4ecb5e8fd5b4736adf3d9a26b78aa57561195c03cef65a5bd"
+    }
+   ]
+  },
+  {
+   "slug": "title-47-1",
+   "short": "Va. Code Title 47.1",
+   "title": "Code of Virginia, Title 47.1. Notaries and Out-of-State Commissioners",
+   "url": "https://law.lis.virginia.gov/vacode/title47.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 38,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_47.1.csv",
+     "sha256": "33705d46f46d58a340f019f342d7100f2266ba9ca6a5b9194d98523231554b3e"
+    }
+   ]
+  },
+  {
+   "slug": "title-48",
+   "short": "Va. Code Title 48",
+   "title": "Code of Virginia, Title 48. Nuisances",
+   "url": "https://law.lis.virginia.gov/vacode/title48/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 18,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_48.csv",
+     "sha256": "70a7a9638b213c05c4e7948de1ac5f15b82a161c49cc21ef79b00b4f90e31f3c"
+    }
+   ]
+  },
+  {
+   "slug": "title-49",
+   "short": "Va. Code Title 49",
+   "title": "Code of Virginia, Title 49. Oaths, Affirmations and Bonds",
+   "url": "https://law.lis.virginia.gov/vacode/title49/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 30,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_49.csv",
+     "sha256": "f046feb99f91400238312ac0979ab1dcc4d1769b54439ab3cd96d9ea90e72993"
+    }
+   ]
+  },
+  {
+   "slug": "title-50",
+   "short": "Va. Code Title 50",
+   "title": "Code of Virginia, Title 50. Partnerships",
+   "url": "https://law.lis.virginia.gov/vacode/title50/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 185,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_50.csv",
+     "sha256": "fa9a65d849b35e26c893dc09a621709d90d7821558ed529cd4adeb7f27a09d78"
+    }
+   ]
+  },
+  {
+   "slug": "title-51-1",
+   "short": "Va. Code Title 51.1",
+   "title": "Code of Virginia, Title 51.1. Pensions, Benefits, and Retirement",
+   "url": "https://law.lis.virginia.gov/vacode/title51.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 320,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_51.1.csv",
+     "sha256": "3d62402f431cfd7338f7b41929fbd34f76a6497abddecf71917e1da3a6187dd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-51-5",
+   "short": "Va. Code Title 51.5",
+   "title": "Code of Virginia, Title 51.5. Persons with Disabilities",
+   "url": "https://law.lis.virginia.gov/vacode/title51.5/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 165,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_51.5.csv",
+     "sha256": "0972d1652ada8c812a5874bb690f2d9967dcef9169a3edf8a1833a97974f3758"
+    }
+   ]
+  },
+  {
+   "slug": "title-52",
+   "short": "Va. Code Title 52",
+   "title": "Code of Virginia, Title 52. Police (State)",
+   "url": "https://law.lis.virginia.gov/vacode/title52/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 104,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_52.csv",
+     "sha256": "a11713c13c046a6669b877273097306f9fdf1fe27a22296bdbf5a3843102f122"
+    }
+   ]
+  },
+  {
+   "slug": "title-53-1",
+   "short": "Va. Code Title 53.1",
+   "title": "Code of Virginia, Title 53.1. Prisons and Other Methods of Correction",
+   "url": "https://law.lis.virginia.gov/vacode/title53.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 402,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_53.1.csv",
+     "sha256": "f868a878c7ed37d6d54f3d282fe1ced8eb84c7d04c09ab4b7cb8abe97365b5f5"
+    }
+   ]
+  },
+  {
+   "slug": "title-54-1",
+   "short": "Va. Code Title 54.1",
+   "title": "Code of Virginia, Title 54.1. Professions and Occupations",
+   "url": "https://law.lis.virginia.gov/vacode/title54.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1275,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_54.1.csv",
+     "sha256": "c2088b4481e7181dfaada2929bd2453676771fcab3dd2e71215fcde097a5193b"
+    }
+   ]
+  },
+  {
+   "slug": "title-55-1",
+   "short": "Va. Code Title 55.1",
+   "title": "Code of Virginia, Title 55.1. Property and Conveyances",
+   "url": "https://law.lis.virginia.gov/vacode/title55.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 875,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_55.1.csv",
+     "sha256": "8574cea49cbadec34802f1389c7895739b3288f4ab7636fcdcf56131747af507"
+    }
+   ]
+  },
+  {
+   "slug": "title-56",
+   "short": "Va. Code Title 56",
+   "title": "Code of Virginia, Title 56. Public Service Companies",
+   "url": "https://law.lis.virginia.gov/vacode/title56/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 710,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_56.csv",
+     "sha256": "e1573cb50e9377ab80a1148c584c3b11839ec0b3d160deef5ada67985df9295e"
+    }
+   ]
+  },
+  {
+   "slug": "title-57",
+   "short": "Va. Code Title 57",
+   "title": "Code of Virginia, Title 57. Religious and Charitable Matters; Cemeteries",
+   "url": "https://law.lis.virginia.gov/vacode/title57/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 105,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_57.csv",
+     "sha256": "cb097b13bc9822aaeee5910606f3a4bb215896f46438ac2ed0c290af87913a92"
+    }
+   ]
+  },
+  {
+   "slug": "title-58-1",
+   "short": "Va. Code Title 58.1",
+   "title": "Code of Virginia, Title 58.1. Taxation",
+   "url": "https://law.lis.virginia.gov/vacode/title58.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1797,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_58.1.csv",
+     "sha256": "9b4764c9738845c44e7ed1b3966cf359c7b00290d1c5f4e986fcdb1f4a9916e4"
+    }
+   ]
+  },
+  {
+   "slug": "title-59-1",
+   "short": "Va. Code Title 59.1",
+   "title": "Code of Virginia, Title 59.1. Trade and Commerce",
+   "url": "https://law.lis.virginia.gov/vacode/title59.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 861,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_59.1.csv",
+     "sha256": "25e2261372c28854d36330f08da5c6c8cedd916f3ee8cdefb6baa6563f305f4d"
+    }
+   ]
+  },
+  {
+   "slug": "title-60-2",
+   "short": "Va. Code Title 60.2",
+   "title": "Code of Virginia, Title 60.2. Unemployment Compensation",
+   "url": "https://law.lis.virginia.gov/vacode/title60.2/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 182,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_60.2.csv",
+     "sha256": "4ed2ef76e3292a6cf629070b537bab6ef04b2ebb6a5066c868ab4a314cebd16d"
+    }
+   ]
+  },
+  {
+   "slug": "title-61-1",
+   "short": "Va. Code Title 61.1",
+   "title": "Code of Virginia, Title 61.1. Warehouses, Cold Storage and Refrigerated Locker Plants",
+   "url": "https://law.lis.virginia.gov/vacode/title61.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 33,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_61.1.csv",
+     "sha256": "29dfb0deaae4da1ac30a6b20372e9adf0039833b38e7d4f45a872787e2876667"
+    }
+   ]
+  },
+  {
+   "slug": "title-62-1",
+   "short": "Va. Code Title 62.1",
+   "title": "Code of Virginia, Title 62.1. Waters of the State, Ports and Harbors",
+   "url": "https://law.lis.virginia.gov/vacode/title62.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 573,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_62.1.csv",
+     "sha256": "7223179ee38e5ee04ae5d1f05cfd10b76537d957556c870c37a2c704f97b550a"
+    }
+   ]
+  },
+  {
+   "slug": "title-63-2",
+   "short": "Va. Code Title 63.2",
+   "title": "Code of Virginia, Title 63.2. Welfare (Social Services)",
+   "url": "https://law.lis.virginia.gov/vacode/title63.2/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 492,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_63.2.csv",
+     "sha256": "919511d95a1b0c123d4bd72a339d1eb9ee3b47149b915b29b2e19f78f296b60b"
+    }
+   ]
+  },
+  {
+   "slug": "title-64-2",
+   "short": "Va. Code Title 64.2",
+   "title": "Code of Virginia, Title 64.2. Wills, Trusts, and Fiduciaries",
+   "url": "https://law.lis.virginia.gov/vacode/title64.2/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 776,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_64.2.csv",
+     "sha256": "88b57daeb288938bc71b9d8599ade1ee0246cef2cb6288a17829c11a62f043e1"
+    }
+   ]
+  },
+  {
+   "slug": "title-65-2",
+   "short": "Va. Code Title 65.2",
+   "title": "Code of Virginia, Title 65.2. Workers' Compensation",
+   "url": "https://law.lis.virginia.gov/vacode/title65.2/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 163,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_65.2.csv",
+     "sha256": "36df2dcd27825a6ec53f1dd9a839237894b2435ecbeaf6cefe3bd4231dc75359"
+    }
+   ]
+  },
+  {
+   "slug": "title-66",
+   "short": "Va. Code Title 66",
+   "title": "Code of Virginia, Title 66. Juvenile Justice",
+   "url": "https://law.lis.virginia.gov/vacode/title66/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 56,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_66.csv",
+     "sha256": "d821de9ad9a3386a2e29ed1de8fd2150d8975a67001179018b1e54256104cdf7"
+    }
+   ]
   }
  ]
 }
