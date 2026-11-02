@@ -26,6 +26,362 @@
      "units": 445,
      "source_url": "https://law.lis.virginia.gov/vacode/title18.2/",
      "sha256": "4ac2a19231040ac0ee76d19402fcc605063d4d940e149a7bf443d372a073ba56"
+    },
+    {
+     "from": "2026-11-02",
+     "units": 959,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_18.2.csv",
+     "sha256": "71a7d92c6290049ecedaeeb86088c32e89ae3f6b8b83d644a6000a89d51d7aeb"
+    }
+   ]
+  },
+  {
+   "slug": "title-1",
+   "short": "Va. Code Title 1",
+   "title": "Code of Virginia, Title 1. General Provisions",
+   "url": "https://law.lis.virginia.gov/vacode/title1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 122,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_1.csv",
+     "sha256": "d079a267fd544af1d392937ac9e637d2b7be93ae3c98b82635c5a43e6b7e2947"
+    }
+   ]
+  },
+  {
+   "slug": "title-2-2",
+   "short": "Va. Code Title 2.2",
+   "title": "Code of Virginia, Title 2.2. Administration of Government",
+   "url": "https://law.lis.virginia.gov/vacode/title2.2/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1504,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_2.2.csv",
+     "sha256": "524d05e0ca6d8f8078c98b918d8fc98967f1d0907bdca3f9169c8de975f86bec"
+    }
+   ]
+  },
+  {
+   "slug": "title-3-2",
+   "short": "Va. Code Title 3.2",
+   "title": "Code of Virginia, Title 3.2. Agriculture, Animal Care, and Food",
+   "url": "https://law.lis.virginia.gov/vacode/title3.2/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1193,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_3.2.csv",
+     "sha256": "f11db4536bc1137a232fa577c316359d4f6a6030cac749c670f6c8acfc9d97a3"
+    }
+   ]
+  },
+  {
+   "slug": "title-4-1",
+   "short": "Va. Code Title 4.1",
+   "title": "Code of Virginia, Title 4.1. Alcoholic Beverage and Cannabis Control",
+   "url": "https://law.lis.virginia.gov/vacode/title4.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 276,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_4.1.csv",
+     "sha256": "87b4dc2d933b7f56ffe54ab64296b7ded09dcd98f4aa96fd3bc530d422d3b933"
+    }
+   ]
+  },
+  {
+   "slug": "title-5-1",
+   "short": "Va. Code Title 5.1",
+   "title": "Code of Virginia, Title 5.1. Aviation",
+   "url": "https://law.lis.virginia.gov/vacode/title5.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 218,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_5.1.csv",
+     "sha256": "998ff2472c51b35590f8b2041999d4c7be5cafbdb6ec9cd1ca4d03337304e710"
+    }
+   ]
+  },
+  {
+   "slug": "title-6-2",
+   "short": "Va. Code Title 6.2",
+   "title": "Code of Virginia, Title 6.2. Financial Institutions and Services",
+   "url": "https://law.lis.virginia.gov/vacode/title6.2/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 937,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_6.2.csv",
+     "sha256": "2738cdce1d0606b9239092d6d33b7c9d5b3c1c442b75fd460b5e27ba253db6a3"
+    }
+   ]
+  },
+  {
+   "slug": "title-8-01",
+   "short": "Va. Code Title 8.01",
+   "title": "Code of Virginia, Title 8.01. Civil Remedies and Procedure",
+   "url": "https://law.lis.virginia.gov/vacode/title8.01/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1095,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.01.csv",
+     "sha256": "1bf9c3a7ef9f30ec2bd4b8887701f6e1abaac3c8aef50db779a44d2d1ff402d6"
+    }
+   ]
+  },
+  {
+   "slug": "title-8-1a",
+   "short": "Va. Code Title 8.1A",
+   "title": "Code of Virginia, Title 8.1A. Uniform Commercial Code — General Provisions",
+   "url": "https://law.lis.virginia.gov/vacode/title8.1A/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 24,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.1A.csv",
+     "sha256": "bac9b06a2f978d080738ee5dc11a9423e4712f92ddfc20e1de1f08f9bcf80591"
+    }
+   ]
+  },
+  {
+   "slug": "title-8-2",
+   "short": "Va. Code Title 8.2",
+   "title": "Code of Virginia, Title 8.2. Commercial Code - Sales",
+   "url": "https://law.lis.virginia.gov/vacode/title8.2/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 105,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.2.csv",
+     "sha256": "6b8350e6c63940e0f03fbba563e96372370183c0ce6d51f4592dbf5aa9ac1d6d"
+    }
+   ]
+  },
+  {
+   "slug": "title-8-2a",
+   "short": "Va. Code Title 8.2A",
+   "title": "Code of Virginia, Title 8.2A. Commercial Code — Leases",
+   "url": "https://law.lis.virginia.gov/vacode/title8.2A/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 80,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.2A.csv",
+     "sha256": "30f3c33a67299d0527b040fb8cf3646d368abf1138c35ea204246d02a4e55160"
+    }
+   ]
+  },
+  {
+   "slug": "title-8-3a",
+   "short": "Va. Code Title 8.3A",
+   "title": "Code of Virginia, Title 8.3A. Commercial Code — Negotiable Instruments",
+   "url": "https://law.lis.virginia.gov/vacode/title8.3A/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 69,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.3A.csv",
+     "sha256": "39b7954b842133f004161051a22152375525c5ecd8447471c6b236072b6257ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-8-4",
+   "short": "Va. Code Title 8.4",
+   "title": "Code of Virginia, Title 8.4. Commercial Code — Bank Deposits and Collections",
+   "url": "https://law.lis.virginia.gov/vacode/title8.4/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 45,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.4.csv",
+     "sha256": "1f35be3d9872e77b425b790aca339657a8336259b9517f99b23875eaf7f0b2d4"
+    }
+   ]
+  },
+  {
+   "slug": "title-8-4a",
+   "short": "Va. Code Title 8.4A",
+   "title": "Code of Virginia, Title 8.4A. Commercial Code — Funds Transfers",
+   "url": "https://law.lis.virginia.gov/vacode/title8.4A/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 38,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.4A.csv",
+     "sha256": "ecee68f99beccf9ae40fed8f189ca85fbe81966dc1eaaf3ec4e5e130f60864d2"
+    }
+   ]
+  },
+  {
+   "slug": "title-8-5a",
+   "short": "Va. Code Title 8.5A",
+   "title": "Code of Virginia, Title 8.5A. Uniform Commercial Code — Letters of Credit",
+   "url": "https://law.lis.virginia.gov/vacode/title8.5A/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 19,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.5A.csv",
+     "sha256": "28a355407bc2f3a030246f1023bb2d1efee12ed4689290be988b35b80d22d764"
+    }
+   ]
+  },
+  {
+   "slug": "title-8-7",
+   "short": "Va. Code Title 8.7",
+   "title": "Code of Virginia, Title 8.7. Commercial Code — Warehouse Receipts, Bills of Lading and Other Documents of Title",
+   "url": "https://law.lis.virginia.gov/vacode/title8.7/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 42,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.7.csv",
+     "sha256": "26978aef3d206bf29a7fb7ba1357a2ce23b3461c4db52e0bc46ad071dcd3c4d2"
+    }
+   ]
+  },
+  {
+   "slug": "title-8-8a",
+   "short": "Va. Code Title 8.8A",
+   "title": "Code of Virginia, Title 8.8A. Commercial Code — Investment Securities",
+   "url": "https://law.lis.virginia.gov/vacode/title8.8A/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 52,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.8A.csv",
+     "sha256": "da4a823a6bbc96129d89e50c8c942186d48f38c9a7f27790ba16c668f04151d4"
+    }
+   ]
+  },
+  {
+   "slug": "title-8-9a",
+   "short": "Va. Code Title 8.9A",
+   "title": "Code of Virginia, Title 8.9A. Commercial Code — Secured Transactions",
+   "url": "https://law.lis.virginia.gov/vacode/title8.9A/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 153,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.9A.csv",
+     "sha256": "538e3999011f5b6949ebe690aef815221501eb1129e3acf7340dcc764f247281"
+    }
+   ]
+  },
+  {
+   "slug": "title-8-10",
+   "short": "Va. Code Title 8.10",
+   "title": "Code of Virginia, Title 8.10. Commercial Code — Effective Date — Transitional Provisions",
+   "url": "https://law.lis.virginia.gov/vacode/title8.10/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 4,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.10.csv",
+     "sha256": "3bfd0e54e89dbea41ceb83d3279b3e9f20bf1d782d0aa7010f33499396b1f8f6"
+    }
+   ]
+  },
+  {
+   "slug": "title-8-11",
+   "short": "Va. Code Title 8.11",
+   "title": "Code of Virginia, Title 8.11. 1973 Amendatory Act — Effective Date and Transition Provisions",
+   "url": "https://law.lis.virginia.gov/vacode/title8.11/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 8,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.11.csv",
+     "sha256": "ecde2adcc79577a62b6419010a60d6583600abe1dfb08f7653977b585f055cd9"
+    }
+   ]
+  },
+  {
+   "slug": "title-8-12",
+   "short": "Va. Code Title 8.12",
+   "title": "Code of Virginia, Title 8.12. Controllable Electronic Records",
+   "url": "https://law.lis.virginia.gov/vacode/title8.12/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 7,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.12.csv",
+     "sha256": "de2c3540fbd800dbaec33dd7b679ae4db9a97cb246e92671119def696f9eb2b1"
+    }
+   ]
+  },
+  {
+   "slug": "title-8-13",
+   "short": "Va. Code Title 8.13",
+   "title": "Code of Virginia, Title 8.13. 2022 Amendments – Effective Date and Transition Provisions",
+   "url": "https://law.lis.virginia.gov/vacode/title8.13/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 10,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.13.csv",
+     "sha256": "84872747feb986dcb14dd80ca9c422a29991cfb7b55a43939d71f51436504c99"
+    }
+   ]
+  },
+  {
+   "slug": "title-9-1",
+   "short": "Va. Code Title 9.1",
+   "title": "Code of Virginia, Title 9.1. Commonwealth Public Safety",
+   "url": "https://law.lis.virginia.gov/vacode/title9.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 257,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_9.1.csv",
+     "sha256": "44afd224380b62b8aeaefd160a5825167e18d849c98046b2bb0869f65556cc5b"
+    }
+   ]
+  },
+  {
+   "slug": "title-10-1",
+   "short": "Va. Code Title 10.1",
+   "title": "Code of Virginia, Title 10.1. Conservation",
+   "url": "https://law.lis.virginia.gov/vacode/title10.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 886,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_10.1.csv",
+     "sha256": "5723127824bdfedf0364648a693e588c2030643a2f7e334142a68d7778ea414d"
+    }
+   ]
+  },
+  {
+   "slug": "title-11",
+   "short": "Va. Code Title 11",
+   "title": "Code of Virginia, Title 11. Contracts",
+   "url": "https://law.lis.virginia.gov/vacode/title11/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 39,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_11.csv",
+     "sha256": "3dd13d68739ceb6210e6f4bc91800ae817acddf235135e2f4aa48966b6f20c75"
+    }
+   ]
+  },
+  {
+   "slug": "title-12-1",
+   "short": "Va. Code Title 12.1",
+   "title": "Code of Virginia, Title 12.1. State Corporation Commission",
+   "url": "https://law.lis.virginia.gov/vacode/title12.1/",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 49,
+     "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_12.1.csv",
+     "sha256": "d1bcde3881a4342f085017b03d9ff8d7894c40f5c0022d96fad566d6167970b9"
     }
    ]
   }
