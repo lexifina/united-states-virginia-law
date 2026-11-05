@@ -140,7 +140,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title8.1A/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2025-07-01",
      "units": 24,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.1A.csv",
      "sha256": "bac9b06a2f978d080738ee5dc11a9423e4712f92ddfc20e1de1f08f9bcf80591"
@@ -154,7 +154,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title8.2/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2025-07-01",
      "units": 105,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.2.csv",
      "sha256": "6b8350e6c63940e0f03fbba563e96372370183c0ce6d51f4592dbf5aa9ac1d6d"
@@ -168,7 +168,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title8.2A/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2025-07-01",
      "units": 80,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.2A.csv",
      "sha256": "30f3c33a67299d0527b040fb8cf3646d368abf1138c35ea204246d02a4e55160"
@@ -182,7 +182,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title8.3A/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2025-07-01",
      "units": 69,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.3A.csv",
      "sha256": "39b7954b842133f004161051a22152375525c5ecd8447471c6b236072b6257ba"
@@ -196,7 +196,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title8.4/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2010-10-01",
      "units": 45,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.4.csv",
      "sha256": "1f35be3d9872e77b425b790aca339657a8336259b9517f99b23875eaf7f0b2d4"
@@ -210,7 +210,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title8.4A/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2025-07-01",
      "units": 38,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.4A.csv",
      "sha256": "ecee68f99beccf9ae40fed8f189ca85fbe81966dc1eaaf3ec4e5e130f60864d2"
@@ -224,7 +224,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title8.5A/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2025-07-01",
      "units": 19,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.5A.csv",
      "sha256": "28a355407bc2f3a030246f1023bb2d1efee12ed4689290be988b35b80d22d764"
@@ -238,7 +238,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title8.7/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2025-07-01",
      "units": 42,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.7.csv",
      "sha256": "26978aef3d206bf29a7fb7ba1357a2ce23b3461c4db52e0bc46ad071dcd3c4d2"
@@ -252,7 +252,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title8.8A/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2025-07-01",
      "units": 52,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.8A.csv",
      "sha256": "da4a823a6bbc96129d89e50c8c942186d48f38c9a7f27790ba16c668f04151d4"
@@ -266,7 +266,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title8.9A/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2025-07-01",
      "units": 153,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.9A.csv",
      "sha256": "538e3999011f5b6949ebe690aef815221501eb1129e3acf7340dcc764f247281"
@@ -280,7 +280,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title8.10/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2003-07-01",
      "units": 4,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.10.csv",
      "sha256": "3bfd0e54e89dbea41ceb83d3279b3e9f20bf1d782d0aa7010f33499396b1f8f6"
@@ -294,7 +294,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title8.11/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "1974-07-01",
      "units": 8,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.11.csv",
      "sha256": "ecde2adcc79577a62b6419010a60d6583600abe1dfb08f7653977b585f055cd9"
@@ -308,7 +308,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title8.12/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2025-07-01",
      "units": 7,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.12.csv",
      "sha256": "de2c3540fbd800dbaec33dd7b679ae4db9a97cb246e92671119def696f9eb2b1"
@@ -322,7 +322,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title8.13/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2025-07-01",
      "units": 10,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_8.13.csv",
      "sha256": "84872747feb986dcb14dd80ca9c422a29991cfb7b55a43939d71f51436504c99"
@@ -364,7 +364,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title11/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2024-07-01",
      "units": 39,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_11.csv",
      "sha256": "3dd13d68739ceb6210e6f4bc91800ae817acddf235135e2f4aa48966b6f20c75"
@@ -378,7 +378,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title12.1/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2024-07-01",
      "units": 49,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_12.1.csv",
      "sha256": "d1bcde3881a4342f085017b03d9ff8d7894c40f5c0022d96fad566d6167970b9"
@@ -392,7 +392,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title13.1/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2024-07-01",
      "units": 894,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_13.1.csv",
      "sha256": "25bcb504e9a51411e44266dd6a2703d72adc4f207858936b4ff1859b7a80b881"
@@ -476,7 +476,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title21/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2024-07-01",
      "units": 358,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_21.csv",
      "sha256": "6fee4c7629688cef58821353f4432472be8b627d044157b9d4ab0cc145acf913"
@@ -630,7 +630,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title34/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2024-07-01",
      "units": 37,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_34.csv",
      "sha256": "ff76ec8f686b597648698ac47c5c58ef2197e3fdee9d6993e1cc716dcc613d2f"
@@ -644,7 +644,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title35.1/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2024-07-01",
      "units": 32,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_35.1.csv",
      "sha256": "f5a98de744af6052e507f140c10a38ec5d9126f7ce34fb8122f33c324ee5f80c"
@@ -658,7 +658,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title36/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2026-01-01",
      "units": 336,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_36.csv",
      "sha256": "5fa91eabd53a9669ed0b92d92d910c189cbe36884f23207e2ace43392488447a"
@@ -714,7 +714,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title41.1/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "1998-07-01",
      "units": 21,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_41.1.csv",
      "sha256": "a49e622e2719b20898b9598812d3fc3cfdc57c010c84d531e2c4f1490c2faaf9"
@@ -742,7 +742,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title43/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2020-07-01",
      "units": 66,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_43.csv",
      "sha256": "9989b363968068249681f186fcc9bbc0e6f71d9c982b290afc583e0e0b895fa8"
@@ -812,7 +812,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title48/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2018-07-01",
      "units": 18,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_48.csv",
      "sha256": "70a7a9638b213c05c4e7948de1ac5f15b82a161c49cc21ef79b00b4f90e31f3c"
@@ -826,7 +826,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title49/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2008-07-01",
      "units": 30,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_49.csv",
      "sha256": "f046feb99f91400238312ac0979ab1dcc4d1769b54439ab3cd96d9ea90e72993"
@@ -1008,7 +1008,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title61.1/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2000-07-01",
      "units": 33,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_61.1.csv",
      "sha256": "29dfb0deaae4da1ac30a6b20372e9adf0039833b38e7d4f45a872787e2876667"
@@ -1078,7 +1078,7 @@
    "url": "https://law.lis.virginia.gov/vacode/title66/",
    "versions": [
     {
-     "from": "2026-11-02",
+     "from": "2024-07-01",
      "units": 56,
      "source_url": "https://law.lis.virginia.gov/CSV/CoVTitle_66.csv",
      "sha256": "d821de9ad9a3386a2e29ed1de8fd2150d8975a67001179018b1e54256104cdf7"

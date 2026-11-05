@@ -1,6 +1,6 @@
 # Code of Virginia, Title 11. Contracts
 
-Va. Code Title 11 · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://law.lis.virginia.gov/vacode/title11/>
+Va. Code Title 11 · 1 versions, from 2024-07-01 (latest in force: 2024-07-01) · <https://law.lis.virginia.gov/vacode/title11/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

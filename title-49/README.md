@@ -1,6 +1,6 @@
 # Code of Virginia, Title 49. Oaths, Affirmations and Bonds
 
-Va. Code Title 49 · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://law.lis.virginia.gov/vacode/title49/>
+Va. Code Title 49 · 1 versions, from 2008-07-01 (latest in force: 2008-07-01) · <https://law.lis.virginia.gov/vacode/title49/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

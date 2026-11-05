@@ -1,6 +1,6 @@
 # Code of Virginia, Title 66. Juvenile Justice
 
-Va. Code Title 66 · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://law.lis.virginia.gov/vacode/title66/>
+Va. Code Title 66 · 1 versions, from 2024-07-01 (latest in force: 2024-07-01) · <https://law.lis.virginia.gov/vacode/title66/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

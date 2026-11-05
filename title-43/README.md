@@ -1,6 +1,6 @@
 # Code of Virginia, Title 43. Mechanics' and Certain Other Liens
 
-Va. Code Title 43 · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://law.lis.virginia.gov/vacode/title43/>
+Va. Code Title 43 · 1 versions, from 2020-07-01 (latest in force: 2020-07-01) · <https://law.lis.virginia.gov/vacode/title43/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

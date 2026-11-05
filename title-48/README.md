@@ -1,6 +1,6 @@
 # Code of Virginia, Title 48. Nuisances
 
-Va. Code Title 48 · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://law.lis.virginia.gov/vacode/title48/>
+Va. Code Title 48 · 1 versions, from 2018-07-01 (latest in force: 2018-07-01) · <https://law.lis.virginia.gov/vacode/title48/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

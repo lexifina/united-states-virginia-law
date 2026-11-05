@@ -1,6 +1,6 @@
 # Code of Virginia, Title 36. Housing
 
-Va. Code Title 36 · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://law.lis.virginia.gov/vacode/title36/>
+Va. Code Title 36 · 1 versions, from 2026-01-01 (latest in force: 2026-01-01) · <https://law.lis.virginia.gov/vacode/title36/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

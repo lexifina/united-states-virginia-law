@@ -1,6 +1,6 @@
 # How this repository was made (United States (Virginia))
 
-This file is written by the build on 2026-11-05, the day the source data was retrieved.
+This documentation was regenerated on 2026-11-05. Each source row below records its own retrieval date.
 
 ## Sources
 
@@ -25,31 +25,31 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-5-1` | Code of Virginia, Title 5.1. Aviation | 1 | 2026-11-02 to 2026-11-02 |
 | `title-6-2` | Code of Virginia, Title 6.2. Financial Institutions and Services | 1 | 2026-11-02 to 2026-11-02 |
 | `title-8-01` | Code of Virginia, Title 8.01. Civil Remedies and Procedure | 1 | 2026-11-02 to 2026-11-02 |
-| `title-8-1a` | Code of Virginia, Title 8.1A. Uniform Commercial Code — General Provisions | 1 | 2026-11-02 to 2026-11-02 |
-| `title-8-2` | Code of Virginia, Title 8.2. Commercial Code - Sales | 1 | 2026-11-02 to 2026-11-02 |
-| `title-8-2a` | Code of Virginia, Title 8.2A. Commercial Code — Leases | 1 | 2026-11-02 to 2026-11-02 |
-| `title-8-3a` | Code of Virginia, Title 8.3A. Commercial Code — Negotiable Instruments | 1 | 2026-11-02 to 2026-11-02 |
-| `title-8-4` | Code of Virginia, Title 8.4. Commercial Code — Bank Deposits and Collections | 1 | 2026-11-02 to 2026-11-02 |
-| `title-8-4a` | Code of Virginia, Title 8.4A. Commercial Code — Funds Transfers | 1 | 2026-11-02 to 2026-11-02 |
-| `title-8-5a` | Code of Virginia, Title 8.5A. Uniform Commercial Code — Letters of Credit | 1 | 2026-11-02 to 2026-11-02 |
-| `title-8-7` | Code of Virginia, Title 8.7. Commercial Code — Warehouse Receipts, Bills of Lading and Other Documents of Title | 1 | 2026-11-02 to 2026-11-02 |
-| `title-8-8a` | Code of Virginia, Title 8.8A. Commercial Code — Investment Securities | 1 | 2026-11-02 to 2026-11-02 |
-| `title-8-9a` | Code of Virginia, Title 8.9A. Commercial Code — Secured Transactions | 1 | 2026-11-02 to 2026-11-02 |
-| `title-8-10` | Code of Virginia, Title 8.10. Commercial Code — Effective Date — Transitional Provisions | 1 | 2026-11-02 to 2026-11-02 |
-| `title-8-11` | Code of Virginia, Title 8.11. 1973 Amendatory Act — Effective Date and Transition Provisions | 1 | 2026-11-02 to 2026-11-02 |
-| `title-8-12` | Code of Virginia, Title 8.12. Controllable Electronic Records | 1 | 2026-11-02 to 2026-11-02 |
-| `title-8-13` | Code of Virginia, Title 8.13. 2022 Amendments – Effective Date and Transition Provisions | 1 | 2026-11-02 to 2026-11-02 |
+| `title-8-1a` | Code of Virginia, Title 8.1A. Uniform Commercial Code — General Provisions | 1 | 2025-07-01 to 2025-07-01 |
+| `title-8-2` | Code of Virginia, Title 8.2. Commercial Code - Sales | 1 | 2025-07-01 to 2025-07-01 |
+| `title-8-2a` | Code of Virginia, Title 8.2A. Commercial Code — Leases | 1 | 2025-07-01 to 2025-07-01 |
+| `title-8-3a` | Code of Virginia, Title 8.3A. Commercial Code — Negotiable Instruments | 1 | 2025-07-01 to 2025-07-01 |
+| `title-8-4` | Code of Virginia, Title 8.4. Commercial Code — Bank Deposits and Collections | 1 | 2010-10-01 to 2010-10-01 |
+| `title-8-4a` | Code of Virginia, Title 8.4A. Commercial Code — Funds Transfers | 1 | 2025-07-01 to 2025-07-01 |
+| `title-8-5a` | Code of Virginia, Title 8.5A. Uniform Commercial Code — Letters of Credit | 1 | 2025-07-01 to 2025-07-01 |
+| `title-8-7` | Code of Virginia, Title 8.7. Commercial Code — Warehouse Receipts, Bills of Lading and Other Documents of Title | 1 | 2025-07-01 to 2025-07-01 |
+| `title-8-8a` | Code of Virginia, Title 8.8A. Commercial Code — Investment Securities | 1 | 2025-07-01 to 2025-07-01 |
+| `title-8-9a` | Code of Virginia, Title 8.9A. Commercial Code — Secured Transactions | 1 | 2025-07-01 to 2025-07-01 |
+| `title-8-10` | Code of Virginia, Title 8.10. Commercial Code — Effective Date — Transitional Provisions | 1 | 2003-07-01 to 2003-07-01 |
+| `title-8-11` | Code of Virginia, Title 8.11. 1973 Amendatory Act — Effective Date and Transition Provisions | 1 | 1974-07-01 to 1974-07-01 |
+| `title-8-12` | Code of Virginia, Title 8.12. Controllable Electronic Records | 1 | 2025-07-01 to 2025-07-01 |
+| `title-8-13` | Code of Virginia, Title 8.13. 2022 Amendments – Effective Date and Transition Provisions | 1 | 2025-07-01 to 2025-07-01 |
 | `title-9-1` | Code of Virginia, Title 9.1. Commonwealth Public Safety | 1 | 2026-11-02 to 2026-11-02 |
 | `title-10-1` | Code of Virginia, Title 10.1. Conservation | 1 | 2026-11-02 to 2026-11-02 |
-| `title-11` | Code of Virginia, Title 11. Contracts | 1 | 2026-11-02 to 2026-11-02 |
-| `title-12-1` | Code of Virginia, Title 12.1. State Corporation Commission | 1 | 2026-11-02 to 2026-11-02 |
-| `title-13-1` | Code of Virginia, Title 13.1. Corporations | 1 | 2026-11-02 to 2026-11-02 |
+| `title-11` | Code of Virginia, Title 11. Contracts | 1 | 2024-07-01 to 2024-07-01 |
+| `title-12-1` | Code of Virginia, Title 12.1. State Corporation Commission | 1 | 2024-07-01 to 2024-07-01 |
+| `title-13-1` | Code of Virginia, Title 13.1. Corporations | 1 | 2024-07-01 to 2024-07-01 |
 | `title-15-2` | Code of Virginia, Title 15.2. Counties, Cities and Towns | 1 | 2026-11-02 to 2026-11-02 |
 | `title-16-1` | Code of Virginia, Title 16.1. Courts Not of Record | 1 | 2026-11-02 to 2026-11-02 |
 | `title-17-1` | Code of Virginia, Title 17.1. Courts of Record | 1 | 2026-11-02 to 2026-11-02 |
 | `title-19-2` | Code of Virginia, Title 19.2. Criminal Procedure | 1 | 2026-11-02 to 2026-11-02 |
 | `title-20` | Code of Virginia, Title 20. Domestic Relations | 1 | 2026-11-02 to 2026-11-02 |
-| `title-21` | Code of Virginia, Title 21. Drainage, Soil Conservation, Sanitation and Public Facilities Districts | 1 | 2026-11-02 to 2026-11-02 |
+| `title-21` | Code of Virginia, Title 21. Drainage, Soil Conservation, Sanitation and Public Facilities Districts | 1 | 2024-07-01 to 2024-07-01 |
 | `title-22-1` | Code of Virginia, Title 22.1. Education | 1 | 2026-11-02 to 2026-11-02 |
 | `title-23-1` | Code of Virginia, Title 23.1. Institutions of Higher Education; Other Educational and Cultural Institutions | 1 | 2026-11-02 to 2026-11-02 |
 | `title-24-2` | Code of Virginia, Title 24.2. Elections | 1 | 2026-11-02 to 2026-11-02 |
@@ -60,21 +60,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-30` | Code of Virginia, Title 30. General Assembly | 1 | 2026-11-02 to 2026-11-02 |
 | `title-32-1` | Code of Virginia, Title 32.1. Health | 1 | 2026-11-02 to 2026-11-02 |
 | `title-33-2` | Code of Virginia, Title 33.2. Highways and Other Surface Transportation Systems | 1 | 2026-11-02 to 2026-11-02 |
-| `title-34` | Code of Virginia, Title 34. Homestead and Other Exemptions | 1 | 2026-11-02 to 2026-11-02 |
-| `title-35-1` | Code of Virginia, Title 35.1. Hotels, Restaurants, Summer Camps, and Campgrounds | 1 | 2026-11-02 to 2026-11-02 |
-| `title-36` | Code of Virginia, Title 36. Housing | 1 | 2026-11-02 to 2026-11-02 |
+| `title-34` | Code of Virginia, Title 34. Homestead and Other Exemptions | 1 | 2024-07-01 to 2024-07-01 |
+| `title-35-1` | Code of Virginia, Title 35.1. Hotels, Restaurants, Summer Camps, and Campgrounds | 1 | 2024-07-01 to 2024-07-01 |
+| `title-36` | Code of Virginia, Title 36. Housing | 1 | 2026-01-01 to 2026-01-01 |
 | `title-37-2` | Code of Virginia, Title 37.2. Behavioral Health and Developmental Services | 1 | 2026-11-02 to 2026-11-02 |
 | `title-38-2` | Code of Virginia, Title 38.2. Insurance | 1 | 2026-11-02 to 2026-11-02 |
 | `title-40-1` | Code of Virginia, Title 40.1. Labor and Employment | 1 | 2026-11-02 to 2026-11-02 |
-| `title-41-1` | Code of Virginia, Title 41.1. Land Office | 1 | 2026-11-02 to 2026-11-02 |
+| `title-41-1` | Code of Virginia, Title 41.1. Land Office | 1 | 1998-07-01 to 1998-07-01 |
 | `title-42-1` | Code of Virginia, Title 42.1. Libraries | 1 | 2026-11-02 to 2026-11-02 |
-| `title-43` | Code of Virginia, Title 43. Mechanics' and Certain Other Liens | 1 | 2026-11-02 to 2026-11-02 |
+| `title-43` | Code of Virginia, Title 43. Mechanics' and Certain Other Liens | 1 | 2020-07-01 to 2020-07-01 |
 | `title-44` | Code of Virginia, Title 44. Military and Emergency Laws | 1 | 2026-11-02 to 2026-11-02 |
 | `title-45-2` | Code of Virginia, Title 45.2. Mines, Minerals, and Energy | 1 | 2026-11-02 to 2026-11-02 |
 | `title-46-2` | Code of Virginia, Title 46.2. Motor Vehicles | 1 | 2026-11-02 to 2026-11-02 |
 | `title-47-1` | Code of Virginia, Title 47.1. Notaries and Out-of-State Commissioners | 1 | 2026-11-02 to 2026-11-02 |
-| `title-48` | Code of Virginia, Title 48. Nuisances | 1 | 2026-11-02 to 2026-11-02 |
-| `title-49` | Code of Virginia, Title 49. Oaths, Affirmations and Bonds | 1 | 2026-11-02 to 2026-11-02 |
+| `title-48` | Code of Virginia, Title 48. Nuisances | 1 | 2018-07-01 to 2018-07-01 |
+| `title-49` | Code of Virginia, Title 49. Oaths, Affirmations and Bonds | 1 | 2008-07-01 to 2008-07-01 |
 | `title-50` | Code of Virginia, Title 50. Partnerships | 1 | 2026-11-02 to 2026-11-02 |
 | `title-51-1` | Code of Virginia, Title 51.1. Pensions, Benefits, and Retirement | 1 | 2026-11-02 to 2026-11-02 |
 | `title-51-5` | Code of Virginia, Title 51.5. Persons with Disabilities | 1 | 2026-11-02 to 2026-11-02 |
@@ -87,12 +87,12 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-58-1` | Code of Virginia, Title 58.1. Taxation | 1 | 2026-11-02 to 2026-11-02 |
 | `title-59-1` | Code of Virginia, Title 59.1. Trade and Commerce | 1 | 2026-11-02 to 2026-11-02 |
 | `title-60-2` | Code of Virginia, Title 60.2. Unemployment Compensation | 1 | 2026-11-02 to 2026-11-02 |
-| `title-61-1` | Code of Virginia, Title 61.1. Warehouses, Cold Storage and Refrigerated Locker Plants | 1 | 2026-11-02 to 2026-11-02 |
+| `title-61-1` | Code of Virginia, Title 61.1. Warehouses, Cold Storage and Refrigerated Locker Plants | 1 | 2000-07-01 to 2000-07-01 |
 | `title-62-1` | Code of Virginia, Title 62.1. Waters of the State, Ports and Harbors | 1 | 2026-11-02 to 2026-11-02 |
 | `title-63-2` | Code of Virginia, Title 63.2. Welfare (Social Services) | 1 | 2026-11-02 to 2026-11-02 |
 | `title-64-2` | Code of Virginia, Title 64.2. Wills, Trusts, and Fiduciaries | 1 | 2026-11-02 to 2026-11-02 |
 | `title-65-2` | Code of Virginia, Title 65.2. Workers' Compensation | 1 | 2026-11-02 to 2026-11-02 |
-| `title-66` | Code of Virginia, Title 66. Juvenile Justice | 1 | 2026-11-02 to 2026-11-02 |
+| `title-66` | Code of Virginia, Title 66. Juvenile Justice | 1 | 2024-07-01 to 2024-07-01 |
 | `charter-county-chesterfield` | Chesterfield County charter | 1 | 2017-07-01 to 2017-07-01 |
 | `charter-county-james-city` | James City County charter | 1 | 2019-07-01 to 2019-07-01 |
 | `charter-county-roanoke-county` | Roanoke County County charter | 1 | 2003-07-01 to 2003-07-01 |
@@ -304,13 +304,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `charter-town-woodstock` | Woodstock Town charter | 1 | 1983-07-01 to 1983-07-01 |
 | `charter-town-wytheville` | Wytheville Town charter | 1 | 2017-07-01 to 2017-07-01 |
 
-The build made 288 commits:
+The build made 342 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 287 | first version of an act |
 | 0 | one law on its in-force day |
 | 1 | changes no amendment note explains, credited to the publisher |
+| 54 | labelled correction of source dates or provenance |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-05.
@@ -320,23 +321,23 @@ Other counts:
 
 ## Dates
 
-Each commit is dated at noon (America/New_York) on the day the change took effect. The other dates, enacted and published, are trailers.
+Law and correction author dates follow their recorded In-force days at noon (America/New_York). Correction committers follow the append order. Documentation uses the documentation day, capped at execution time. Enacted and published dates, when known, are trailers.
 
-When a law gives no date of its own, the default rule applies: No dated history is published: each text is the oldest version available, dated from the retrieval day. https://law.lis.virginia.gov/vacode/
+Current Code title dates use verified amendment commencement where established, including the ordinary rule in Va. Code 1-214(A) and express delayed dates. Unresolved title dates retain their original retrieval-day records pending source evidence; those entries do not establish commencement. This current-only record does not reconstruct earlier wording.
 
 ## How the history is built
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8ee4ea7adf0d35c7092b710a2eaf4fd757a8a9865c0e1d9867c7a2859b024258` (64947907 bytes).
+- Corpus: sha256 `b475c9bc0ab45b22c990574d4ac739aef509e53cf453506ffaa5c62e64714bbb` (64963939 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-Not yet run for this build.
+Independent review of the date-correction input: 287 acts, 288 versions and 54 correction commits; recorded-version checks returned 0 mismatches and 0 trailer errors, and the correction-aware reader returned 0 tip mismatches. These checks compare against the corpus and do not prove source completeness. Independent DOM extraction of the 27 corrected titles checked 2,625 provision files and found three inherited source omissions, listed below.
 
-No second build of this corpus has been compared yet.
+The date-correction append was independently reproduced from its unchanged published base: all 54 correction hashes, every tag and the full resulting file tree agreed. The final documentation timestamp can differ between appends; it is excluded from the correction-hash comparison.
 
 ## Decisions made by hand
 
@@ -349,6 +350,7 @@ No second build of this corpus has been compared yet.
 - The last paragraph of a CSV body is dropped when it is a history line (it begins with a year, "Acts <year>", "Code <year>" or "R. P. 1948"). Captions end with a full stop, as on the section pages.
 - Each charter is one single-file act containing all normative text nodes from its current-charter row, in source order; identified editorial metadata is excluded.
 - Current text is dated from its latest cited amendment or charter and Va. Code § 1-214(A), except where the official listing expressly gives a later effective day.
+- One source-date correction set replaces retrieval-day title dates only where the latest cited amendments and commencement are verified. Published law files remain unchanged; current-only texts do not reconstruct earlier wording.
 
 ## What AI did and did not do
 
@@ -361,3 +363,8 @@ The commit messages are written by `build.py` from the source data.
 Model use at data-build time:
 - none (scripts only; no model wrote or altered legal text)
 - A model designed the deterministic parser and reviewed source classifications; no model wrote or corrected law text.
+- GPT-6 audited source amendment citations and commencement metadata; no legal wording or OCR was generated or corrected.
+
+## Known source omissions
+
+The unchanged published source record omits subsection (d) of `title-8-9a/008-009a-322.md`, subsection (b) of `title-8-9a/008-009a-709.md`, and two normative HTML tables in `title-34/034-004-002.md`. They were independently confirmed against the official CSVs. The source-date correction set preserves the law files; these three text corrections remain held for separate labelled corrections. The corpus-based checks also contain these omissions, so their zero mismatch count does not certify source completeness. The 49 unresolved title dates remain separate holds.

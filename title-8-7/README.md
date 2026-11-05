@@ -1,6 +1,6 @@
 # Code of Virginia, Title 8.7. Commercial Code — Warehouse Receipts, Bills of Lading and Other Documents of Title
 
-Va. Code Title 8.7 · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://law.lis.virginia.gov/vacode/title8.7/>
+Va. Code Title 8.7 · 1 versions, from 2025-07-01 (latest in force: 2025-07-01) · <https://law.lis.virginia.gov/vacode/title8.7/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

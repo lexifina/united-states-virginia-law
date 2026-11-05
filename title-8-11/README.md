@@ -1,6 +1,6 @@
 # Code of Virginia, Title 8.11. 1973 Amendatory Act — Effective Date and Transition Provisions
 
-Va. Code Title 8.11 · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://law.lis.virginia.gov/vacode/title8.11/>
+Va. Code Title 8.11 · 1 versions, from 1974-07-01 (latest in force: 1974-07-01) · <https://law.lis.virginia.gov/vacode/title8.11/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

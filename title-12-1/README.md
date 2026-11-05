@@ -1,6 +1,6 @@
 # Code of Virginia, Title 12.1. State Corporation Commission
 
-Va. Code Title 12.1 · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://law.lis.virginia.gov/vacode/title12.1/>
+Va. Code Title 12.1 · 1 versions, from 2024-07-01 (latest in force: 2024-07-01) · <https://law.lis.virginia.gov/vacode/title12.1/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

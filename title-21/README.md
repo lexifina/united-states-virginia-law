@@ -1,6 +1,6 @@
 # Code of Virginia, Title 21. Drainage, Soil Conservation, Sanitation and Public Facilities Districts
 
-Va. Code Title 21 · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://law.lis.virginia.gov/vacode/title21/>
+Va. Code Title 21 · 1 versions, from 2024-07-01 (latest in force: 2024-07-01) · <https://law.lis.virginia.gov/vacode/title21/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

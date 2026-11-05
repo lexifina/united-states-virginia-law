@@ -1,6 +1,6 @@
 # Code of Virginia, Title 61.1. Warehouses, Cold Storage and Refrigerated Locker Plants
 
-Va. Code Title 61.1 · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://law.lis.virginia.gov/vacode/title61.1/>
+Va. Code Title 61.1 · 1 versions, from 2000-07-01 (latest in force: 2000-07-01) · <https://law.lis.virginia.gov/vacode/title61.1/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
