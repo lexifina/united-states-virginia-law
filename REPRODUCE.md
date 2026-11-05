@@ -1,6 +1,6 @@
 # How this repository was made (United States (Virginia))
 
-This file is written by the build on 2026-11-02, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
@@ -8,6 +8,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | --- | --- | --- | --- |
 | Virginia Legislative Information System: Code of Virginia and Constitution of Virginia | <https://law.lis.virginia.gov/vacode/> | 2026-10-30 | Public statute text |
 | Virginia Law Library: Code of Virginia, one CSV file per title | <https://law.lis.virginia.gov/law-library/> | 2026-11-02 | Public statute text; the site footer reserves rights in the site, not in the law. |
+| Virginia Law Library, current municipal and county charters | <https://law.lis.virginia.gov/CSV/Charters.csv> | 2026-11-05 | Official Virginia statute text. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -92,20 +93,230 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-64-2` | Code of Virginia, Title 64.2. Wills, Trusts, and Fiduciaries | 1 | 2026-11-02 to 2026-11-02 |
 | `title-65-2` | Code of Virginia, Title 65.2. Workers' Compensation | 1 | 2026-11-02 to 2026-11-02 |
 | `title-66` | Code of Virginia, Title 66. Juvenile Justice | 1 | 2026-11-02 to 2026-11-02 |
+| `charter-county-chesterfield` | Chesterfield County charter | 1 | 2017-07-01 to 2017-07-01 |
+| `charter-county-james-city` | James City County charter | 1 | 2019-07-01 to 2019-07-01 |
+| `charter-county-roanoke-county` | Roanoke County County charter | 1 | 2003-07-01 to 2003-07-01 |
+| `charter-city-alexandria` | Alexandria City charter | 1 | 2015-07-01 to 2015-07-01 |
+| `charter-city-bristol` | Bristol City charter | 1 | 2024-07-01 to 2024-07-01 |
+| `charter-city-buena-vista` | Buena Vista City charter | 1 | 1999-07-01 to 1999-07-01 |
+| `charter-city-charlottesville` | Charlottesville City charter | 1 | 2020-07-01 to 2020-07-01 |
+| `charter-city-chesapeake` | Chesapeake City charter | 1 | 2025-07-01 to 2025-07-01 |
+| `charter-city-colonial-heights` | Colonial Heights City charter | 1 | 2024-07-01 to 2024-07-01 |
+| `charter-city-covington` | Covington City charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-city-danville` | Danville City charter | 1 | 2025-07-01 to 2025-07-01 |
+| `charter-city-emporia` | Emporia City charter | 1 | 2008-07-01 to 2008-07-01 |
+| `charter-city-fairfax` | Fairfax City charter | 1 | 2014-07-01 to 2014-07-01 |
+| `charter-city-falls-church` | Falls Church City charter | 1 | 2024-07-01 to 2024-07-01 |
+| `charter-city-franklin` | Franklin City charter | 1 | 2011-07-01 to 2011-07-01 |
+| `charter-city-fredericksburg` | Fredericksburg City charter | 1 | 2009-07-01 to 2009-07-01 |
+| `charter-city-galax` | Galax City charter | 1 | 2009-07-01 to 2009-07-01 |
+| `charter-city-hampton` | Hampton City charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-city-harrisonburg` | Harrisonburg City charter | 1 | 2002-07-01 to 2002-07-01 |
+| `charter-city-hopewell` | Hopewell City charter | 1 | 2020-07-01 to 2020-07-01 |
+| `charter-city-lexington` | Lexington City charter | 1 | 2004-07-01 to 2004-07-01 |
+| `charter-city-manassas` | Manassas City charter | 1 | 2014-07-01 to 2014-07-01 |
+| `charter-city-manassas-park` | Manassas Park City charter | 1 | 2025-07-01 to 2025-07-01 |
+| `charter-city-martinsville` | Martinsville City charter | 1 | 2025-07-01 to 2025-07-01 |
+| `charter-city-newport-news` | Newport News City charter | 1 | 2023-07-01 to 2023-07-01 |
+| `charter-city-norfolk` | Norfolk City charter | 1 | 2025-07-01 to 2025-07-01 |
+| `charter-city-norton` | Norton City charter | 1 | 2023-07-01 to 2023-07-01 |
+| `charter-city-petersburg` | Petersburg City charter | 1 | 2017-07-01 to 2017-07-01 |
+| `charter-city-poquoson` | Poquoson City charter | 1 | 2025-07-01 to 2025-07-01 |
+| `charter-city-portsmouth` | Portsmouth City charter | 1 | 2024-07-01 to 2024-07-01 |
+| `charter-city-radford` | Radford City charter | 1 | 2008-07-01 to 2008-07-01 |
+| `charter-city-richmond` | Richmond City charter | 1 | 2020-07-01 to 2020-07-01 |
+| `charter-city-roanoke` | Roanoke City charter | 1 | 2025-07-01 to 2025-07-01 |
+| `charter-city-salem` | Salem City charter | 1 | 1993-07-01 to 1993-07-01 |
+| `charter-city-staunton` | Staunton City charter | 1 | 1991-07-01 to 1991-07-01 |
+| `charter-city-suffolk` | Suffolk City charter | 1 | 2015-07-01 to 2015-07-01 |
+| `charter-city-virginia-beach` | Virginia Beach City charter | 1 | 2024-07-01 to 2024-07-01 |
+| `charter-city-waynesboro` | Waynesboro City charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-city-williamsburg` | Williamsburg City charter | 1 | 2017-07-01 to 2017-07-01 |
+| `charter-city-winchester` | Winchester City charter | 1 | 2020-07-01 to 2020-07-01 |
+| `charter-town-abingdon` | Abingdon Town charter | 1 | 2020-07-01 to 2020-07-01 |
+| `charter-town-alberta` | Alberta Town charter | 1 | 1978-07-01 to 1978-07-01 |
+| `charter-town-altavista` | Altavista Town charter | 1 | 2006-07-01 to 2006-07-01 |
+| `charter-town-amherst` | Amherst Town charter | 1 | 2018-07-01 to 2018-07-01 |
+| `charter-town-appalachia` | Appalachia Town charter | 1 | 1988-07-01 to 1988-07-01 |
+| `charter-town-appomattox` | Appomattox Town charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-town-ashland` | Ashland Town charter | 1 | 2025-07-01 to 2025-07-01 |
+| `charter-town-bedford` | Bedford Town charter | 1 | 2013-07-01 to 2013-07-01 |
+| `charter-town-berryville` | Berryville Town charter | 1 | 2019-07-01 to 2019-07-01 |
+| `charter-town-big-stone-gap` | Big Stone Gap Town charter | 1 | 1988-07-01 to 1988-07-01 |
+| `charter-town-blacksburg` | Blacksburg Town charter | 1 | 2020-07-01 to 2020-07-01 |
+| `charter-town-blackstone` | Blackstone Town charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-town-bluefield` | Bluefield Town charter | 1 | 2020-07-01 to 2020-07-01 |
+| `charter-town-boones-mill` | Boones Mill Town charter | 1 | 1999-07-01 to 1999-07-01 |
+| `charter-town-bowling-green` | Bowling Green Town charter | 1 | 2008-07-01 to 2008-07-01 |
+| `charter-town-boyce` | Boyce Town charter | 1 | 2012-07-01 to 2012-07-01 |
+| `charter-town-boydton` | Boydton Town charter | 1 | 1991-07-01 to 1991-07-01 |
+| `charter-town-boykins` | Boykins Town charter | 1 | 2007-07-01 to 2007-07-01 |
+| `charter-town-branchville` | Branchville Town charter | 1 | 2015-07-01 to 2015-07-01 |
+| `charter-town-bridgewater` | Bridgewater Town charter | 1 | 2017-07-01 to 2017-07-01 |
+| `charter-town-broadway` | Broadway Town charter | 1 | 2018-07-01 to 2018-07-01 |
+| `charter-town-brodnax` | Brodnax Town charter | 1 | 2025-07-01 to 2025-07-01 |
+| `charter-town-brookneal` | Brookneal Town charter | 1 | 2007-07-01 to 2007-07-01 |
+| `charter-town-buchanan` | Buchanan Town charter | 1 | 2025-07-01 to 2025-07-01 |
+| `charter-town-burkeville` | Burkeville Town charter | 1 | 1972-07-01 to 1972-07-01 |
+| `charter-town-cape-charles` | Cape Charles Town charter | 1 | 2002-07-01 to 2002-07-01 |
+| `charter-town-capron` | Capron Town charter | 1 | 2019-07-01 to 2019-07-01 |
+| `charter-town-cedar-bluff` | Cedar Bluff Town charter | 1 | 2012-07-01 to 2012-07-01 |
+| `charter-town-charlotte-court-house` | Charlotte Court House Town charter | 1 | 1989-07-01 to 1989-07-01 |
+| `charter-town-chase-city` | Chase City Town charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-town-chatham` | Chatham Town charter | 1 | 2010-07-01 to 2010-07-01 |
+| `charter-town-cheriton` | Cheriton Town charter | 1 | 2020-07-01 to 2020-07-01 |
+| `charter-town-chilhowie` | Chilhowie Town charter | 1 | 1984-07-01 to 1984-07-01 |
+| `charter-town-chincoteague` | Chincoteague Town charter | 1 | 1994-07-01 to 1994-07-01 |
+| `charter-town-christiansburg` | Christiansburg Town charter | 1 | 2014-07-01 to 2014-07-01 |
+| `charter-town-claremont` | Claremont Town charter | 1 | 1977-07-01 to 1977-07-01 |
+| `charter-town-clarksville` | Clarksville Town charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-town-clifton` | Clifton Town charter | 1 | 2004-07-01 to 2004-07-01 |
+| `charter-town-clifton-forge` | Clifton Forge Town charter | 1 | 2006-07-01 to 2006-07-01 |
+| `charter-town-clinchco` | Clinchco Town charter | 1 | 1992-07-01 to 1992-07-01 |
+| `charter-town-clinchport` | Clinchport Town charter | 1 | 1975-07-01 to 1975-07-01 |
+| `charter-town-clintwood` | Clintwood Town charter | 1 | 2013-07-01 to 2013-07-01 |
+| `charter-town-coeburn` | Coeburn Town charter | 1 | 2013-07-01 to 2013-07-01 |
+| `charter-town-colonial-beach` | Colonial Beach Town charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-town-courtland` | Courtland Town charter | 1 | 1987-07-01 to 1987-07-01 |
+| `charter-town-craigsville` | Craigsville Town charter | 1 | 1986-07-01 to 1986-07-01 |
+| `charter-town-culpeper` | Culpeper Town charter | 1 | 2015-07-01 to 2015-07-01 |
+| `charter-town-damascus` | Damascus Town charter | 1 | 2016-07-01 to 2016-07-01 |
+| `charter-town-dayton` | Dayton Town charter | 1 | 2020-07-01 to 2020-07-01 |
+| `charter-town-dendron` | Dendron Town charter | 1 | 1973-07-01 to 1973-07-01 |
+| `charter-town-drakes-branch` | Drakes Branch Town charter | 1 | 1998-07-01 to 1998-07-01 |
+| `charter-town-dublin` | Dublin Town charter | 1 | 1975-07-01 to 1975-07-01 |
+| `charter-town-duffield` | Duffield Town charter | 1 | 2010-07-01 to 2010-07-01 |
+| `charter-town-dumfries` | Dumfries Town charter | 1 | 2025-07-01 to 2025-07-01 |
+| `charter-town-dungannon` | Dungannon Town charter | 1 | 1982-07-01 to 1982-07-01 |
+| `charter-town-eastville` | Eastville Town charter | 1 | 2019-07-01 to 2019-07-01 |
+| `charter-town-edinburg` | Edinburg Town charter | 1 | 1998-07-01 to 1998-07-01 |
+| `charter-town-elkton` | Elkton Town charter | 1 | 2020-07-01 to 2020-07-01 |
+| `charter-town-exmore` | Exmore Town charter | 1 | 2002-07-01 to 2002-07-01 |
+| `charter-town-farmville` | Farmville Town charter | 1 | 2023-07-01 to 2023-07-01 |
+| `charter-town-fincastle` | Fincastle Town charter | 1 | 2010-07-01 to 2010-07-01 |
+| `charter-town-floyd` | Floyd Town charter | 1 | 2010-07-01 to 2010-07-01 |
+| `charter-town-fries` | Fries Town charter | 1 | 1984-07-01 to 1984-07-01 |
+| `charter-town-front-royal` | Front Royal Town charter | 1 | 2018-07-01 to 2018-07-01 |
+| `charter-town-gate-city` | Gate City Town charter | 1 | 2012-07-01 to 2012-07-01 |
+| `charter-town-glade-spring` | Glade Spring Town charter | 1 | 1972-07-01 to 1972-07-01 |
+| `charter-town-glen-lyn` | Glen Lyn Town charter | 1 | 2012-07-01 to 2012-07-01 |
+| `charter-town-gordonsville` | Gordonsville Town charter | 1 | 2012-07-01 to 2012-07-01 |
+| `charter-town-goshen` | Goshen Town charter | 1 | 1980-07-01 to 1980-07-01 |
+| `charter-town-gretna` | Gretna Town charter | 1 | 2010-07-01 to 2010-07-01 |
+| `charter-town-grottoes` | Grottoes Town charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-town-grundy` | Grundy Town charter | 1 | 1993-07-01 to 1993-07-01 |
+| `charter-town-halifax` | Halifax Town charter | 1 | 2011-07-01 to 2011-07-01 |
+| `charter-town-hamilton` | Hamilton Town charter | 1 | 1993-07-01 to 1993-07-01 |
+| `charter-town-haymarket` | Haymarket Town charter | 1 | 2023-07-01 to 2023-07-01 |
+| `charter-town-haysi` | Haysi Town charter | 1 | 1999-07-01 to 1999-07-01 |
+| `charter-town-herndon` | Herndon Town charter | 1 | 2017-07-01 to 2017-07-01 |
+| `charter-town-hillsboro` | Hillsboro Town charter | 1 | 2012-07-01 to 2012-07-01 |
+| `charter-town-hillsville` | Hillsville Town charter | 1 | 1992-07-01 to 1992-07-01 |
+| `charter-town-honaker` | Honaker Town charter | 1 | 2014-07-01 to 2014-07-01 |
+| `charter-town-hurt` | Hurt Town charter | 1 | 2009-07-01 to 2009-07-01 |
+| `charter-town-independence` | Independence Town charter | 1 | 1993-07-01 to 1993-07-01 |
+| `charter-town-iron-gate` | Iron Gate Town charter | 1 | 2006-07-01 to 2006-07-01 |
+| `charter-town-irvington` | Irvington Town charter | 1 | 2019-07-01 to 2019-07-01 |
+| `charter-town-jonesville` | Jonesville Town charter | 1 | 2018-07-01 to 2018-07-01 |
+| `charter-town-keller` | Keller Town charter | 1 | 1993-07-01 to 1993-07-01 |
+| `charter-town-kenbridge` | Kenbridge Town charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-town-keysville` | Keysville Town charter | 1 | 2019-07-01 to 2019-07-01 |
+| `charter-town-kilmarnock` | Kilmarnock Town charter | 1 | 2023-07-01 to 2023-07-01 |
+| `charter-town-la-crosse` | La Crosse Town charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-town-lawrenceville` | Lawrenceville Town charter | 1 | 2008-07-01 to 2008-07-01 |
+| `charter-town-lebanon` | Lebanon Town charter | 1 | 1992-07-01 to 1992-07-01 |
+| `charter-town-leesburg` | Leesburg Town charter | 1 | 2012-07-01 to 2012-07-01 |
+| `charter-town-louisa` | Louisa Town charter | 1 | 2000-07-01 to 2000-07-01 |
+| `charter-town-lovettsville` | Lovettsville Town charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-town-luray` | Luray Town charter | 1 | 2019-07-01 to 2019-07-01 |
+| `charter-town-madison` | Madison Town charter | 1 | 1994-07-01 to 1994-07-01 |
+| `charter-town-marion` | Marion Town charter | 1 | 1975-07-01 to 1975-07-01 |
+| `charter-town-mckenney` | McKenney Town charter | 1 | 1972-07-01 to 1972-07-01 |
+| `charter-town-middleburg` | Middleburg Town charter | 1 | 2020-07-01 to 2020-07-01 |
+| `charter-town-middletown` | Middletown Town charter | 1 | 2012-07-01 to 2012-07-01 |
+| `charter-town-mineral` | Mineral Town charter | 1 | 1972-07-01 to 1972-07-01 |
+| `charter-town-monterey` | Monterey Town charter | 1 | 2014-07-01 to 2014-07-01 |
+| `charter-town-montross` | Montross Town charter | 1 | 2015-07-01 to 2015-07-01 |
+| `charter-town-mount-crawford` | Mount Crawford Town charter | 1 | 1999-07-01 to 1999-07-01 |
+| `charter-town-mount-jackson` | Mount Jackson Town charter | 1 | 1981-07-01 to 1981-07-01 |
+| `charter-town-narrows` | Narrows Town charter | 1 | 2011-07-01 to 2011-07-01 |
+| `charter-town-new-castle` | New Castle Town charter | 1 | 2005-07-01 to 2005-07-01 |
+| `charter-town-new-market` | New Market Town charter | 1 | 2024-07-01 to 2024-07-01 |
+| `charter-town-occoquan` | Occoquan Town charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-town-onancock` | Onancock Town charter | 1 | 1998-07-01 to 1998-07-01 |
+| `charter-town-onley` | Onley Town charter | 1 | 2019-07-01 to 2019-07-01 |
+| `charter-town-orange` | Orange Town charter | 1 | 2003-07-01 to 2003-07-01 |
+| `charter-town-painter` | Painter Town charter | 1 | 1987-07-01 to 1987-07-01 |
+| `charter-town-pamplin-city` | Pamplin City Town charter | 1 | 1979-07-01 to 1979-07-01 |
+| `charter-town-parksley` | Parksley Town charter | 1 | 2020-07-01 to 2020-07-01 |
+| `charter-town-pearisburg` | Pearisburg Town charter | 1 | 2009-07-01 to 2009-07-01 |
+| `charter-town-pembroke` | Pembroke Town charter | 1 | 1972-07-01 to 1972-07-01 |
+| `charter-town-pennington-gap` | Pennington Gap Town charter | 1 | 1985-07-01 to 1985-07-01 |
+| `charter-town-phenix` | Phenix Town charter | 1 | 1988-07-01 to 1988-07-01 |
+| `charter-town-plains-the` | Plains, The Town charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-town-pocahontas` | Pocahontas Town charter | 1 | 2012-07-01 to 2012-07-01 |
+| `charter-town-port-royal` | Port Royal Town charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-town-pound` | Pound Town charter | 1 | 2023-07-01 to 2023-07-01 |
+| `charter-town-pulaski` | Pulaski Town charter | 1 | 2024-07-01 to 2024-07-01 |
+| `charter-town-purcellville` | Purcellville Town charter | 1 | 2012-07-01 to 2012-07-01 |
+| `charter-town-quantico` | Quantico Town charter | 1 | 2017-07-01 to 2017-07-01 |
+| `charter-town-remington` | Remington Town charter | 1 | 1977-07-01 to 1977-07-01 |
+| `charter-town-rich-creek` | Rich Creek Town charter | 1 | 2011-07-01 to 2011-07-01 |
+| `charter-town-ridgeway` | Ridgeway Town charter | 1 | 1977-07-01 to 1977-07-01 |
+| `charter-town-rocky-mount` | Rocky Mount Town charter | 1 | 2000-07-01 to 2000-07-01 |
+| `charter-town-round-hill` | Round Hill Town charter | 1 | 1974-07-01 to 1974-07-01 |
+| `charter-town-rural-retreat` | Rural Retreat Town charter | 1 | 2014-07-01 to 2014-07-01 |
+| `charter-town-saint-paul` | Saint Paul Town charter | 1 | 1979-07-01 to 1979-07-01 |
+| `charter-town-saltville` | Saltville Town charter | 1 | 1986-07-01 to 1986-07-01 |
+| `charter-town-scottsburg` | Scottsburg Town charter | 1 | 1975-07-01 to 1975-07-01 |
+| `charter-town-scottsville` | Scottsville Town charter | 1 | 2020-07-01 to 2020-07-01 |
+| `charter-town-shenandoah` | Shenandoah Town charter | 1 | 2025-07-01 to 2025-07-01 |
+| `charter-town-smithfield` | Smithfield Town charter | 1 | 2024-07-01 to 2024-07-01 |
+| `charter-town-south-boston` | South Boston Town charter | 1 | 2011-07-01 to 2011-07-01 |
+| `charter-town-south-hill` | South Hill Town charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-town-stanardsville` | Stanardsville Town charter | 1 | 1983-07-01 to 1983-07-01 |
+| `charter-town-stanley` | Stanley Town charter | 1 | 2005-07-01 to 2005-07-01 |
+| `charter-town-stephens-city` | Stephens City Town charter | 1 | 2012-07-01 to 2012-07-01 |
+| `charter-town-stony-creek` | Stony Creek Town charter | 1 | 1972-07-01 to 1972-07-01 |
+| `charter-town-strasburg` | Strasburg Town charter | 1 | 2009-07-01 to 2009-07-01 |
+| `charter-town-stuart` | Stuart Town charter | 1 | 2006-07-01 to 2006-07-01 |
+| `charter-town-surry` | Surry Town charter | 1 | 1973-07-01 to 1973-07-01 |
+| `charter-town-tappahannock` | Tappahannock Town charter | 1 | 1995-07-01 to 1995-07-01 |
+| `charter-town-tazewell` | Tazewell Town charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-town-timberville` | Timberville Town charter | 1 | 2007-07-01 to 2007-07-01 |
+| `charter-town-troutdale` | Troutdale Town charter | 1 | 2017-07-01 to 2017-07-01 |
+| `charter-town-troutville` | Troutville Town charter | 1 | 2008-07-01 to 2008-07-01 |
+| `charter-town-urbanna` | Urbanna Town charter | 1 | 2025-07-01 to 2025-07-01 |
+| `charter-town-victoria` | Victoria Town charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-town-vienna` | Vienna Town charter | 1 | 2022-07-01 to 2022-07-01 |
+| `charter-town-vinton` | Vinton Town charter | 1 | 2010-07-01 to 2010-07-01 |
+| `charter-town-virgilina` | Virgilina Town charter | 1 | 2012-07-01 to 2012-07-01 |
+| `charter-town-wakefield` | Wakefield Town charter | 1 | 1973-07-01 to 1973-07-01 |
+| `charter-town-warrenton` | Warrenton Town charter | 1 | 1987-07-01 to 1987-07-01 |
+| `charter-town-warsaw` | Warsaw Town charter | 1 | 2009-07-01 to 2009-07-01 |
+| `charter-town-washington` | Washington Town charter | 1 | 1985-07-01 to 1985-07-01 |
+| `charter-town-waverly` | Waverly Town charter | 1 | 1977-07-01 to 1977-07-01 |
+| `charter-town-weber-city` | Weber City Town charter | 1 | 2015-07-01 to 2015-07-01 |
+| `charter-town-west-point` | West Point Town charter | 1 | 2012-07-01 to 2012-07-01 |
+| `charter-town-white-stone` | White Stone Town charter | 1 | 2023-07-01 to 2023-07-01 |
+| `charter-town-windsor` | Windsor Town charter | 1 | 2012-07-01 to 2012-07-01 |
+| `charter-town-wise` | Wise Town charter | 1 | 2003-07-01 to 2003-07-01 |
+| `charter-town-woodstock` | Woodstock Town charter | 1 | 1983-07-01 to 1983-07-01 |
+| `charter-town-wytheville` | Wytheville Town charter | 1 | 2017-07-01 to 2017-07-01 |
 
-The build made 78 commits:
+The build made 288 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 77 | first version of an act |
+| 287 | first version of an act |
 | 0 | one law on its in-force day |
 | 1 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-02.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 77 laws in the record.
-- 78 tags.
+- 288 tags.
 
 ## Dates
 
@@ -117,8 +328,8 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6f406451724caf426280caf9b79d8473177e7a80603c2542147b22bdfcad3c1d` (57878739 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Corpus: sha256 `8ee4ea7adf0d35c7092b710a2eaf4fd757a8a9865c0e1d9867c7a2859b024258` (64947907 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -136,6 +347,8 @@ No second build of this corpus has been compared yet.
 - Wave 3 (2026-11-02): every Code of Virginia title is added from the Virginia Law Library CSV files, one act per title, each the oldest version available dated by the retrieval day (2026-11-02).
 - A CSV row whose caption begins "(Effective until <date>)" or "(Repealed effective <date>)" is kept only if that date is after the retrieval day; "(Effective <date>)" only if the date is on or before it; of a contingent pair, the "expiration" text is kept and the "effective" one left out; "Not in effect" rows are left out. Sections shown as "Repealed", "Expired" or "Reserved" keep their one-line stub, as in the first build.
 - The last paragraph of a CSV body is dropped when it is a history line (it begins with a year, "Acts <year>", "Code <year>" or "R. P. 1948"). Captions end with a full stop, as on the section pages.
+- Each charter is one single-file act containing all normative text nodes from its current-charter row, in source order; identified editorial metadata is excluded.
+- Current text is dated from its latest cited amendment or charter and Va. Code § 1-214(A), except where the official listing expressly gives a later effective day.
 
 ## What AI did and did not do
 
@@ -147,3 +360,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none (scripts only; no model wrote or altered legal text)
+- A model designed the deterministic parser and reviewed source classifications; no model wrote or corrected law text.

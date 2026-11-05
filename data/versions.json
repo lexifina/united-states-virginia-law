@@ -1084,6 +1084,2946 @@
      "sha256": "d821de9ad9a3386a2e29ed1de8fd2150d8975a67001179018b1e54256104cdf7"
     }
    ]
+  },
+  {
+   "slug": "charter-county-chesterfield",
+   "short": "Chesterfield County charter",
+   "title": "Chesterfield County charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-county-james-city",
+   "short": "James City County charter",
+   "title": "James City County charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-county-roanoke-county",
+   "short": "Roanoke County County charter",
+   "title": "Roanoke County County charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-alexandria",
+   "short": "Alexandria City charter",
+   "title": "Alexandria City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-bristol",
+   "short": "Bristol City charter",
+   "title": "Bristol City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-buena-vista",
+   "short": "Buena Vista City charter",
+   "title": "Buena Vista City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-charlottesville",
+   "short": "Charlottesville City charter",
+   "title": "Charlottesville City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-chesapeake",
+   "short": "Chesapeake City charter",
+   "title": "Chesapeake City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-colonial-heights",
+   "short": "Colonial Heights City charter",
+   "title": "Colonial Heights City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-covington",
+   "short": "Covington City charter",
+   "title": "Covington City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-danville",
+   "short": "Danville City charter",
+   "title": "Danville City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-emporia",
+   "short": "Emporia City charter",
+   "title": "Emporia City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-fairfax",
+   "short": "Fairfax City charter",
+   "title": "Fairfax City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-falls-church",
+   "short": "Falls Church City charter",
+   "title": "Falls Church City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-franklin",
+   "short": "Franklin City charter",
+   "title": "Franklin City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-fredericksburg",
+   "short": "Fredericksburg City charter",
+   "title": "Fredericksburg City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-galax",
+   "short": "Galax City charter",
+   "title": "Galax City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-hampton",
+   "short": "Hampton City charter",
+   "title": "Hampton City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-harrisonburg",
+   "short": "Harrisonburg City charter",
+   "title": "Harrisonburg City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-hopewell",
+   "short": "Hopewell City charter",
+   "title": "Hopewell City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-lexington",
+   "short": "Lexington City charter",
+   "title": "Lexington City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-manassas",
+   "short": "Manassas City charter",
+   "title": "Manassas City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-manassas-park",
+   "short": "Manassas Park City charter",
+   "title": "Manassas Park City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-martinsville",
+   "short": "Martinsville City charter",
+   "title": "Martinsville City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-newport-news",
+   "short": "Newport News City charter",
+   "title": "Newport News City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-norfolk",
+   "short": "Norfolk City charter",
+   "title": "Norfolk City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-norton",
+   "short": "Norton City charter",
+   "title": "Norton City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-petersburg",
+   "short": "Petersburg City charter",
+   "title": "Petersburg City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-poquoson",
+   "short": "Poquoson City charter",
+   "title": "Poquoson City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-portsmouth",
+   "short": "Portsmouth City charter",
+   "title": "Portsmouth City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-radford",
+   "short": "Radford City charter",
+   "title": "Radford City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-richmond",
+   "short": "Richmond City charter",
+   "title": "Richmond City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-roanoke",
+   "short": "Roanoke City charter",
+   "title": "Roanoke City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-salem",
+   "short": "Salem City charter",
+   "title": "Salem City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1993-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-staunton",
+   "short": "Staunton City charter",
+   "title": "Staunton City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1991-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-suffolk",
+   "short": "Suffolk City charter",
+   "title": "Suffolk City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-virginia-beach",
+   "short": "Virginia Beach City charter",
+   "title": "Virginia Beach City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-waynesboro",
+   "short": "Waynesboro City charter",
+   "title": "Waynesboro City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-williamsburg",
+   "short": "Williamsburg City charter",
+   "title": "Williamsburg City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-city-winchester",
+   "short": "Winchester City charter",
+   "title": "Winchester City charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-abingdon",
+   "short": "Abingdon Town charter",
+   "title": "Abingdon Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-alberta",
+   "short": "Alberta Town charter",
+   "title": "Alberta Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1978-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-altavista",
+   "short": "Altavista Town charter",
+   "title": "Altavista Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-amherst",
+   "short": "Amherst Town charter",
+   "title": "Amherst Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-appalachia",
+   "short": "Appalachia Town charter",
+   "title": "Appalachia Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1988-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-appomattox",
+   "short": "Appomattox Town charter",
+   "title": "Appomattox Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-ashland",
+   "short": "Ashland Town charter",
+   "title": "Ashland Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-bedford",
+   "short": "Bedford Town charter",
+   "title": "Bedford Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-berryville",
+   "short": "Berryville Town charter",
+   "title": "Berryville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-big-stone-gap",
+   "short": "Big Stone Gap Town charter",
+   "title": "Big Stone Gap Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1988-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-blacksburg",
+   "short": "Blacksburg Town charter",
+   "title": "Blacksburg Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-blackstone",
+   "short": "Blackstone Town charter",
+   "title": "Blackstone Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-bluefield",
+   "short": "Bluefield Town charter",
+   "title": "Bluefield Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-boones-mill",
+   "short": "Boones Mill Town charter",
+   "title": "Boones Mill Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-bowling-green",
+   "short": "Bowling Green Town charter",
+   "title": "Bowling Green Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-boyce",
+   "short": "Boyce Town charter",
+   "title": "Boyce Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-boydton",
+   "short": "Boydton Town charter",
+   "title": "Boydton Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1991-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-boykins",
+   "short": "Boykins Town charter",
+   "title": "Boykins Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-branchville",
+   "short": "Branchville Town charter",
+   "title": "Branchville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-bridgewater",
+   "short": "Bridgewater Town charter",
+   "title": "Bridgewater Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-broadway",
+   "short": "Broadway Town charter",
+   "title": "Broadway Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-brodnax",
+   "short": "Brodnax Town charter",
+   "title": "Brodnax Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-brookneal",
+   "short": "Brookneal Town charter",
+   "title": "Brookneal Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-buchanan",
+   "short": "Buchanan Town charter",
+   "title": "Buchanan Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-burkeville",
+   "short": "Burkeville Town charter",
+   "title": "Burkeville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1972-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-cape-charles",
+   "short": "Cape Charles Town charter",
+   "title": "Cape Charles Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-capron",
+   "short": "Capron Town charter",
+   "title": "Capron Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-cedar-bluff",
+   "short": "Cedar Bluff Town charter",
+   "title": "Cedar Bluff Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-charlotte-court-house",
+   "short": "Charlotte Court House Town charter",
+   "title": "Charlotte Court House Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1989-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-chase-city",
+   "short": "Chase City Town charter",
+   "title": "Chase City Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-chatham",
+   "short": "Chatham Town charter",
+   "title": "Chatham Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-cheriton",
+   "short": "Cheriton Town charter",
+   "title": "Cheriton Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-chilhowie",
+   "short": "Chilhowie Town charter",
+   "title": "Chilhowie Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1984-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-chincoteague",
+   "short": "Chincoteague Town charter",
+   "title": "Chincoteague Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1994-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-christiansburg",
+   "short": "Christiansburg Town charter",
+   "title": "Christiansburg Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-claremont",
+   "short": "Claremont Town charter",
+   "title": "Claremont Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1977-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-clarksville",
+   "short": "Clarksville Town charter",
+   "title": "Clarksville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-clifton",
+   "short": "Clifton Town charter",
+   "title": "Clifton Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-clifton-forge",
+   "short": "Clifton Forge Town charter",
+   "title": "Clifton Forge Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-clinchco",
+   "short": "Clinchco Town charter",
+   "title": "Clinchco Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1992-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-clinchport",
+   "short": "Clinchport Town charter",
+   "title": "Clinchport Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1975-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-clintwood",
+   "short": "Clintwood Town charter",
+   "title": "Clintwood Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-coeburn",
+   "short": "Coeburn Town charter",
+   "title": "Coeburn Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-colonial-beach",
+   "short": "Colonial Beach Town charter",
+   "title": "Colonial Beach Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-courtland",
+   "short": "Courtland Town charter",
+   "title": "Courtland Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1987-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-craigsville",
+   "short": "Craigsville Town charter",
+   "title": "Craigsville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1986-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-culpeper",
+   "short": "Culpeper Town charter",
+   "title": "Culpeper Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-damascus",
+   "short": "Damascus Town charter",
+   "title": "Damascus Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-dayton",
+   "short": "Dayton Town charter",
+   "title": "Dayton Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-dendron",
+   "short": "Dendron Town charter",
+   "title": "Dendron Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1973-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-drakes-branch",
+   "short": "Drakes Branch Town charter",
+   "title": "Drakes Branch Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1998-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-dublin",
+   "short": "Dublin Town charter",
+   "title": "Dublin Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1975-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-duffield",
+   "short": "Duffield Town charter",
+   "title": "Duffield Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-dumfries",
+   "short": "Dumfries Town charter",
+   "title": "Dumfries Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-dungannon",
+   "short": "Dungannon Town charter",
+   "title": "Dungannon Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1982-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-eastville",
+   "short": "Eastville Town charter",
+   "title": "Eastville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-edinburg",
+   "short": "Edinburg Town charter",
+   "title": "Edinburg Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1998-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-elkton",
+   "short": "Elkton Town charter",
+   "title": "Elkton Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-exmore",
+   "short": "Exmore Town charter",
+   "title": "Exmore Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-farmville",
+   "short": "Farmville Town charter",
+   "title": "Farmville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-fincastle",
+   "short": "Fincastle Town charter",
+   "title": "Fincastle Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-floyd",
+   "short": "Floyd Town charter",
+   "title": "Floyd Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-fries",
+   "short": "Fries Town charter",
+   "title": "Fries Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1984-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-front-royal",
+   "short": "Front Royal Town charter",
+   "title": "Front Royal Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-gate-city",
+   "short": "Gate City Town charter",
+   "title": "Gate City Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-glade-spring",
+   "short": "Glade Spring Town charter",
+   "title": "Glade Spring Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1972-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-glen-lyn",
+   "short": "Glen Lyn Town charter",
+   "title": "Glen Lyn Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-gordonsville",
+   "short": "Gordonsville Town charter",
+   "title": "Gordonsville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-goshen",
+   "short": "Goshen Town charter",
+   "title": "Goshen Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1980-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-gretna",
+   "short": "Gretna Town charter",
+   "title": "Gretna Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-grottoes",
+   "short": "Grottoes Town charter",
+   "title": "Grottoes Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-grundy",
+   "short": "Grundy Town charter",
+   "title": "Grundy Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1993-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-halifax",
+   "short": "Halifax Town charter",
+   "title": "Halifax Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-hamilton",
+   "short": "Hamilton Town charter",
+   "title": "Hamilton Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1993-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-haymarket",
+   "short": "Haymarket Town charter",
+   "title": "Haymarket Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-haysi",
+   "short": "Haysi Town charter",
+   "title": "Haysi Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-herndon",
+   "short": "Herndon Town charter",
+   "title": "Herndon Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-hillsboro",
+   "short": "Hillsboro Town charter",
+   "title": "Hillsboro Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-hillsville",
+   "short": "Hillsville Town charter",
+   "title": "Hillsville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1992-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-honaker",
+   "short": "Honaker Town charter",
+   "title": "Honaker Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-hurt",
+   "short": "Hurt Town charter",
+   "title": "Hurt Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-independence",
+   "short": "Independence Town charter",
+   "title": "Independence Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1993-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-iron-gate",
+   "short": "Iron Gate Town charter",
+   "title": "Iron Gate Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-irvington",
+   "short": "Irvington Town charter",
+   "title": "Irvington Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-jonesville",
+   "short": "Jonesville Town charter",
+   "title": "Jonesville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-keller",
+   "short": "Keller Town charter",
+   "title": "Keller Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1993-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-kenbridge",
+   "short": "Kenbridge Town charter",
+   "title": "Kenbridge Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-keysville",
+   "short": "Keysville Town charter",
+   "title": "Keysville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-kilmarnock",
+   "short": "Kilmarnock Town charter",
+   "title": "Kilmarnock Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-la-crosse",
+   "short": "La Crosse Town charter",
+   "title": "La Crosse Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-lawrenceville",
+   "short": "Lawrenceville Town charter",
+   "title": "Lawrenceville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-lebanon",
+   "short": "Lebanon Town charter",
+   "title": "Lebanon Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1992-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-leesburg",
+   "short": "Leesburg Town charter",
+   "title": "Leesburg Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-louisa",
+   "short": "Louisa Town charter",
+   "title": "Louisa Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-lovettsville",
+   "short": "Lovettsville Town charter",
+   "title": "Lovettsville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-luray",
+   "short": "Luray Town charter",
+   "title": "Luray Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-madison",
+   "short": "Madison Town charter",
+   "title": "Madison Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1994-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-marion",
+   "short": "Marion Town charter",
+   "title": "Marion Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1975-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-mckenney",
+   "short": "McKenney Town charter",
+   "title": "McKenney Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1972-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-middleburg",
+   "short": "Middleburg Town charter",
+   "title": "Middleburg Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-middletown",
+   "short": "Middletown Town charter",
+   "title": "Middletown Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-mineral",
+   "short": "Mineral Town charter",
+   "title": "Mineral Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1972-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-monterey",
+   "short": "Monterey Town charter",
+   "title": "Monterey Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-montross",
+   "short": "Montross Town charter",
+   "title": "Montross Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-mount-crawford",
+   "short": "Mount Crawford Town charter",
+   "title": "Mount Crawford Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-mount-jackson",
+   "short": "Mount Jackson Town charter",
+   "title": "Mount Jackson Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1981-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-narrows",
+   "short": "Narrows Town charter",
+   "title": "Narrows Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-new-castle",
+   "short": "New Castle Town charter",
+   "title": "New Castle Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-new-market",
+   "short": "New Market Town charter",
+   "title": "New Market Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-occoquan",
+   "short": "Occoquan Town charter",
+   "title": "Occoquan Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-onancock",
+   "short": "Onancock Town charter",
+   "title": "Onancock Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1998-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-onley",
+   "short": "Onley Town charter",
+   "title": "Onley Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-orange",
+   "short": "Orange Town charter",
+   "title": "Orange Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-painter",
+   "short": "Painter Town charter",
+   "title": "Painter Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1987-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-pamplin-city",
+   "short": "Pamplin City Town charter",
+   "title": "Pamplin City Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1979-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-parksley",
+   "short": "Parksley Town charter",
+   "title": "Parksley Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-pearisburg",
+   "short": "Pearisburg Town charter",
+   "title": "Pearisburg Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-pembroke",
+   "short": "Pembroke Town charter",
+   "title": "Pembroke Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1972-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-pennington-gap",
+   "short": "Pennington Gap Town charter",
+   "title": "Pennington Gap Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1985-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-phenix",
+   "short": "Phenix Town charter",
+   "title": "Phenix Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1988-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-plains-the",
+   "short": "Plains, The Town charter",
+   "title": "Plains, The Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-pocahontas",
+   "short": "Pocahontas Town charter",
+   "title": "Pocahontas Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-port-royal",
+   "short": "Port Royal Town charter",
+   "title": "Port Royal Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-pound",
+   "short": "Pound Town charter",
+   "title": "Pound Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-pulaski",
+   "short": "Pulaski Town charter",
+   "title": "Pulaski Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-purcellville",
+   "short": "Purcellville Town charter",
+   "title": "Purcellville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-quantico",
+   "short": "Quantico Town charter",
+   "title": "Quantico Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-remington",
+   "short": "Remington Town charter",
+   "title": "Remington Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1977-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-rich-creek",
+   "short": "Rich Creek Town charter",
+   "title": "Rich Creek Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-ridgeway",
+   "short": "Ridgeway Town charter",
+   "title": "Ridgeway Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1977-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-rocky-mount",
+   "short": "Rocky Mount Town charter",
+   "title": "Rocky Mount Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-round-hill",
+   "short": "Round Hill Town charter",
+   "title": "Round Hill Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1974-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-rural-retreat",
+   "short": "Rural Retreat Town charter",
+   "title": "Rural Retreat Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-saint-paul",
+   "short": "Saint Paul Town charter",
+   "title": "Saint Paul Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1979-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-saltville",
+   "short": "Saltville Town charter",
+   "title": "Saltville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1986-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-scottsburg",
+   "short": "Scottsburg Town charter",
+   "title": "Scottsburg Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1975-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-scottsville",
+   "short": "Scottsville Town charter",
+   "title": "Scottsville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-shenandoah",
+   "short": "Shenandoah Town charter",
+   "title": "Shenandoah Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-smithfield",
+   "short": "Smithfield Town charter",
+   "title": "Smithfield Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-south-boston",
+   "short": "South Boston Town charter",
+   "title": "South Boston Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-south-hill",
+   "short": "South Hill Town charter",
+   "title": "South Hill Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-stanardsville",
+   "short": "Stanardsville Town charter",
+   "title": "Stanardsville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1983-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-stanley",
+   "short": "Stanley Town charter",
+   "title": "Stanley Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-stephens-city",
+   "short": "Stephens City Town charter",
+   "title": "Stephens City Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-stony-creek",
+   "short": "Stony Creek Town charter",
+   "title": "Stony Creek Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1972-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-strasburg",
+   "short": "Strasburg Town charter",
+   "title": "Strasburg Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-stuart",
+   "short": "Stuart Town charter",
+   "title": "Stuart Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-surry",
+   "short": "Surry Town charter",
+   "title": "Surry Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1973-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-tappahannock",
+   "short": "Tappahannock Town charter",
+   "title": "Tappahannock Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1995-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-tazewell",
+   "short": "Tazewell Town charter",
+   "title": "Tazewell Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-timberville",
+   "short": "Timberville Town charter",
+   "title": "Timberville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-troutdale",
+   "short": "Troutdale Town charter",
+   "title": "Troutdale Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-troutville",
+   "short": "Troutville Town charter",
+   "title": "Troutville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-urbanna",
+   "short": "Urbanna Town charter",
+   "title": "Urbanna Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-victoria",
+   "short": "Victoria Town charter",
+   "title": "Victoria Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-vienna",
+   "short": "Vienna Town charter",
+   "title": "Vienna Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-vinton",
+   "short": "Vinton Town charter",
+   "title": "Vinton Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-virgilina",
+   "short": "Virgilina Town charter",
+   "title": "Virgilina Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-wakefield",
+   "short": "Wakefield Town charter",
+   "title": "Wakefield Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1973-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-warrenton",
+   "short": "Warrenton Town charter",
+   "title": "Warrenton Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1987-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-warsaw",
+   "short": "Warsaw Town charter",
+   "title": "Warsaw Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-washington",
+   "short": "Washington Town charter",
+   "title": "Washington Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1985-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-waverly",
+   "short": "Waverly Town charter",
+   "title": "Waverly Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1977-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-weber-city",
+   "short": "Weber City Town charter",
+   "title": "Weber City Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-west-point",
+   "short": "West Point Town charter",
+   "title": "West Point Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-white-stone",
+   "short": "White Stone Town charter",
+   "title": "White Stone Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-windsor",
+   "short": "Windsor Town charter",
+   "title": "Windsor Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-wise",
+   "short": "Wise Town charter",
+   "title": "Wise Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-woodstock",
+   "short": "Woodstock Town charter",
+   "title": "Woodstock Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "1983-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
+  },
+  {
+   "slug": "charter-town-wytheville",
+   "short": "Wytheville Town charter",
+   "title": "Wytheville Town charter",
+   "url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://law.lis.virginia.gov/CSV/Charters.csv",
+     "sha256": "27bd359a40ca0409eba3378777046e9803eff0ef93a008bd5c9c53d7528376e3"
+    }
+   ]
   }
  ]
 }
