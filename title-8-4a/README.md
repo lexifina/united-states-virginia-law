@@ -1,6 +1,6 @@
 # Code of Virginia, Title 8.4A. Commercial Code — Funds Transfers
 
-Va. Code Title 8.4A · 1 versions, from 2025-07-01 (latest in force: 2025-07-01) · <https://law.lis.virginia.gov/vacode/title8.4A/>
+Va. Code Title 8.4A · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://law.lis.virginia.gov/vacode/title8.4A/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

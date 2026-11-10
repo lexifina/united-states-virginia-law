@@ -1,0 +1,7 @@
+# 2002 Acts of Assembly, c. 827: An Act authorizing the issuance of Commonwealth of Virginia General Obligation Bonds in an amount not exceeding $900,488,645 for the purpose of financing the cost of capital projects for educational facilities; authorizing the Treasury Board, by and with the consent of the Governor, to fix the details of the bonds and to provide for the sale of the bonds; authorizing the Treasury Board, by and with the consent of the Governor, to borrow money in anticipation of the issuance of the bonds; authorizing the issuance of refunding bonds, by and with the consent of the Governor; providing for the pledge of the full faith and credit of the Commonwealth for the payment of such obligations; providing that the interest income on such obligations shall be exempt from all taxation by the Commonwealth and any political subdivision thereof; and providing that this act shall not become effective and that no bonds shall be issued hereunder unless this act is approved by a majority of the qualified voters of the Commonwealth voting thereon at an election, as required by Article X, Section 9 (b) of the Constitution of Virginia.
+
+2002 Acts of Assembly, c. 827 · 1 versions, from 2002-07-01 (latest in force: 2002-07-01) · <https://law.lis.virginia.gov/uncodifiedacts/2002/session1/chapter827/>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Act | [act.md](act.md) | 0 |  |

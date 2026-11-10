@@ -17,7 +17,7 @@ Titles were added in parts on 2026-11-02 and 2026-11-03; `data/versions.json` li
 
 ## What it does not show
 
-- **Past versions.** The Legislative Information System publishes the current Code, Constitution and charter text. Earlier charter versions are not included. Code sections marked as taking effect after the retrieval day are left out. The original Code and Constitution entries used retrieval days; the labelled correction set below supplies verified source dates; charter commits use dates from the source's charter and amendment citations, with the ordinary commencement rule in Va. Code § 1-214(A) or an expressly stated later date.
+- **Past versions.** The Legislative Information System publishes the current Code, Constitution and charter text. Earlier charter versions are not included. Code sections marked as taking effect after the retrieval day are left out. The Code and Constitution commits use the retrieval day; charter commits use dates from the source's charter and amendment citations, with the ordinary commencement rule in Va. Code § 1-214(A) or an expressly stated later date.
 - **Other law.** Nine charter records await a verified commencement day. Authorities, compacts, uncodified acts and the Administrative Code are not included.
 - **Dated changes.** Where a section is published in two forms ("Effective until ..." and "Effective ..."), the form in force on the retrieval day is kept.
 - **Notes.** Source notes, histories and annotations are not law text and are not in the files.
@@ -35,11 +35,3 @@ Every version names its source and the sha256 of the data it was read from. Each
 ## Licence
 
 See `LICENSE`. This repository is not legal advice and not an official publication.
-
-## Source date corrections
-
-The labelled source-date correction set records 27 verified Code title dates from amendment commencement clauses and the ordinary statutory rule. The law text is unchanged. 49 other title dates await verified latest-amendment commencement; they retain their historical retrieval-day entries. Exact dates and source evidence are listed in `data/source-date-corrections.json`.
-
-## Known source text gaps
-
-Subsections (d) of Va. Code 8.9A-322 and (b) of 8.9A-709, and two normative tables in 34-4.2, are absent from the inherited record. The official CSVs contain them. The source-date corrections preserve the law files; separate labelled text corrections are still needed.

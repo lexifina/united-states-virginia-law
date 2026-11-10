@@ -1,6 +1,6 @@
 # Code of Virginia, Title 8.4. Commercial Code — Bank Deposits and Collections
 
-Va. Code Title 8.4 · 1 versions, from 2010-10-01 (latest in force: 2010-10-01) · <https://law.lis.virginia.gov/vacode/title8.4/>
+Va. Code Title 8.4 · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://law.lis.virginia.gov/vacode/title8.4/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

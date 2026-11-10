@@ -1,0 +1,7 @@
+# 1998 Acts of Assembly, c. 734: An Act to authorize the issuance of bonds subject to the provisions of Article X, Section 9 (c) of the Constitution of Virginia in an amount not to exceed $89,997,400, plus amounts needed to fund issuance costs, reserve funds and other financing expenses, for the purpose of providing funds, together with any other available funds, for paying all or a portion of the costs incurred or to be incurred for acquiring, constructing and equipping revenue-producing capital projects at institutions of higher education of the Commonwealth; to authorize the Treasury Board, by and with the consent of the Governor, to fix the details of such bonds, to provide for the sale of such bonds at public or private sale, and to issue notes to borrow money in anticipation of the issuance of such bonds; to provide for the pledge of the net revenues of such capital projects and the full faith, credit and taxing power of the Commonwealth for the payment of the principal of and the interest on such bonds; to provide that the interest income on such bonds shall be exempt from all taxation by the Commonwealth and any political subdivision thereof; and to repeal Chapter 845 of the Acts of Assembly of 1996.
+
+1998 Acts of Assembly, c. 734 · 1 versions, from 1998-04-16 (latest in force: 1998-04-16) · <https://law.lis.virginia.gov/uncodifiedacts/1998/session1/chapter734/>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Act | [act.md](act.md) | 0 |  |

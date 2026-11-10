@@ -1,0 +1,7 @@
+# 2023 Acts of Assembly, c. 495: Coal mine methane; Department of Energy shall evaluate policy options to encourage capture and beneficial use, report.
+
+2023 Acts of Assembly, c. 495 · 1 versions, from 2023-07-01 (latest in force: 2023-07-01) · <https://law.lis.virginia.gov/uncodifiedacts/2023/session1/chapter495/>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Act | [act.md](act.md) | 0 |  |

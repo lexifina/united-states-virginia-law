@@ -1,6 +1,6 @@
 # Code of Virginia, Title 8.5A. Uniform Commercial Code — Letters of Credit
 
-Va. Code Title 8.5A · 1 versions, from 2025-07-01 (latest in force: 2025-07-01) · <https://law.lis.virginia.gov/vacode/title8.5A/>
+Va. Code Title 8.5A · 1 versions, from 2026-11-02 (latest in force: 2026-11-02) · <https://law.lis.virginia.gov/vacode/title8.5A/>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

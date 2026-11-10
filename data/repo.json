@@ -3,5 +3,13 @@
  "name": "United States (Virginia)",
  "tz": "America/New_York",
  "future_branch": "future",
- "publisher": "Virginia Division of Legislative Services (law.lis.virginia.gov)"
+ "publisher": "Virginia Division of Legislative Services (law.lis.virginia.gov)",
+ "units": [
+  {
+   "id": "uncodified-acts",
+   "folder": "uncodified-acts",
+   "name": "Uncodified Acts of Assembly",
+   "source": "law.lis.virginia.gov"
+  }
+ ]
 }

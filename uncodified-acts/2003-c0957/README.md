@@ -1,0 +1,7 @@
+# 2003 Acts of Assembly, c. 957: Proposing an amendment to Section 6 of Article II of the Constitution of Virginia, relating to apportionment and the redrawing of state legislative and congressional district boundaries.
+
+2003 Acts of Assembly, c. 957 · 1 versions, from 2003-07-01 (latest in force: 2003-07-01) · <https://law.lis.virginia.gov/uncodifiedacts/2003/session1/chapter957/>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Act | [act.md](act.md) | 0 |  |

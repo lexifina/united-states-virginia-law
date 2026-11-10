@@ -1,0 +1,7 @@
+# 2019 Acts of Assembly, c. 816: An Act to amend and reenact §§ 58.1-601 and 58.1-602, as they are currently effective, 58.1-604, as it is currently effective and as it may become effective, 58.1-605, as it is currently effective, 58.1-612, 58.1-615, as it is currently effective, 58.1-625, as it is currently effective and as it shall become effective, and 58.1-635, as it is currently effective, of the Code of Virginia and the fourth enactment of Chapter 766 of the Acts of Assembly of 2013; to amend the Code of Virginia by adding a section numbered 58.1-612.1; and to repeal the provisions of Chapter 766 of the Acts of Assembly of 2013 amending §§ 58.1-601, 58.1-602, 58.1-605, 58.1-606, 58.1-612, 58.1-615, and 58.1-635, as they may become effective, and to repeal the seventh and fifteenth enactments of Chapter 766 of the Acts of Assembly of 2013 and the twelfth enactment of Chapter 684 of the Acts of Assembly of 2015, as amended by Chapters 854 and 856 of the Acts of Assembly of 2018, relating to remote sales and use tax collection and sufficient activity by dealers and marketplace facilitators as to require registration for sales and use tax collection.
+
+2019 Acts of Assembly, c. 816 · 1 versions, from 2019-07-01 (latest in force: 2019-07-01) · <https://law.lis.virginia.gov/uncodifiedacts/2019/session1/chapter816/>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Act | [act.md](act.md) | 0 |  |

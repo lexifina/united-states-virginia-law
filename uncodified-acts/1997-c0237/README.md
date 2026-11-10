@@ -1,0 +1,7 @@
+# 1997 Acts of Assembly, c. 237: An Act to authorize The College of William and Mary in Virginia to convey certain land to the Department of Transportation; appropriation
+
+1997 Acts of Assembly, c. 237 · 1 versions, from 1997-07-01 (latest in force: 1997-07-01) · <https://law.lis.virginia.gov/uncodifiedacts/1997/session1/chapter237/>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Act | [act.md](act.md) | 0 |  |

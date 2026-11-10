@@ -1,0 +1,7 @@
+# 1999 Acts of Assembly, c. 538: An Act to amend and reenact §§ 33.1-221.1:3 and 58.1-815.1 of the Code of Virginia; to amend and reenact § 2 of the first enactment of Chapter 8 of the Acts of Assembly of the Second Special Session of 1989; and to amend and reenact § 2 of Chapter 391 of the Acts of Assembly of 1993, as amended by Chapters 470 and 597 of the Acts of Assembly of 1994 and by Chapters 740 and 761 of the Acts of Assembly of 1998, relating to the U.S. Route 58 Commonwealth of Virginia Transportation Revenue Bond Act of 1989, the U.S. Route 58 Corridor Development Program, the issuance of bonds to finance the cost of such program, and amendments thereto relating to increasing the principal amount of bonds authorized to be issued to $704,300,000 and designating the projects qualifying for the increase in such financing; and further relating to the Northern Virginia Transportation District Program, the issuance of bonds to finance the costs of such program, the Northern Virginia Transportation District Fund, the use of such fund to pay debt service; the amendments thereto relating to increasing the principal amount of bonds authorized to be issued to $471,200,000 and redesignating the projects qualifying for such financing and the amounts allocated to each such project.
+
+1999 Acts of Assembly, c. 538 · 1 versions, from 1999-07-01 (latest in force: 1999-07-01) · <https://law.lis.virginia.gov/uncodifiedacts/1999/session1/chapter538/>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Act | [act.md](act.md) | 0 |  |
